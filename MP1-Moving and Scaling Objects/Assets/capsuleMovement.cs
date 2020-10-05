@@ -4,38 +4,26 @@ using UnityEngine;
 
 public class capsuleMovement : MonoBehaviour
 {
-    public float setSpeed = 15f;
+    public float setSpeed = 20f;
     private Vector3 startPosition;
 
     // Start is called before the first frame update
     void Start()
     {
         startPosition = this.transform.position;
-        Debug.Log("Start X =" + startPosition.x);
-        Debug.Log("Current X =" + transform.position.x);
-        Debug.Log("Start Y =" + startPosition.y);
-        Debug.Log("Current Y =" + transform.position.y);
     }
 
     // Update is called once per frame
     void Update()
     {
-
+        // Translation
         if (Mathf.Abs(transform.position.x) < Mathf.Abs(startPosition.x * 50.0f))
         {
             if (Input.GetKey(KeyCode.UpArrow))
-            { 
                 transform.Translate(new Vector3(startPosition.x, 0, startPosition.z) * Time.deltaTime * setSpeed);
-                Debug.Log("Start X =" + startPosition.x);
-                Debug.Log("Current X =" + transform.position.x);
-                Debug.Log("Start Z =" + startPosition.z);
-                Debug.Log("Current Z =" + transform.position.z);
-            }
         }
         else
-        {
             transform.position = new Vector3((startPosition.x * 50), 0, (startPosition.z * 50));
-        }
 
         if (Mathf.Abs(transform.position.x) > Mathf.Abs(startPosition.x))
         {
@@ -43,11 +31,20 @@ public class capsuleMovement : MonoBehaviour
                 transform.Translate(new Vector3(-startPosition.x, 0, -startPosition.z) * Time.deltaTime * setSpeed);
         }
         else
-        {
             transform.position = new Vector3(startPosition.x, 0, startPosition.z);
-        }
 
-        if (Input.GetKeyDown(KeyCode.Escape))
+        // Scaling
+        float s = Input.GetAxis("Vertical") * 0.1f;
+        Vector3 size = new Vector3(s, s, s);
+        this.transform.localScale += size;
+
+        if (transform.localScale.x > 5.9f)
+            transform.localScale = new Vector3(5.9f, 5.9f, 5.9f);
+        else if (transform.localScale.x < 1.0f)
+            transform.localScale = new Vector3(1.0f, 1.0f, 1.0f);
+
+        // Quitting
+        if (Input.GetKeyDown(KeyCode.Q))
         {
             Debug.Log("Quitting Game");
             Application.Quit();
