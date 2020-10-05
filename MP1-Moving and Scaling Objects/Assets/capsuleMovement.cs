@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class capsuleMovement : MonoBehaviour
 {
-    public float setSpeed = 20f;
+    public float setSpeed = 60f;
     private Vector3 startPosition;
 
     // Start is called before the first frame update
@@ -17,25 +17,18 @@ public class capsuleMovement : MonoBehaviour
     void Update()
     {
         // Translation
-        if (Mathf.Abs(transform.position.x) < Mathf.Abs(startPosition.x * 50.0f))
-        {
-            if (Input.GetKey(KeyCode.UpArrow))
-                transform.Translate(new Vector3(startPosition.x, 0, startPosition.z) * Time.deltaTime * setSpeed);
-        }
-        else
-            transform.position = new Vector3((startPosition.x * 50), 0, (startPosition.z * 50));
+        float m = Input.GetAxis("Vertical");
+        Vector3 move = new Vector3(m * startPosition.x, m * startPosition.y, m * startPosition.z) * Time.deltaTime * setSpeed;
+        this.transform.Translate(move);
 
-        if (Mathf.Abs(transform.position.x) > Mathf.Abs(startPosition.x))
-        {
-            if (Input.GetKey(KeyCode.DownArrow))
-                transform.Translate(new Vector3(-startPosition.x, 0, -startPosition.z) * Time.deltaTime * setSpeed);
-        }
-        else
-            transform.position = new Vector3(startPosition.x, 0, startPosition.z);
+        if (Mathf.Abs(transform.position.x) > Mathf.Abs(startPosition.x * 50.0f))
+            transform.position = new Vector3((startPosition.x * 50), (startPosition.y * 50), (startPosition.z * 50));
+        else if (Mathf.Abs(transform.position.x) < Mathf.Abs(startPosition.x))
+            transform.position = new Vector3(startPosition.x, startPosition.y, startPosition.z);
 
         // Scaling
         float s = Input.GetAxis("Vertical") * 0.1f;
-        Vector3 size = new Vector3(s, s, s);
+        Vector3 size = new Vector3(s, s, s) * Time.deltaTime * setSpeed;
         this.transform.localScale += size;
 
         if (transform.localScale.x > 5.9f)
@@ -45,9 +38,6 @@ public class capsuleMovement : MonoBehaviour
 
         // Quitting
         if (Input.GetKeyDown(KeyCode.Q))
-        {
-            Debug.Log("Quitting Game");
             Application.Quit();
-        }
     }
 }
