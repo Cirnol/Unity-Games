@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class capsuleMovement : MonoBehaviour
+public class spriteMovement : MonoBehaviour
 {
     public float setSpeed = 60f;
     private Vector3 startPosition;
