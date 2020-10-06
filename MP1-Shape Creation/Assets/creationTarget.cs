@@ -11,10 +11,6 @@ public class creationTarget : MonoBehaviour
     void Start()
     {
         target = transform.position;
-        Debug.Log("X = " + target.x);
-        Debug.Log("Z = " + target.z);
-        Debug.Log("Sphere X = " + transform.position.x);
-        Debug.Log("Sphere Z = " + transform.position.z);
     }
 
     // Update is called once per frame
@@ -29,10 +25,6 @@ public class creationTarget : MonoBehaviour
                 target = hit.point;
                 target.y = transform.position.y;
                 transform.position = target;
-                Debug.Log("X = " + target.x);
-                Debug.Log("Z = " + target.z);
-                Debug.Log("Sphere X = " + transform.position.x);
-                Debug.Log("Sphere Z = " + transform.position.z);
             }
         }
 

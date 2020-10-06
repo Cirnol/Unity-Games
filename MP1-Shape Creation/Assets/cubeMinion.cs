@@ -5,7 +5,7 @@ using UnityEngine;
 public class cubeMinion : MonoBehaviour
 {
     public float setSpeed = 1f;
-    public float degrees;
+    private float degrees;
     private bool positive = true;
     private Vector3 move;
 
