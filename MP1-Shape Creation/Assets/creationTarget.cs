@@ -25,6 +25,7 @@ public class creationTarget : MonoBehaviour
             RaycastHit hit;
             Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
 
+            // Checks for object to be deleted before allowing movement
             if (Physics.Raycast(ray, out hit, 1000.0f, shapesLayer))
             {
                 Destroy(hit.collider.gameObject);
@@ -33,12 +34,16 @@ public class creationTarget : MonoBehaviour
             {
                 if (Physics.Raycast(ray, out hit, 1000.0f, quadLayer))
                 {
-                    target = hit.point;
-                    target.y = transform.position.y;
-                    transform.position = target;
+                    target = hit.point; // Obtain the coordinates
+                    target.y = transform.position.y; // Prevents moving up and down
+                    transform.position = target; // Object moves to those coordinates
                 }
             }
         }
+
+        // Quitting
+        if (Input.GetKeyDown(KeyCode.Escape))
+            Application.Quit();
 
         //Raycast code obtained from: https://answers.unity.com/questions/773911/move-object-to-mouse-click-position.html 
     }
