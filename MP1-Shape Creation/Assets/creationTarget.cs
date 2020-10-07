@@ -6,11 +6,15 @@ using UnityEngine;
 public class creationTarget : MonoBehaviour
 {
     private Vector3 target;
+    private int quadLayer;
+    private int shapesLayer;
 
     // Start is called before the first frame update
     void Start()
     {
         target = transform.position;
+        quadLayer = (1 << 8);
+        shapesLayer = (1 << 9);
     }
 
     // Update is called once per frame
@@ -20,11 +24,19 @@ public class creationTarget : MonoBehaviour
         {
             RaycastHit hit;
             Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
-            if (Physics.Raycast(ray, out hit))
+
+            if (Physics.Raycast(ray, out hit, 1000.0f, shapesLayer))
             {
-                target = hit.point;
-                target.y = transform.position.y;
-                transform.position = target;
+                Destroy(hit.collider.gameObject);
+            }
+            else
+            {
+                if (Physics.Raycast(ray, out hit, 1000.0f, quadLayer))
+                {
+                    target = hit.point;
+                    target.y = transform.position.y;
+                    transform.position = target;
+                }
             }
         }
 

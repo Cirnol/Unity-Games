@@ -34,17 +34,5 @@ public class sphereMinion : MonoBehaviour
 
         if (transform.position.x <= 0)
             positive = true;
-
-        // Deleting
-        if (Input.GetMouseButtonDown(0))
-        {
-            RaycastHit hit;
-            Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
-
-            if (Physics.Raycast(ray, out hit))
-            {
-                Destroy(hit.collider.gameObject);
-            }
-        }
     }
 }

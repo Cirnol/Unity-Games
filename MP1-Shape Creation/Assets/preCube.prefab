@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 6398804539156753984}
   - component: {fileID: 6398804539156753985}
   - component: {fileID: 6398804539156754013}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: preCube
   m_TagString: Untagged
   m_Icon: {fileID: 0}

@@ -1382,7 +1382,7 @@ GameObject:
   - component: {fileID: 1302800519}
   - component: {fileID: 1302800518}
   - component: {fileID: 1302800517}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: CreationPlane
   m_TagString: Untagged
   m_Icon: {fileID: 0}
