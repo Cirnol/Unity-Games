@@ -4,19 +4,26 @@ using UnityEngine;
 
 public class heroMovement : MonoBehaviour
 {
-    Rigidbody2D m_Rigidbody;
-    public float initialSpeed = 20f; 
-    private float setSpeed = 1f;
     private bool mouse;
     Vector3 mousePos;
-    private float degrees;
+
+    Rigidbody2D m_Rigidbody;
+    private float speed;
+    private float initialSpeed;
+    
+    private float rotateSpeed;
+    private Quaternion initialRotation;
 
     // Start is called before the first frame update
     void Start()
     {
-        m_Rigidbody = GetComponent<Rigidbody2D>();
         mouse = true;
-        degrees = 45 * Time.deltaTime * setSpeed;
+
+        m_Rigidbody = GetComponent<Rigidbody2D>();
+        initialSpeed = 20f;
+        
+        rotateSpeed = 1f;
+        initialRotation = transform.rotation;
     }
 
     // Update is called once per frame
@@ -28,41 +35,51 @@ public class heroMovement : MonoBehaviour
             {
                 Debug.Log("Control with WASD now");
                 mouse = false;
+                m_Rigidbody.velocity = transform.up * initialSpeed;
+                speed = initialSpeed;
+                Debug.Log("Initial velocity is: " + m_Rigidbody.velocity);
+                Debug.Log("Initial speed is: " + speed);
             }
 
             mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
             mousePos.z = 0;
             transform.position = mousePos;
-
         }
         else 
         {
-            m_Rigidbody.velocity = transform.up * initialSpeed;
-
             if (Input.GetKeyDown(KeyCode.M))
             {
                 Debug.Log("Control Mode: Mouse");
                 mouse = true;
+                transform.rotation = initialRotation;
             }
 
             if (Input.GetKey(KeyCode.W))
             {
-                m_Rigidbody.velocity = transform.up * initialSpeed;
+                speed += Time.deltaTime * initialSpeed;
+                m_Rigidbody.velocity = transform.up * speed;
+                Debug.Log("Current velocity is: " + m_Rigidbody.velocity);
+                Debug.Log("Current speed is: " + speed);
             }
 
             if (Input.GetKey(KeyCode.S))
             {
-                m_Rigidbody.velocity = -transform.up * initialSpeed;
+                speed -= Time.deltaTime * initialSpeed;
+                m_Rigidbody.velocity = transform.up * speed;
+                Debug.Log("Current velocity is: " + m_Rigidbody.velocity);
+                Debug.Log("Current speed is: " + speed);
             }
 
             if (Input.GetKey(KeyCode.A))
             {
-                transform.Rotate(new Vector3(0, 0, 45) * Time.deltaTime * setSpeed, Space.World);
+                transform.Rotate(new Vector3(0, 0, 45) * Time.deltaTime * rotateSpeed, Space.World);
+                m_Rigidbody.velocity = transform.up * speed;
             }
 
             if (Input.GetKey(KeyCode.D))
             {
-                transform.Rotate(new Vector3(0, 0, -45) * Time.deltaTime * setSpeed, Space.World);
+                transform.Rotate(new Vector3(0, 0, -45) * Time.deltaTime * rotateSpeed, Space.World);
+                m_Rigidbody.velocity = transform.up * speed;
             }
         }
 
