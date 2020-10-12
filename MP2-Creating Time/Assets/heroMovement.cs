@@ -14,10 +14,6 @@ public class heroMovement : MonoBehaviour
     private float rotateSpeed;
     private Quaternion initialRotation;
 
-    public GameObject egg;
-    private float blastingRate;
-    private float cooldown;
-
     // Start is called before the first frame update
     void Start()
     {
@@ -28,9 +24,6 @@ public class heroMovement : MonoBehaviour
         
         rotateSpeed = 1f;
         initialRotation = transform.rotation;
-
-        blastingRate = .2f;
-        cooldown = Time.time + blastingRate;
     }
 
     // Update is called once per frame
@@ -87,16 +80,6 @@ public class heroMovement : MonoBehaviour
             {
                 transform.Rotate(new Vector3(0, 0, -45) * Time.deltaTime * rotateSpeed, Space.World);
                 m_Rigidbody.velocity = transform.up * speed;
-            }
-        }
-
-        if(Input.GetKey(KeyCode.Space))
-        {
-            cooldown -= Time.deltaTime;
-            if(cooldown <= 0)
-            {
-                Instantiate(egg, new Vector3(transform.position.x, transform.position.y, 0), transform.rotation);
-                cooldown = blastingRate;
             }
         }
 

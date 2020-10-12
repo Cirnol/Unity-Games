@@ -2,11 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class eggBehavior : MonoBehaviour
+public class testBoundary : MonoBehaviour
 {
-    Rigidbody2D m_Rigidbody;
-    private float speed;
-
     private float northLimit;
     private float southLimit;
     private float westLimit;
@@ -15,9 +12,6 @@ public class eggBehavior : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        m_Rigidbody = GetComponent<Rigidbody2D>();
-        speed = 40f;
-
         float camDistance = Vector3.Distance(transform.position, Camera.main.transform.position);
         Vector2 topCorner = Camera.main.ViewportToWorldPoint(new Vector3(1, 1, camDistance));
         Vector2 bottomCorner = Camera.main.ViewportToWorldPoint(new Vector3(0, 0, camDistance));
@@ -25,19 +19,14 @@ public class eggBehavior : MonoBehaviour
         southLimit = bottomCorner.y;
         westLimit = bottomCorner.x;
         eastLimit = topCorner.x;
-        Debug.Log("Egg Created");
+
+        
     }
 
     // Update is called once per frame
     void Update()
     {
-        m_Rigidbody.velocity = transform.up * speed;
-
-        if ( transform.position.x < westLimit || transform.position.x > eastLimit ||
-            transform.position.y < southLimit || transform.position.y > northLimit )
-        {
-            Destroy(gameObject);
-            Debug.Log("Egg Deleted");
-        }
+        if (Input.GetKey(KeyCode.X))
+            transform.position = new Vector3((eastLimit), (northLimit), (0));
     }
 }
