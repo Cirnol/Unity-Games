@@ -8,13 +8,15 @@ public class heroBlasting : MonoBehaviour
 
     private float blastingRate;
     private float cooldown;
+    private float manualFire;
     private bool firstEgg;
 
     // Start is called before the first frame update
     void Start()
     {
         blastingRate = .2f;
-        cooldown = Time.time + blastingRate;
+        cooldown = blastingRate;
+        //manualFire = blastingRate;
         firstEgg = true;
     }
 
@@ -38,11 +40,15 @@ public class heroBlasting : MonoBehaviour
                 }
             }
         }
-        else
-        {
-            cooldown -= Time.deltaTime;
-            if (cooldown <= 0)
-                firstEgg = true;
-        }
+        //else
+        //{
+        //    manualFire -= Time.deltaTime;
+        //    if (manualFire <= 0)
+        //    {
+        //        firstEgg = true;
+        //        manualFire = blastingRate;
+        //    }
+                
+        //}
     }
 }

@@ -40,4 +40,13 @@ public class eggBehavior : MonoBehaviour
             Debug.Log("Egg Deleted");
         }
     }
+
+    void OnCollisionEnter2D(Collision2D otherThing)
+    {
+        if (otherThing.gameObject.tag == "Enemy")
+        {
+            Destroy(gameObject);
+            Debug.Log("Egg Deleted");
+        }
+    }
 }
