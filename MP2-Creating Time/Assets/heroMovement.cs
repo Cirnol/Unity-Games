@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class heroMovement : MonoBehaviour
 {
-    private bool mouse;
+    public static bool mouseCheck;
     Vector3 mousePos;
 
     Rigidbody2D m_Rigidbody;
@@ -17,7 +17,7 @@ public class heroMovement : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        mouse = true;
+        mouseCheck = true;
 
         m_Rigidbody = GetComponent<Rigidbody2D>();
         initialSpeed = 20f;
@@ -29,12 +29,12 @@ public class heroMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (mouse)
+        if (mouseCheck)
         {
             if (Input.GetKeyDown(KeyCode.M))
             {
                 Debug.Log("Control with WASD now");
-                mouse = false;
+                mouseCheck = false;
                 m_Rigidbody.velocity = transform.up * initialSpeed;
                 speed = initialSpeed;
                 Debug.Log("Initial velocity is: " + m_Rigidbody.velocity);
@@ -50,7 +50,7 @@ public class heroMovement : MonoBehaviour
             if (Input.GetKeyDown(KeyCode.M))
             {
                 Debug.Log("Control Mode: Mouse");
-                mouse = true;
+                mouseCheck = true;
                 transform.rotation = initialRotation;
             }
 

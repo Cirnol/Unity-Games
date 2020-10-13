@@ -12,6 +12,8 @@ public class eggBehavior : MonoBehaviour
     private float westLimit;
     private float eastLimit;
 
+    public static int eggsVisible;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -25,7 +27,8 @@ public class eggBehavior : MonoBehaviour
         southLimit = bottomCorner.y;
         westLimit = bottomCorner.x;
         eastLimit = topCorner.x;
-        Debug.Log("Egg Created");
+
+        eggsVisible += 1;
     }
 
     // Update is called once per frame
@@ -37,7 +40,7 @@ public class eggBehavior : MonoBehaviour
             transform.position.y < southLimit || transform.position.y > northLimit )
         {
             Destroy(gameObject);
-            Debug.Log("Egg Deleted");
+            eggsVisible -= 1;
         }
     }
 
@@ -46,7 +49,7 @@ public class eggBehavior : MonoBehaviour
         if (otherThing.gameObject.tag == "Enemy")
         {
             Destroy(gameObject);
-            Debug.Log("Egg Deleted");
+            eggsVisible -= 1;
         }
     }
 }

@@ -49,13 +49,14 @@ public class enemySpawner : MonoBehaviour
 
     // Update is called once per frame
     void Update()
-    {  
+    {
+        Debug.Log("Start Counter" + eCounter);
         if (eCounter < 10)
         {
+            eCounter += 1;
             ranX = Random.Range(westLimit * 0.9f, eastLimit * 0.9f);
             ranY = Random.Range(northLimit * 0.9f, southLimit * 0.9f);
             Instantiate(enemy, new Vector2(ranX, ranY), Quaternion.identity);
-            eCounter += 1;
         }
     }
 }

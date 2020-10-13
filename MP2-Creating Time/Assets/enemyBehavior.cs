@@ -7,6 +7,8 @@ public class enemyBehavior : MonoBehaviour
 {
     private int health;
     private float alphaMat;
+    public static int playerCheck;
+    public static int destroyedEnemies;
 
     // Start is called before the first frame update
     void Start()
@@ -22,8 +24,8 @@ public class enemyBehavior : MonoBehaviour
         if(health <= 0)
         {
             Destroy(gameObject);
+            destroyedEnemies += 1;
             eCounter -= 1;
-            Debug.Log("Enemy Destroyed");
         }
     }
 
@@ -34,11 +36,11 @@ public class enemyBehavior : MonoBehaviour
             health -= 1;
             alphaMat *= .8f;
             this.GetComponent<SpriteRenderer>().color = new Color(1.0f, 1.0f, 1.0f, alphaMat);
-            Debug.Log("Current Health:" + health);
         }
 
         if (otherThing.gameObject.tag == "Player")
         {
+            playerCheck += 1;
             health = 0;
         }
     }
