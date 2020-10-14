@@ -4,9 +4,13 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Sphere
-  - Cube
-  - Cylinder
+  - Null
+  - Grandparent
+  - Parent
+  - Child
+  - FirstGen
+  - SecondGen
+  - ThirdGen
   layers:
   - Default
   - TransparentFX

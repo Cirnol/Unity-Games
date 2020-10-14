@@ -13,6 +13,7 @@ public class menuFunctions : MonoBehaviour
     public GameObject cube;
     public GameObject sphere;
     public GameObject cyl;
+    private GameObject child;
     private float offSet;
 
     // Start is called before the first frame update
@@ -21,7 +22,7 @@ public class menuFunctions : MonoBehaviour
         menu = GetComponent<Dropdown>();
         tempVal = menu.value;
         val = 0;
-        offSet = 0.1f;
+        offSet = 1f;
         spawn = new Vector3(1, 1, 1);
     }
 
@@ -37,22 +38,121 @@ public class menuFunctions : MonoBehaviour
         }
         else
         {
-            spawn = new Vector3(1 - offSet, 1 - offSet, 1 - offSet);
+            spawn = new Vector3(offSet, offSet, offSet);
             Debug.Log("Current selected object: NULL");
         }
            
 
         if (val == 1)
         {
-            Instantiate(cube, new Vector3(spawn.x + offSet, spawn.y + offSet, spawn.z + offSet), Quaternion.identity);
+            child = Instantiate(cube, new Vector3(spawn.x + offSet, spawn.y + offSet, spawn.z + offSet), Quaternion.identity);
+
+            // Assigning color and generation
+            if(selectedObj != null)
+            {
+                if (selectedObj.tag == "Grandparent")
+                {
+                    child.transform.parent = selectedObj.transform;
+                    child.tag = "FirstGen";
+                    child.GetComponent<MeshRenderer>().material.color = new Color(.1f, 1f, .1f, 1f); // Green
+                }
+                else
+                {
+                    if (selectedObj.tag == "Parent")
+                    {
+                        child.transform.parent = selectedObj.transform;
+                        child.tag = "SecondGen";
+                        child.GetComponent<MeshRenderer>().material.color = new Color(1f, 0f, .25f, 1f); // Red
+                    }
+                    else
+                    {
+                        child.transform.parent = selectedObj.transform;
+                        child.tag = "ThirdGen";
+                        child.GetComponent<MeshRenderer>().material.color = new Color(1f, 1f, 1f, 1f); // White
+                    }
+                }
+            }
+            else
+            {
+                child.transform.parent = null;
+                child.tag = "Null";
+                child.GetComponent<MeshRenderer>().material.color = new Color(.1f, 0f, .1f, 1f); // Black
+            }
+
         }
         if (val == 2)
         {
-            Instantiate(sphere, new Vector3(spawn.x + offSet, spawn.y + offSet, spawn.z + offSet), Quaternion.identity);
+            child = Instantiate(sphere, new Vector3(spawn.x + offSet, spawn.y + offSet, spawn.z + offSet), Quaternion.identity);
+
+            // Assigning color and generation
+            if (selectedObj != null)
+            {
+                if (selectedObj.tag == "Grandparent")
+                {
+                    child.transform.parent = selectedObj.transform;
+                    child.tag = "FirstGen";
+                    child.GetComponent<MeshRenderer>().material.color = new Color(.1f, 1f, .1f, 1f); // Green
+                }
+                else
+                {
+                    if (selectedObj.tag == "Parent")
+                    {
+                        child.transform.parent = selectedObj.transform;
+                        child.tag = "SecondGen";
+                        child.GetComponent<MeshRenderer>().material.color = new Color(1f, 0f, .25f, 1f); // Red
+                    }
+                    else
+                    {
+                        child.transform.parent = selectedObj.transform;
+                        child.tag = "ThirdGen";
+                        child.GetComponent<MeshRenderer>().material.color = new Color(1f, 1f, 1f, 1f); // White
+                    }
+                }
+            }
+            else
+            {
+                child.transform.parent = null;
+                child.tag = "Null";
+                child.GetComponent<MeshRenderer>().material.color = new Color(.1f, 0f, .1f, 1f); // Black
+            }
+
         }
         if (val == 3)
         {
-            Instantiate(cyl, new Vector3(spawn.x + offSet, spawn.y + offSet, spawn.z + offSet), Quaternion.identity);
+            child = Instantiate(cyl, new Vector3(spawn.x + offSet, spawn.y + offSet, spawn.z + offSet), Quaternion.identity);
+
+            // Assigning color and generation
+            if (selectedObj != null)
+            {
+                if (selectedObj.tag == "Grandparent")
+                {
+                    child.transform.parent = selectedObj.transform;
+                    child.tag = "FirstGen";
+                    child.GetComponent<MeshRenderer>().material.color = new Color(.1f, 1f, .1f, 1f); // Green
+                }
+                else
+                {
+                    if (selectedObj.tag == "Parent")
+                    {
+                        child.transform.parent = selectedObj.transform;
+                        child.tag = "SecondGen";
+                        child.GetComponent<MeshRenderer>().material.color = new Color(1f, 0f, .25f, 1f); // Red
+                    }
+                    else
+                    {
+                        child.transform.parent = selectedObj.transform;
+                        child.tag = "ThirdGen";
+                        child.GetComponent<MeshRenderer>().material.color = new Color(1f, 1f, 1f, 1f); // White
+                    }
+                }
+            }
+            else
+            {
+                child.transform.parent = null;
+                child.tag = "Null";
+                child.GetComponent<MeshRenderer>().material.color = new Color(.1f, 0f, .1f, 1f); // Black
+            }
+
         }
 
         menu.value = tempVal;
