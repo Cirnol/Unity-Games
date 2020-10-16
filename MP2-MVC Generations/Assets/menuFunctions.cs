@@ -46,9 +46,10 @@ public class menuFunctions : MonoBehaviour
         if (val == 1)
         {
             child = Instantiate(cube, new Vector3(spawn.x + offSet, spawn.y + offSet, spawn.z + offSet), Quaternion.identity);
+            child.name = "Cube";
 
             // Assigning color and generation
-            if(selectedObj != null)
+            if (selectedObj != null)
             {
                 if (selectedObj.tag == "Grandparent")
                 {
@@ -83,6 +84,7 @@ public class menuFunctions : MonoBehaviour
         if (val == 2)
         {
             child = Instantiate(sphere, new Vector3(spawn.x + offSet, spawn.y + offSet, spawn.z + offSet), Quaternion.identity);
+            child.name = "Sphere";
 
             // Assigning color and generation
             if (selectedObj != null)
@@ -120,6 +122,7 @@ public class menuFunctions : MonoBehaviour
         if (val == 3)
         {
             child = Instantiate(cyl, new Vector3(spawn.x + offSet, spawn.y + offSet, spawn.z + offSet), Quaternion.identity);
+            child.name = "Cylinder";
 
             // Assigning color and generation
             if (selectedObj != null)
