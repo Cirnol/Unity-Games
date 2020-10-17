@@ -76,32 +76,4 @@ public class selectingScript : MonoBehaviour
             }
         }
     }
-
-    //void OnMouseEnter()
-    //{
-
-    //    if (gameObject.tag == "Cube")
-    //        rend.GetComponent<MeshRenderer>().material.color = new Color(.1f, 1f, 1f, .64f);
-    //    if (gameObject.tag == "Sphere")
-    //        rend.GetComponent<MeshRenderer>().material.color = new Color(.1f, 1f, .1f, .64f);
-    //    if (gameObject.tag == "Cylinder")
-    //        rend.GetComponent<MeshRenderer>().material.color = new Color(1f, 0f, .25f, .64f);
-    //    if (gameObject.tag == "Null")
-    //        rend.GetComponent<MeshRenderer>().material.color = new Color(.1f, 0f, .1f, .64f);
-        
-    //}
-
-    //void OnMouseExit()
-    //{
-    //    alphaMat = 1;
-
-    //    if (gameObject.tag == "Cube")
-    //        this.GetComponent<MeshRenderer>().material.color = new Color(.1f, 1f, 1f, alphaMat);
-    //    if (gameObject.tag == "Sphere")
-    //        this.GetComponent<MeshRenderer>().material.color = new Color(.1f, 1f, .1f, alphaMat);
-    //    if (gameObject.tag == "Cylinder")
-    //        this.GetComponent<MeshRenderer>().material.color = new Color(1f, 0f, .25f, alphaMat);
-    //    if (gameObject.tag == "Null")
-    //        this.GetComponent<MeshRenderer>().material.color = new Color(.1f, 0f, .1f, alphaMat);
-    //}
 }

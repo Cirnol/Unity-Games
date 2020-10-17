@@ -34,12 +34,10 @@ public class menuFunctions : MonoBehaviour
         if(selectedObj != null)
         {
             spawn = selectedObj.transform.position;
-            Debug.Log("Current selected object: " + selectedObj.tag);
         }
         else
         {
             spawn = new Vector3(offSet, offSet, offSet);
-            Debug.Log("Current selected object: NULL");
         }
            
 
@@ -155,11 +153,9 @@ public class menuFunctions : MonoBehaviour
                 child.tag = "Null";
                 child.GetComponent<MeshRenderer>().material.color = new Color(.1f, 0f, .1f, 1f); // Black
             }
-
         }
 
         menu.value = tempVal;
         val = menu.value;
-
     }
 }

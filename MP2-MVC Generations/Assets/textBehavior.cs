@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-//using UnityEngine.UIElements;
 using static selectingScript;
 
 public class textBehavior : MonoBehaviour
@@ -39,11 +38,10 @@ public class textBehavior : MonoBehaviour
         }
 
         thisText = XSliderText.GetComponent<Text>();
-        thisText.text = "X                  " + sliderX.value;
+        thisText.text = "X            " + sliderX.value;
         thisText = YSliderText.GetComponent<Text>();
-        thisText.text = "X                  " + sliderY.value;
+        thisText.text = "Y            " + sliderY.value;
         thisText = ZSliderText.GetComponent<Text>();
-        thisText.text = "X                  " + sliderZ.value;
-
+        thisText.text = "Z            " + sliderZ.value;
     }
 }

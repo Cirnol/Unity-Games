@@ -540,6 +540,26 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 365122230}
   m_CullTransparentMesh: 0
+--- !u!1 &383820531 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7644875192888059185, guid: 06b5c1a7637a25e459cac4c73a2aa667,
+    type: 3}
+  m_PrefabInstance: {fileID: 7644875192414236916}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &383820537
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 383820531}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_Mesh: {fileID: 10206, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!1 &440050804
 GameObject:
   m_ObjectHideFlags: 0
@@ -2243,6 +2263,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40b661c6891cc6744b21f9757a194f90, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  cameraObj: {fileID: 963194225}
+  translateTog: {fileID: 957691615}
+  rotateTog: {fileID: 1921301293}
+  scaleTog: {fileID: 162876200}
   sliderX: {fileID: 447700059}
   sliderY: {fileID: 1813732009}
   sliderZ: {fileID: 741952183}
@@ -4249,6 +4273,26 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1932093308}
   m_CullTransparentMesh: 0
+--- !u!1 &1950076976 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5933424370493890900, guid: 4723a0d8c08fb0c41821c10f5c084f57,
+    type: 3}
+  m_PrefabInstance: {fileID: 5933424370287466939}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1950076981
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1950076976}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!1 &1955095392
 GameObject:
   m_ObjectHideFlags: 0
@@ -4508,6 +4552,26 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2086575445}
   m_CullTransparentMesh: 0
+--- !u!1 &2143516171 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 9078237759839529963, guid: 6c64ec5c6dff968429f952dad1700492,
+    type: 3}
+  m_PrefabInstance: {fileID: 9078237758278378970}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &2143516176
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2143516171}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!1001 &5933424370287466939
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4578,6 +4642,11 @@ PrefabInstance:
     - target: {fileID: 5933424371480772559, guid: 4723a0d8c08fb0c41821c10f5c084f57,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5933424370493890890, guid: 4723a0d8c08fb0c41821c10f5c084f57,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -4654,6 +4723,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7644875192888059187, guid: 06b5c1a7637a25e459cac4c73a2aa667,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 06b5c1a7637a25e459cac4c73a2aa667, type: 3}
 --- !u!1001 &9078237758278378970
@@ -4726,6 +4800,11 @@ PrefabInstance:
     - target: {fileID: 9078237759839529967, guid: 6c64ec5c6dff968429f952dad1700492,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9078237759839529961, guid: 6c64ec5c6dff968429f952dad1700492,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
