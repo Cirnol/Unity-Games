@@ -83,8 +83,6 @@ public class selectingScript : MonoBehaviour
         // Delete Object
         if (Input.GetMouseButtonDown(1))
         {
-            Debug.Log("Right click!");
-
             if (EventSystem.current.IsPointerOverGameObject())
                 return;
 
