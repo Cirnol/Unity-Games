@@ -157,5 +157,15 @@ public class menuFunctions : MonoBehaviour
 
         menu.value = tempVal;
         val = menu.value;
+
+        // Extra Functions
+
+        // Reset App
+        if (Input.GetKeyDown(KeyCode.Backspace))
+            Application.LoadLevel(Application.loadedLevelName);
+
+        // Quitting
+        if (Input.GetKeyDown(KeyCode.Escape))
+            Application.Quit();
     }
 }

@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using System.IO.MemoryMappedFiles;
 using UnityEngine;
 using UnityEngine.EventSystems;
 
@@ -10,6 +11,7 @@ public class selectingScript : MonoBehaviour
     private int uiLayer;
     private float alphaMat;
     public static GameObject selectedObj;
+    private GameObject objToDelete;
     //public static bool dontRaycast;
     public GameObject dropdownMenu;
 
@@ -75,5 +77,37 @@ public class selectingScript : MonoBehaviour
                 selectedObj = null;
             }
         }
+
+        // Extra Functions
+
+        // Delete Object
+        if (Input.GetMouseButtonDown(1))
+        {
+            Debug.Log("Right click!");
+
+            if (EventSystem.current.IsPointerOverGameObject())
+                return;
+
+            RaycastHit hit;
+            Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
+
+            if (Physics.Raycast(ray, out hit, 1000.0f, shapesLayer))
+            {
+                if (hit.collider.gameObject == gameObject)
+                {
+                    objToDelete = gameObject;
+
+                    if (objToDelete.name == "Cube")
+                        Destroy(gameObject);
+
+                    if (objToDelete.name == "Sphere")
+                        Destroy(gameObject);
+
+                    if (objToDelete.name == "Cylinder")
+                        Destroy(gameObject);
+                }
+            }
+        }
+
     }
 }
