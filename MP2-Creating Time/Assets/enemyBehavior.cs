@@ -16,6 +16,8 @@ public class enemyBehavior : MonoBehaviour
         Debug.Log("Enemy Created");
         health = 4;
         alphaMat = 1f;
+
+        gameObject.GetComponent<Animator>().Play("Idle");
     }
 
     // Update is called once per frame
@@ -36,6 +38,7 @@ public class enemyBehavior : MonoBehaviour
             health -= 1;
             alphaMat *= .8f;
             this.GetComponent<SpriteRenderer>().color = new Color(1.0f, 1.0f, 1.0f, alphaMat);
+            gameObject.GetComponent<Animator>().Play("Eating");
         }
 
         if (otherThing.gameObject.tag == "Player")

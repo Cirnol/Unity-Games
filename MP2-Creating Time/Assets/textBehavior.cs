@@ -46,14 +46,14 @@ public class textBehavior : MonoBehaviour
         if(eggsVisible > currentEggs)
         {
             thisText = eggText.GetComponent<Text>();
-            thisText.text = "EGG: OnScreen(" + eggsVisible + ")";
+            thisText.text = "SUSHI: OnScreen(" + eggsVisible + ")";
             currentEggs += 1;
         }
 
         if (eggsVisible < currentEggs)
         {
             thisText = eggText.GetComponent<Text>();
-            thisText.text = "EGG: OnScreen(" + eggsVisible + ")";
+            thisText.text = "SUSHI: OnScreen(" + eggsVisible + ")";
             currentEggs -= 1;
         }
 
