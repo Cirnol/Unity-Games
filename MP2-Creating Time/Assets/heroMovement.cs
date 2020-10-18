@@ -41,6 +41,18 @@ public class heroMovement : MonoBehaviour
                 Debug.Log("Initial speed is: " + speed);
             }
 
+            if (Input.GetKey(KeyCode.A))
+            {
+                transform.Rotate(new Vector3(0, 0, 45) * Time.deltaTime * rotateSpeed, Space.World);
+                m_Rigidbody.velocity = transform.up * speed;
+            }
+
+            if (Input.GetKey(KeyCode.D))
+            {
+                transform.Rotate(new Vector3(0, 0, -45) * Time.deltaTime * rotateSpeed, Space.World);
+                m_Rigidbody.velocity = transform.up * speed;
+            }
+
             mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
             mousePos.z = 0;
             transform.position = mousePos;
