@@ -18,6 +18,7 @@ public class waypointBehavior : MonoBehaviour
 
     private int health;
     private float alphaMat;
+    private bool toggleHide;
 
     public static bool waypointMissing;
     public static int whichWaypoint;
@@ -25,6 +26,8 @@ public class waypointBehavior : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        toggleHide = false;
+
         if (gameObject.name == "WPA")
         {
             gameObject.GetComponent<SpriteRenderer>().sprite = a;
@@ -33,21 +36,41 @@ public class waypointBehavior : MonoBehaviour
         }
 
         if (gameObject.name == "WPB")
+        {
             gameObject.GetComponent<SpriteRenderer>().sprite = b;
+            startPosX = 70;
+            startPosY = -70;
+        }
 
         if (gameObject.name == "WPC")
+        {
             gameObject.GetComponent<SpriteRenderer>().sprite = c;
+            startPosX = 30;
+            startPosY = 0;
+        }
 
         if (gameObject.name == "WPD")
+        {
             gameObject.GetComponent<SpriteRenderer>().sprite = d;
+            startPosX = -70;
+            startPosY = -70;
+        }
 
         if (gameObject.name == "WPE")
+        {
             gameObject.GetComponent<SpriteRenderer>().sprite = e;
+            startPosX = 70;
+            startPosY = 70;
+        }
 
         if (gameObject.name == "WPF")
+        {
             gameObject.GetComponent<SpriteRenderer>().sprite = f;
+            startPosX = -30;
+            startPosY = 0;
+        }
 
-        health = 3;
+        health = 4;
         alphaMat = 1;
         waypointMissing = false;
         whichWaypoint = 0;
@@ -58,8 +81,6 @@ public class waypointBehavior : MonoBehaviour
     {
         if (health <= 0)
         {
-            Debug.Log("Defeated Waypoint!");
-
             spawnPosX = startPosX;
             spawnPosY = startPosY;
             waypointMissing = true;
@@ -84,8 +105,22 @@ public class waypointBehavior : MonoBehaviour
 
             Destroy(gameObject);
         }
-    }
 
+        if (Input.GetKeyDown(KeyCode.H))
+            toggleHide = !toggleHide;
+
+        if (toggleHide)
+        {
+            gameObject.GetComponent<SpriteRenderer>().enabled = false;
+            gameObject.GetComponent<BoxCollider2D>().enabled = false;
+        }
+        else
+        {
+            gameObject.GetComponent<SpriteRenderer>().enabled = true;
+            gameObject.GetComponent<BoxCollider2D>().enabled = true;
+        }
+
+    }
     void OnCollisionEnter2D(Collision2D otherThing)
     {
         if (otherThing.gameObject.tag == "Bolt")
