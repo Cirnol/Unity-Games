@@ -1,0 +1,9 @@
+Image credits:
+
+Hero sprite and Enemy sprites made and animated by me.
+
+Sushi projectile from: http://mysushihouse.com/sushi-guide/
+
+Sushi background from: https://snowfoxnews.com/2017/01/19/a-brief-history-of-sushi-part-ii/
+
+~~Press Q to quit~~
