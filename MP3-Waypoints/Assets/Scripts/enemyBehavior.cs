@@ -13,7 +13,6 @@ public class enemyBehavior : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("Enemy Created");
         health = 4;
         alphaMat = 1f;
 

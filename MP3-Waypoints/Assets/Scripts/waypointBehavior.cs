@@ -4,76 +4,24 @@ using UnityEngine;
 
 public class waypointBehavior : MonoBehaviour
 {
-    public Sprite a;
-    public Sprite b;
-    public Sprite c;
-    public Sprite d;
-    public Sprite e;
-    public Sprite f;
-
     private float startPosX;
     private float startPosY;
-    public static float spawnPosX;
-    public static float spawnPosY;
+    private float ranX;
+    private float ranY;
 
     private int health;
     private float alphaMat;
     private bool toggleHide;
 
-    public static bool waypointMissing;
-    public static int whichWaypoint;
-
     // Start is called before the first frame update
     void Start()
     {
-        toggleHide = false;
-
-        if (gameObject.name == "WPA")
-        {
-            gameObject.GetComponent<SpriteRenderer>().sprite = a;
-            startPosX = -70;
-            startPosY = 70;
-        }
-
-        if (gameObject.name == "WPB")
-        {
-            gameObject.GetComponent<SpriteRenderer>().sprite = b;
-            startPosX = 70;
-            startPosY = -70;
-        }
-
-        if (gameObject.name == "WPC")
-        {
-            gameObject.GetComponent<SpriteRenderer>().sprite = c;
-            startPosX = 30;
-            startPosY = 0;
-        }
-
-        if (gameObject.name == "WPD")
-        {
-            gameObject.GetComponent<SpriteRenderer>().sprite = d;
-            startPosX = -70;
-            startPosY = -70;
-        }
-
-        if (gameObject.name == "WPE")
-        {
-            gameObject.GetComponent<SpriteRenderer>().sprite = e;
-            startPosX = 70;
-            startPosY = 70;
-        }
-
-        if (gameObject.name == "WPF")
-        {
-            gameObject.GetComponent<SpriteRenderer>().sprite = f;
-            startPosX = -30;
-            startPosY = 0;
-        }
+        startPosX = gameObject.transform.position.x;
+        startPosY = gameObject.transform.position.y;
 
         health = 4;
         alphaMat = 1;
-        waypointMissing = false;
-        whichWaypoint = 0;
+        toggleHide = false;
     }
 
     // Update is called once per frame
@@ -81,29 +29,12 @@ public class waypointBehavior : MonoBehaviour
     {
         if (health <= 0)
         {
-            spawnPosX = startPosX;
-            spawnPosY = startPosY;
-            waypointMissing = true;
-
-            if (gameObject.name == "WPA")
-                whichWaypoint = 1;
-
-            if (gameObject.name == "WPB")
-                whichWaypoint = 2;
-
-            if (gameObject.name == "WPC")
-                whichWaypoint = 3;
-
-            if (gameObject.name == "WPD")
-                whichWaypoint = 4;
-
-            if (gameObject.name == "WPE")
-                whichWaypoint = 5;
-
-            if (gameObject.name == "WPF")
-                whichWaypoint = 6;
-
-            Destroy(gameObject);
+            ranX = Random.Range(-15, 15);
+            ranY = Random.Range(-15, 15);
+            gameObject.transform.position = new Vector3((startPosX + ranX), (startPosY + ranY), 0);
+            alphaMat = 1;
+            gameObject.GetComponent<SpriteRenderer>().color = new Color(1.0f, 1.0f, 1.0f, alphaMat);
+            health = 4;
         }
 
         if (Input.GetKeyDown(KeyCode.H))
