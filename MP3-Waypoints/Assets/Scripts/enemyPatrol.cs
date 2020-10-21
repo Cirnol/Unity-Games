@@ -28,10 +28,21 @@ public class enemyPatrol : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Vector3 relativePos = target.position - transform.position;
 
-        // the second argument, upwards, defaults to Vector3.up
-        Quaternion rotation = Quaternion.LookRotation(relativePos, Vector3.up);
-        transform.rotation = rotation;
+        PointAtPosition(target);
+
+        //Vector3 relativePos = target.position - transform.position;
+
+        //// the second argument, upwards, defaults to Vector3.up
+        //Quaternion rotation = Quaternion.LookRotation(relativePos, Vector3.up);
+        //transform.rotation = rotation;
+    }
+
+    void PointAtPosition(Transform pos)
+    {
+        Vector3 relativePos = pos.position - transform.position;
+        relativePos.Normalize();
+
+        transform.Rotate(relativePos * Time.deltaTime * rotateSpeed, Space.World);
     }
 }

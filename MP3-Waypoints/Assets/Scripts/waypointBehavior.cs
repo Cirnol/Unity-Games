@@ -125,7 +125,6 @@ public class waypointBehavior : MonoBehaviour
     {
         if (otherThing.gameObject.tag == "Bolt")
         {
-            Debug.Log("Ouchie Waypoint!");
             health -= 1;
             alphaMat -= 0.25f;
             this.GetComponent<SpriteRenderer>().color = new Color(1.0f, 1.0f, 1.0f, alphaMat);
