@@ -7,23 +7,27 @@ using static heroMovement;
 using static eggBehavior;
 using static enemyBehavior;
 using static enemyCount;
+using static toggleSequence;
 
 public class textBehavior : MonoBehaviour
 {
     public GameObject heroText;
     public GameObject eggText;
     public GameObject enemyText;
+    public GameObject waypointText;
 
     Text thisText;
 
     private int currentEggs;
     private int currentEnemies;
+    //private bool sequence;
 
     // Start is called before the first frame update
     void Start()
     {
         currentEggs = 0;
         currentEnemies = 0;
+        //sequence = true;
     }
 
     // Update is called once per frame
@@ -63,6 +67,18 @@ public class textBehavior : MonoBehaviour
             thisText = enemyText.GetComponent<Text>();
             currentEnemies += 1;
             thisText.text = "ENEMY: Count(" + eCounter + ") Destroyed(" + destroyedEnemies + ")";
+        }
+
+        // Waypoint Mode
+        if (sequential)
+        {
+            thisText = waypointText.GetComponent<Text>();
+            thisText.text = "Waypoints: (Sequence)";
+        }
+        else
+        {
+            thisText = waypointText.GetComponent<Text>();
+            thisText.text = "Waypoints: (Random)";
         }
 
     }

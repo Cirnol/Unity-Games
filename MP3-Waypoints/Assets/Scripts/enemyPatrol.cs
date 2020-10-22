@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UIElements;
+using static toggleSequence;
 
 public class enemyPatrol : MonoBehaviour
 {
@@ -21,7 +22,8 @@ public class enemyPatrol : MonoBehaviour
     private int nextTarget;
     private int targetWaypoint;
 
-    private bool sequential;
+    //public bool sequential;
+    //public static int seqChanged;
 
     // Start is called before the first frame update
     void Start()
@@ -37,8 +39,10 @@ public class enemyPatrol : MonoBehaviour
         wpE = GameObject.Find("WPE");
         wpF = GameObject.Find("WPF");
 
-        nextTarget = 0;
-        sequential = true;
+        //nextTarget = 0; // Use this if it must be A-F
+        nextTarget = Random.Range(0, 5); // Use this if it can start randomly
+        //sequential = true;
+        //seqChanged = 1;
     }
 
     // Update is called once per frame
@@ -74,10 +78,7 @@ public class enemyPatrol : MonoBehaviour
                 nextTarget++;
             else
                 nextTarget = Random.Range(0, 5);
-        } 
-
-        if (Input.GetKeyDown(KeyCode.J))
-            sequential = !sequential;
+        }
     }
 
     void PointAtPosition(Transform pos)
@@ -86,9 +87,5 @@ public class enemyPatrol : MonoBehaviour
         float angle = Mathf.Atan2(relativePos.y, relativePos.x) * Mathf.Rad2Deg - 90;
         Quaternion q = Quaternion.AngleAxis(angle, Vector3.forward);
         transform.rotation = Quaternion.Lerp(transform.rotation, q, rotateSpeed * Time.deltaTime);
-
-        // transform.rotation = Quaternion.AngleAxis(angle, Vector3.forward);
-        // relativePos.Normalize();
-        // transform.Rotate(relativePos * Time.deltaTime * rotateSpeed, Space.World);
     }
 }

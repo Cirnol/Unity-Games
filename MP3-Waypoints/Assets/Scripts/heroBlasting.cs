@@ -6,49 +6,28 @@ public class heroBlasting : MonoBehaviour
 {
     public GameObject egg;
 
-    private float blastingRate;
-    private float cooldown;
-    private float manualFire;
-    private bool firstEgg;
+    public static float blastingRate;
+    public static float cooldown;
 
     // Start is called before the first frame update
     void Start()
     {
-        blastingRate = .2f;
-        cooldown = blastingRate;
-        //manualFire = blastingRate;
-        firstEgg = true;
+        blastingRate = 0.2f;
+        cooldown = 0;
     }
 
     // Update is called once per frame
     void Update()
     {
+        cooldown -= Time.deltaTime;
+
         if (Input.GetKey(KeyCode.Space))
         {
-            if(firstEgg)
+            if (cooldown <= 0)
             {
                 Instantiate(egg, new Vector3(transform.position.x, transform.position.y, 0), transform.rotation);
-                firstEgg = false;
-            }
-            else
-            {
-                cooldown -= Time.deltaTime;
-                if (cooldown <= 0)
-                {
-                    Instantiate(egg, new Vector3(transform.position.x, transform.position.y, 0), transform.rotation);
-                    cooldown = blastingRate;
-                }
+                cooldown = blastingRate;
             }
         }
-        //else
-        //{
-        //    manualFire -= Time.deltaTime;
-        //    if (manualFire <= 0)
-        //    {
-        //        firstEgg = true;
-        //        manualFire = blastingRate;
-        //    }
-                
-        //}
     }
 }
