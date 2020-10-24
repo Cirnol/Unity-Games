@@ -30,7 +30,8 @@ public class enemyPatrol : MonoBehaviour
     {
         m_Rigidbody = GetComponent<Rigidbody2D>();
         speed = 20f;
-        rotateSpeed = 1.5f;
+        rotateSpeed = 0.03f / 60f;
+        //rotateSpeed = 1.5f; // Only for my rotation method
         
         wpA = GameObject.Find("WPA");
         wpB = GameObject.Find("WPB");
@@ -39,10 +40,8 @@ public class enemyPatrol : MonoBehaviour
         wpE = GameObject.Find("WPE");
         wpF = GameObject.Find("WPF");
 
-        //nextTarget = 0; // Use this if it must be A-F
-        nextTarget = Random.Range(0, 5); // Use this if it can start randomly
-        //sequential = true;
-        //seqChanged = 1;
+        //nextTarget = 0; // Use this if all enemies must start at A
+        nextTarget = Random.Range(0, 5); // Use this if they can start randomly
     }
 
     // Update is called once per frame
@@ -70,7 +69,7 @@ public class enemyPatrol : MonoBehaviour
         if (targetWaypoint == 5)
             target = wpF.transform;
 
-        PointAtPosition(target);
+        PointAtPosition(target.position, rotateSpeed);
 
         if(Vector3.Distance(gameObject.transform.position, target.position) < 25)
         {
@@ -80,12 +79,19 @@ public class enemyPatrol : MonoBehaviour
                 nextTarget = Random.Range(0, 5);
         }
     }
-
-    void PointAtPosition(Transform pos)
+    private void PointAtPosition(Vector3 p, float r)
     {
-        Vector3 relativePos = pos.position - transform.position;
-        float angle = Mathf.Atan2(relativePos.y, relativePos.x) * Mathf.Rad2Deg - 90;
-        Quaternion q = Quaternion.AngleAxis(angle, Vector3.forward);
-        transform.rotation = Quaternion.Lerp(transform.rotation, q, rotateSpeed * Time.deltaTime);
+        Vector3 v = p - transform.localPosition;
+        transform.up = Vector3.LerpUnclamped(transform.up, v, r);
     }
+
+    // My own rotate code is below and it works with a rotation speed of 1.5f
+
+    //void PointAtPosition(Transform pos)
+    //{
+    //    Vector3 relativePos = pos.position - transform.position;
+    //    float angle = Mathf.Atan2(relativePos.y, relativePos.x) * Mathf.Rad2Deg - 90;
+    //    Quaternion q = Quaternion.AngleAxis(angle, Vector3.forward);
+    //    transform.rotation = Quaternion.Lerp(transform.rotation, q, rotateSpeed * Time.deltaTime);
+    //}
 }
