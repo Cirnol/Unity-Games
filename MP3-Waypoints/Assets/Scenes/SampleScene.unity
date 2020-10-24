@@ -929,7 +929,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'HERO: Drive(Mouse) Touched Enemy(0)'
+  m_Text: 'HERO: Drive(Mouse) Touched Ghosts(0)'
 --- !u!222 &862960485
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1319,7 +1319,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'ENEMY: Count(10) Destroyed(0)'
+  m_Text: 'GHOSTS: Count(10) Destroyed(0)'
 --- !u!222 &1595941312
 CanvasRenderer:
   m_ObjectHideFlags: 0

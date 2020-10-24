@@ -37,12 +37,12 @@ public class textBehavior : MonoBehaviour
         if (mouseCheck)
         {
             thisText = heroText.GetComponent<Text>();
-            thisText.text = "HERO: Drive(Mouse) Touched Enemy(" + playerCheck + ")";
+            thisText.text = "HERO: Drive(Mouse) Touched Ghosts(" + playerCheck + ")";
         }
         else
         {
             thisText = heroText.GetComponent<Text>();
-            thisText.text = "HERO: Drive(Key) Touched Enemy(" + playerCheck + ")";
+            thisText.text = "HERO: Drive(Key) Touched Ghosts(" + playerCheck + ")";
         }
 
 
@@ -66,7 +66,7 @@ public class textBehavior : MonoBehaviour
         {
             thisText = enemyText.GetComponent<Text>();
             currentEnemies += 1;
-            thisText.text = "ENEMY: Count(" + eCounter + ") Destroyed(" + destroyedEnemies + ")";
+            thisText.text = "GHOSTS: Count(" + eCounter + ") Destroyed(" + destroyedEnemies + ")";
         }
 
         // Waypoint Mode
