@@ -94,10 +94,6 @@ public class heroMovement : MonoBehaviour
                 m_Rigidbody.velocity = transform.up * speed;
             }
         }
-
-        // Quitting
-        if (Input.GetKeyDown(KeyCode.Q))
-            Application.Quit();
     }
 
     // Transform.up code from: https://docs.unity3d.com/ScriptReference/Transform-up.html 

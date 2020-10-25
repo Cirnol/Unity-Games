@@ -1,9 +1,5 @@
-Image credits:
+Spooky Font: https://www.fontspace.com/spooky-font-f30485
 
-Hero sprite and Enemy sprites made and animated by me.
+Hallway Background: https://pixabay.com/photos/gang-dark-gloomy-creepy-lost-776297/
 
-Sushi projectile from: http://mysushihouse.com/sushi-guide/
-
-Sushi background from: https://snowfoxnews.com/2017/01/19/a-brief-history-of-sushi-part-ii/
-
-~~Press Q to quit~~
+All sprites made by me.

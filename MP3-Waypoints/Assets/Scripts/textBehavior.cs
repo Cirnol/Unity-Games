@@ -15,19 +15,20 @@ public class textBehavior : MonoBehaviour
     public GameObject eggText;
     public GameObject enemyText;
     public GameObject waypointText;
+    public GameObject controlsText;
 
     Text thisText;
 
     private int currentEggs;
     private int currentEnemies;
-    //private bool sequence;
+    private bool hide;
 
     // Start is called before the first frame update
     void Start()
     {
         currentEggs = 0;
         currentEnemies = 0;
-        //sequence = true;
+        hide = true;
     }
 
     // Update is called once per frame
@@ -81,5 +82,17 @@ public class textBehavior : MonoBehaviour
             thisText.text = "Waypoints: (Random)";
         }
 
+        // Hide Controls Text
+        if (Input.GetKeyDown(KeyCode.C))
+        {
+            hide = !hide;
+            thisText = controlsText.GetComponent<Text>();
+            thisText.enabled = hide;
+        }
+
+        // Quitting
+        if (Input.GetKeyDown(KeyCode.Escape))
+            Application.Quit();
+            
     }
 }
