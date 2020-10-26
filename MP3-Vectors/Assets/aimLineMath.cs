@@ -6,10 +6,13 @@ public class aimLineMath : MonoBehaviour
 {
     public GameObject epA;
     public GameObject epB;
+    public GameObject line;
 
     private Vector3 startLine;
     private Vector3 endLine;
     private float width;
+
+    public static Vector3 offset;
 
     // Start is called before the first frame update
     void Start()
@@ -23,13 +26,13 @@ public class aimLineMath : MonoBehaviour
         startLine = epA.transform.position;
         endLine = epB.transform.position;
 
-        Vector3 offset = endLine - startLine;
+        offset = endLine - startLine;
         Vector3 scale = new Vector3(width, offset.magnitude / 2.0f, width);
         var position = startLine + (offset / 2.0f);
 
-        transform.up = offset;
-        transform.localScale = scale;
-        transform.position = position;
+        line.transform.up = offset;
+        line.transform.localScale = scale;
+        line.transform.position = position;
     }
 
     // Cylinder code from: https://answers.unity.com/questions/21174/create-cylinder-primitive-between-2-endpoints.html
