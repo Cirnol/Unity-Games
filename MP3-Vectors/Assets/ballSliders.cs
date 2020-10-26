@@ -12,30 +12,33 @@ public class ballSliders : MonoBehaviour
     private float spawnY;
     private float spawnZ;
 
-    public static float interval;
+    private float interval;
+    private float intervalEcho;
+    public static float setSpeed;
+    public static float lifeSpan;
 
     public Slider intervalSlider;
     public Slider speedSlider;
     public Slider lifeSlider;
 
-    public static float intervalEcho;
-    private float speedEcho;
-    private float lifeEcho;
-
     // Start is called before the first frame update
     void Start()
     {
-        intervalEcho = 0f;
         interval = 1f;
+        intervalEcho = 0f;
+        setSpeed = 15f;
+        lifeSpan = 10f;
     }
 
     // Update is called once per frame
     void Update()
     {
+        // Obtain Endpoint A coordinates
         spawnX = epA.transform.position.x;
         spawnY = epA.transform.position.y;
         spawnZ = epA.transform.position.z;
 
+        // Interval
         if(intervalEcho == intervalSlider.value)
         {
             interval -= Time.deltaTime;
@@ -51,5 +54,8 @@ public class ballSliders : MonoBehaviour
             intervalEcho = intervalSlider.value;
             interval = intervalEcho;
         }
+
+        setSpeed = speedSlider.value;
+        lifeSpan = lifeSlider.value;
     }
 }

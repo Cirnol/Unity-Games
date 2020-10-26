@@ -1393,9 +1393,9 @@ RectTransform:
   - {fileID: 1939029717}
   - {fileID: 1768632640}
   - {fileID: 431968241}
-  - {fileID: 986587028}
-  - {fileID: 1968341956}
   - {fileID: 1231741986}
+  - {fileID: 1968341956}
+  - {fileID: 986587028}
   m_Father: {fileID: 0}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -1721,6 +1721,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ball: {fileID: 6864789024638290353, guid: ffd132a701e219549bc34aaf9dbef796, type: 3}
   epA: {fileID: 700912840}
+  spawnX: 0
+  spawnY: 0
+  spawnZ: 0
 --- !u!1 &986587027
 GameObject:
   m_ObjectHideFlags: 0
@@ -1753,7 +1756,7 @@ RectTransform:
   - {fileID: 224644191}
   - {fileID: 959373808}
   m_Father: {fileID: 808145076}
-  m_RootOrder: 6
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -1803,10 +1806,10 @@ MonoBehaviour:
   m_FillRect: {fileID: 418431119}
   m_HandleRect: {fileID: 1109359653}
   m_Direction: 0
-  m_MinValue: 0
-  m_MaxValue: 1
+  m_MinValue: 1
+  m_MaxValue: 15
   m_WholeNumbers: 0
-  m_Value: 0
+  m_Value: 10
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -2020,7 +2023,7 @@ RectTransform:
   - {fileID: 1127254751}
   - {fileID: 1645930150}
   m_Father: {fileID: 808145076}
-  m_RootOrder: 8
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -2637,10 +2640,10 @@ MonoBehaviour:
   m_FillRect: {fileID: 792835211}
   m_HandleRect: {fileID: 1985910724}
   m_Direction: 0
-  m_MinValue: 0
-  m_MaxValue: 1
+  m_MinValue: 0.5
+  m_MaxValue: 15
   m_WholeNumbers: 0
-  m_Value: 0
+  m_Value: 15
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls: []
