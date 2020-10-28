@@ -8,6 +8,7 @@ public class endPointMovement : MonoBehaviour
     private Vector3 target;
     private int wallA;
     private int wallB;
+    private int badWall;
     public GameObject epA;
     public GameObject epB;
 
@@ -17,6 +18,7 @@ public class endPointMovement : MonoBehaviour
     {
         wallA = (1 << 8);
         wallB = (1 << 9);
+        badWall = (1 << 10);
     }
 
     // Update is called once per frame
@@ -30,7 +32,8 @@ public class endPointMovement : MonoBehaviour
             RaycastHit hit;
             Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
 
-            // Checks for object to be deleted before allowing movement
+            if (Physics.Raycast(ray, out hit, 1000.0f, badWall))
+                return;
 
             if (Physics.Raycast(ray, out hit, 1000.0f, wallA))
             {
