@@ -61,6 +61,7 @@ public class travellingBallBehavior : MonoBehaviour
         float h = Vector3.Dot(centerSphere, n) - d;
         Vector3 intersectionPoint = centerSphere - (n * h); // Predicted point of intersection
         FlatShadow.transform.localPosition = intersectionPoint; // Move the shadows to the intesection point
+        FlatShadow.transform.position += new Vector3(0, 0, -0.05f);
         FlatShadow.transform.forward = n; // Orient the shadows so they're flat against the plane.
 
         float posCheck = Vector3.Dot(n, V); // Needed to check if the sphere is behind the plane
