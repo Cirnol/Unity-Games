@@ -58,31 +58,39 @@ public class travellingBallBehavior : MonoBehaviour
 
         float d = Vector3.Dot(n, center);
         float h = Vector3.Dot(centerSphere, n) - d;
-        Vector3 intersectionPoint = centerSphere - (n * h);
+        Vector3 intersectionPoint = centerSphere - (n * h); // Predicted point of intersection
         FlatShadow.transform.localPosition = intersectionPoint; // Move the shadows to the intesection point
         FlatShadow.transform.forward = n; // Orient the shadows so they're flat against the plane.
-        
-
-        //Debug.DrawLine(shadow.transform.localPosition, this.transform.localPosition, Color.black);
-
-        //Debug.DrawLine(center, pt, Color.black);
-
 
         float posCheck = Vector3.Dot(n, V); // Needed to check if the sphere is behind the plane
-        float dirCheck = Vector3.Dot(n, move);
+        float dirCheck = Vector3.Dot(n, move); // Needed to see if the sphere direction is opposite the normal
         float sphereRadius = transform.localScale.x * 0.5f;
         float barrierRadius = barrier.transform.localScale.x * 0.5f;
 
-        if (Vector3.Distance(intersectionPoint, center) < (barrierRadius))
-        {
-            FlatShadow.GetComponent<MeshRenderer>().enabled = true;
+        float distanceIntersectCenter = (intersectionPoint - center).magnitude;
+        float distanceIntersectSphere = (intersectionPoint - centerSphere).magnitude;
 
-            if (posCheck < 0 && dirCheck < 0) // Check if sphere is behind the plane
+        if (distanceIntersectCenter < (barrierRadius)) // Check if sphere will collide within the radius
+        {
+            if(dirCheck < 0) // Check if the direction of sphere and normal are opposite
             {
-                if (Vector3.Distance(intersectionPoint, transform.position) < sphereRadius) // Check if the sphere is close to the barrier
+                FlatShadow.GetComponent<MeshRenderer>().enabled = true;
+
+                if (posCheck < 0) // Check if sphere is behind the plane
                 {
-                    move = 2 * (Vector3.Dot(-move, n)) * n - (-move); // Reflection formula 
+                    if (distanceIntersectSphere < sphereRadius) // Check if the sphere is close to the barrier
+                    {
+                        move = 2 * (Vector3.Dot(-move, n)) * n - (-move); // Reflection formula 
+                    }
                 }
+                else
+                {
+                    //FlatShadow.GetComponent<MeshRenderer>().enabled = false;
+                }
+            }
+            else
+            {
+                //FlatShadow.GetComponent<MeshRenderer>().enabled = false;
             }
         }
         else
