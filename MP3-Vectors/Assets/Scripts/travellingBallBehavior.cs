@@ -5,6 +5,7 @@ using UnityEngine;
 using UnityEngine.UIElements;
 using static aimLineMath;
 using static ballSliders;
+using static extraCredit;
 
 public class travellingBallBehavior : MonoBehaviour
 {
@@ -98,42 +99,15 @@ public class travellingBallBehavior : MonoBehaviour
             FlatShadow.GetComponent<MeshRenderer>().enabled = false;
         }
 
-        
-
-        
-
-
-
-
-
-
-        // Second try
-        //float r = 1.5f;
-
-            //Vector3 barrierCenter = barrier.transform.position; // Center of barrier
-            //Vector3 barrierDirection = barrier.transform.up; // Length of the barrier
-            //Vector3 sphereCenter = this.transform.position; // Center of sphere
-            //Vector3 spheretoBarrier = sphereCenter - barrierCenter; // V
-            //float angle = Vector3.Dot(spheretoBarrier, barrierDirection);
-            //Vector3 projectedVector = angle * barrierDirection;
-            //Vector3 projectedPos = projectedVector + barrierCenter;
-            //Vector3 barrierNormal = (sphereCenter - projectedPos).normalized;
-            //Vector3 point_of_impact = projectedPos + barrierNormal * r;
-
-            //Instantiate(shadow, point_of_impact, Quaternion.identity);
-
-
-
-
-            //// First try
-            ////Reflection
-
-
-
-
-
-
-
+        // Extra Credit - Lights
+        if (nightMode)
+        {
+            GetComponent<Light>().enabled = true;
+        }
+        else
+        {
+            GetComponent<Light>().enabled = false;
+        }
     }
 
 
