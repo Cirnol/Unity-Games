@@ -157,11 +157,14 @@ public class Enemy : MonoBehaviour
                 deactivateMovement();
                 stunnedState.enabled = true;
                 stunnedState.setEggUp(EggUp);
+                stunnedState.setStartPos();
                 childOff();
                 break;
             case movement.egg_state:
                 deactivateMovement();
                 eggState.enabled = true;
+                eggState.setEggUp(EggUp);
+                eggState.setStartPos();
                 childOff();
                 break;
             case movement.CCW_Rotate:

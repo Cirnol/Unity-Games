@@ -38,7 +38,7 @@ public class EnemyCam : MonoBehaviour
 
     private void checkPos()
     {
-        if(Vector2.Distance(enemy.gameObject.transform.position, hero.gameObject.transform.position) > 40)
+        if(Vector2.Distance(enemy.gameObject.transform.position, hero.gameObject.transform.position) > 40 || enemy.currentMovement != Enemy.movement.chase)
         {
             gameObject.SetActive(false);
             enemy = null;

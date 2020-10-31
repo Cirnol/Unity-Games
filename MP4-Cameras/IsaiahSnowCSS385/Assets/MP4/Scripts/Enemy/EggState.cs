@@ -6,12 +6,21 @@ public class EggState : MonoBehaviour
 {
     private float timer = 0.0f;
     private float timeToStopLerping = 2.0f;
+    private Vector3 mEggUp;
+    private Vector3 startPos;
 
-    void Start()
+    public void setEggUp(Vector3 eggUp)
+    {
+        mEggUp = eggUp;
+    }
+    public void setStartPos()
+    {
+        startPos = transform.localPosition;
+    }
+    void Update()
     {
         gameObject.GetComponent<Animator>().Play("Egg");
-        // transform.GetComponent<SpriteRenderer>().color = Color.red;
-        //stationary, wait for hit
+        transform.position = Vector3.Lerp(transform.position, startPos + 8 * mEggUp, 0.05f);
     }
 
 }

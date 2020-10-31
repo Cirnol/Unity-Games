@@ -30,40 +30,16 @@ public class ScreenWrap : MonoBehaviour
 
     private void CheckWrap()
     {
-        if (sprite.isVisible)
-        {
-            wrapX = false;
-            wrapY = false;
-            timer = 5;
-            return;
-        }
-
-        timer -= Time.deltaTime;
-
-        if(timer < 0)
-        {
-            transform.position = new Vector3(0, 0, 0);
-        }
-
-        if (wrapX && wrapY)
-        {
-            return;
-        }
-
+        Vector3 viewPos = Camera.main.WorldToViewportPoint(transform.position);
         Vector3 newPos = transform.position;
-
-        if ((newPos.x > width || newPos.x < -width) && !wrapX)
+        if(viewPos.x < -.05f || viewPos.x > 1.05f)
         {
-            newPos.x = -newPos.x;
-            wrapX = true;
+            newPos.x *= -1;
         }
-
-        if ((newPos.y > height || newPos.y < -height) && !wrapY)
+        if (viewPos.y < -.05f || viewPos.y > 1.05f)
         {
-            newPos.y = -newPos.y;
-            wrapY = true;
+            newPos.y *= -1;
         }
-
         transform.position = newPos;
     }
 }
