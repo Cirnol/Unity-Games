@@ -12,6 +12,7 @@ public class travellingBallBehavior : MonoBehaviour
     float health;
 
     public GameObject barrier;
+    public GameObject radiusSphere;
     public GameObject shadow;
     private GameObject FlatShadow;
 
@@ -26,6 +27,8 @@ public class travellingBallBehavior : MonoBehaviour
         health = lifeSpan;
 
         barrier = GameObject.Find("Barrier");
+        radiusSphere = GameObject.Find("Radius");
+
         //shadow = GameObject.Find("Shadow");
         FlatShadow = Instantiate(shadow, new Vector3(1, 3, 9), Quaternion.identity);
         FlatShadow.GetComponent<MeshRenderer>().enabled = false;
@@ -43,28 +46,41 @@ public class travellingBallBehavior : MonoBehaviour
             Destroy(FlatShadow);
         }
 
+        Vector3 centerSphere = this.transform.localPosition; // The center of the sphere
+        Vector3 center = barrier.transform.localPosition; // The center of the barrier
+        Vector3 n = -barrier.transform.forward; // Normal Vector of Barrier
+        Vector3 V = (centerSphere - center); // Vector from sphere to center of barrier
 
-        // Third Try
-        
-
-        // the plane and its normal
-        Vector3 n = -barrier.transform.forward;
-        Vector3 center = barrier.transform.localPosition;
+        float distance = V.magnitude; // Distance of the vector V
+        V.Normalize(); // Make V be a unit vector
         Vector3 pt = center + kNormalSize * n;
+
         float d = Vector3.Dot(n, center);
-
-        float h = Vector3.Dot(this.transform.localPosition, n) - d;
-        FlatShadow.transform.localPosition = this.transform.localPosition - (n * h);
-        FlatShadow.transform.forward = n;
+        float h = Vector3.Dot(centerSphere, n) - d;
+        Vector3 intersectionPoint = centerSphere - (n * h);
+        FlatShadow.transform.localPosition = intersectionPoint; // Move the shadows to the intesection point
+        FlatShadow.transform.forward = n; // Orient the shadows so they're flat against the plane.
         FlatShadow.GetComponent<MeshRenderer>().enabled = true;
-        //float s = h * 0.50f;
-        //if (s < 0)
-        //    s = 0.5f;
-        //FlatShadow.transform.localScale = new Vector3(s, s, s);
-        Debug.DrawLine(shadow.transform.localPosition, this.transform.localPosition, Color.black);
 
-        Debug.DrawLine(center, pt, Color.black);
+        //Debug.DrawLine(shadow.transform.localPosition, this.transform.localPosition, Color.black);
 
+        //Debug.DrawLine(center, pt, Color.black);
+
+
+        float posCheck = Vector3.Dot(n, V); // Needed to check if the sphere is behind the plane
+        float radius = transform.localScale.x * 0.5f;
+
+        if (posCheck < 0)
+        {
+            if (Vector3.Distance(intersectionPoint, transform.position) < radius)
+            {
+                move = 2 * (Vector3.Dot(-move, n)) * n - (-move); // Reflection formula
+            }
+
+            
+        }
+
+        
 
 
 
@@ -74,36 +90,29 @@ public class travellingBallBehavior : MonoBehaviour
         // Second try
         //float r = 1.5f;
 
-        //Vector3 barrierCenter = barrier.transform.position; // Center of barrier
-        //Vector3 barrierDirection = barrier.transform.up; // Length of the barrier
-        //Vector3 sphereCenter = this.transform.position; // Center of sphere
-        //Vector3 spheretoBarrier = sphereCenter - barrierCenter; // V
-        //float angle = Vector3.Dot(spheretoBarrier, barrierDirection);
-        //Vector3 projectedVector = angle * barrierDirection;
-        //Vector3 projectedPos = projectedVector + barrierCenter;
-        //Vector3 barrierNormal = (sphereCenter - projectedPos).normalized;
-        //Vector3 point_of_impact = projectedPos + barrierNormal * r;
+            //Vector3 barrierCenter = barrier.transform.position; // Center of barrier
+            //Vector3 barrierDirection = barrier.transform.up; // Length of the barrier
+            //Vector3 sphereCenter = this.transform.position; // Center of sphere
+            //Vector3 spheretoBarrier = sphereCenter - barrierCenter; // V
+            //float angle = Vector3.Dot(spheretoBarrier, barrierDirection);
+            //Vector3 projectedVector = angle * barrierDirection;
+            //Vector3 projectedPos = projectedVector + barrierCenter;
+            //Vector3 barrierNormal = (sphereCenter - projectedPos).normalized;
+            //Vector3 point_of_impact = projectedPos + barrierNormal * r;
 
-        //Instantiate(shadow, point_of_impact, Quaternion.identity);
-
-
+            //Instantiate(shadow, point_of_impact, Quaternion.identity);
 
 
-        //// First try
-        ////Reflection
-        //Vector3 centerBarrier = barrier.transform.position; // The center of the barrier
-        //Vector3 centerSphere = this.transform.localPosition; // The center of the sphere
-        //Vector3 V = (centerSphere - centerBarrier); // Vector from sphere to center of barrier
-        //float d = V.magnitude; // Distance of that vector V
-        //V.Normalize(); // Make V be a unit vector
 
-        //Vector3 n = -barrier.transform.forward; // The normal of the barrier
-        //float posCheck = Vector3.Dot(n, V); // Needed to check if the sphere is behind the plane
 
-        //if (posCheck < 0)
-        //{
-        //    move = 2 * (Vector3.Dot(-move, n)) * n - (-move); // Reflection formula
-        //}
+            //// First try
+            ////Reflection
+
+
+
+
+
+
 
     }
 
