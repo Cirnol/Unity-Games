@@ -28,11 +28,19 @@ public class textBehavior : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        float x = sliderX.value;
+        float y = sliderY.value;
+        float z = sliderZ.value;
+
+        double xv = System.Math.Round(x, 2);
+        double yv = System.Math.Round(y, 2);
+        double zv = System.Math.Round(z, 2);
+
         thisText = XSliderText.GetComponent<Text>();
-        thisText.text = "X            " + sliderX.value;
+        thisText.text = "X            " + xv;
         thisText = YSliderText.GetComponent<Text>();
-        thisText.text = "Y            " + sliderY.value;
+        thisText.text = "Y            " + yv;
         thisText = ZSliderText.GetComponent<Text>();
-        thisText.text = "Z            " + sliderZ.value;
+        thisText.text = "Z            " + zv;
     }
 }

@@ -556,7 +556,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Life Span (Sec)
+  m_Text: "Life (Sec)\t\t0.00"
 --- !u!222 &431968243
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1435,6 +1435,7 @@ GameObject:
   - component: {fileID: 808145073}
   - component: {fileID: 808145077}
   - component: {fileID: 808145078}
+  - component: {fileID: 808145079}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -1561,6 +1562,24 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   barrier: {fileID: 1552456240}
   normal: {fileID: 71680323}
+--- !u!114 &808145079
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 808145072}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e530713a2151068499e3139863a2821c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  intText: {fileID: 1939029716}
+  spdText: {fileID: 1768632639}
+  lifeText: {fileID: 431968240}
+  interval: {fileID: 1231741987}
+  speed: {fileID: 1968341957}
+  life: {fileID: 986587029}
 --- !u!1 &823404802
 GameObject:
   m_ObjectHideFlags: 0
@@ -2599,7 +2618,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Speed
+  m_Text: "Speed\t\t\t\t0.00"
 --- !u!222 &1768632642
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2742,7 +2761,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Interval
+  m_Text: "Interval\t\t\t0.00"
 --- !u!222 &1939029719
 CanvasRenderer:
   m_ObjectHideFlags: 0
