@@ -52,6 +52,7 @@ public class travellingBallBehavior : MonoBehaviour
         Vector3 V = (centerSphere - center); // Vector from sphere to center of barrier
 
         float distance = V.magnitude; // Distance of the vector V
+        n.Normalize();
         V.Normalize(); // Make V be a unit vector
         Vector3 pt = center + kNormalSize * n;
 
@@ -60,7 +61,7 @@ public class travellingBallBehavior : MonoBehaviour
         Vector3 intersectionPoint = centerSphere - (n * h);
         FlatShadow.transform.localPosition = intersectionPoint; // Move the shadows to the intesection point
         FlatShadow.transform.forward = n; // Orient the shadows so they're flat against the plane.
-        FlatShadow.GetComponent<MeshRenderer>().enabled = true;
+        
 
         //Debug.DrawLine(shadow.transform.localPosition, this.transform.localPosition, Color.black);
 
@@ -68,17 +69,28 @@ public class travellingBallBehavior : MonoBehaviour
 
 
         float posCheck = Vector3.Dot(n, V); // Needed to check if the sphere is behind the plane
-        float radius = transform.localScale.x * 0.5f;
+        float dirCheck = Vector3.Dot(n, move);
+        float sphereRadius = transform.localScale.x * 0.5f;
+        float barrierRadius = barrier.transform.localScale.x * 0.5f;
 
-        if (posCheck < 0)
+        if (Vector3.Distance(intersectionPoint, center) < (barrierRadius))
         {
-            if (Vector3.Distance(intersectionPoint, transform.position) < radius)
-            {
-                move = 2 * (Vector3.Dot(-move, n)) * n - (-move); // Reflection formula
-            }
+            FlatShadow.GetComponent<MeshRenderer>().enabled = true;
 
-            
+            if (posCheck < 0 && dirCheck < 0) // Check if sphere is behind the plane
+            {
+                if (Vector3.Distance(intersectionPoint, transform.position) < sphereRadius) // Check if the sphere is close to the barrier
+                {
+                    move = 2 * (Vector3.Dot(-move, n)) * n - (-move); // Reflection formula 
+                }
+            }
         }
+        else
+        {
+            FlatShadow.GetComponent<MeshRenderer>().enabled = false;
+        }
+
+        
 
         
 
