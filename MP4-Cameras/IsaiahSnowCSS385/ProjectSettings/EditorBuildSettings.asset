@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MP3.unity
     guid: b890a1e637c302f479dcc638568fe141
+  - enabled: 1
+    path: Assets/Scenes/MP4.unity
+    guid: e9eca9b1e9a5e274ab27aafb80d75ed7
   m_configObjects: {}

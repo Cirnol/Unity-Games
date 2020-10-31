@@ -42,12 +42,35 @@ public class EnemyManager : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.J))
         {
-            currentMovement = (Enemy.movement)(((int)currentMovement + 1) % Enum.GetNames(typeof(Enemy.movement)).Length);
+            currentMovement = getNextMovement();
             foreach (Enemy enemy in Enemy.enemies)
             {
                 enemy.SwapMovement(currentMovement);
             }
         }
+    }
+
+    private Enemy.movement getNextMovement()
+    {
+        Enemy.movement move = Enemy.movement.wander;
+
+        switch(currentMovement)
+        {
+            case Enemy.movement.wander:
+                move = Enemy.movement.waypoint_seq;
+                break;
+            case Enemy.movement.waypoint_seq:
+                move = Enemy.movement.waypoint_rand;
+                break;
+            case Enemy.movement.waypoint_rand:
+                move = Enemy.movement.wander;
+                break;
+            default:
+                move = Enemy.movement.waypoint_seq;
+                break;
+        }
+
+        return move;
     }
 
     private GameObject spawn()

@@ -76,7 +76,8 @@ public class Enemy : MonoBehaviour
             em.Remove(this);
         }
         EnemyCount--;
-        EnemyDestroyed++;
+        if(currentMovement == movement.egg_state)
+            EnemyDestroyed++;
         enemies.Remove(this);
     }
 
@@ -126,18 +127,28 @@ public class Enemy : MonoBehaviour
 
     public void SwapMovement(movement movement)
     {
-        currentMovement = movement;
-
-        switch (currentMovement)
+        bool switched = true;
+        switch (movement)
         {
             case movement.wander:
+                if (currentMovement != movement.waypoint_rand && currentMovement != movement.waypoint_seq && currentMovement != movement.shrink)
+                {
+                    switched = false;
+                    break;
+                }
                 deactivateMovement();
                 waypoint.enabled = false;
                 storedMovement = movement.wander;
+                wander.enabled = true;
                 childOff();
 
                 break;
             case movement.waypoint_seq:
+                if (currentMovement != movement.waypoint_rand && currentMovement != movement.wander && currentMovement != movement.shrink)
+                {
+                    switched = false;
+                    break;
+                }
                 transform.GetComponent<SpriteRenderer>().color = Color.white;
                 deactivateMovement();
                 waypoint.enabled = true;
@@ -147,6 +158,11 @@ public class Enemy : MonoBehaviour
                 break;
             case movement.waypoint_rand:
                 transform.GetComponent<SpriteRenderer>().color = Color.white;
+                if (currentMovement != movement.wander && currentMovement != movement.waypoint_seq && currentMovement != movement.shrink)
+                {
+                    switched = false;
+                    break;
+                }
                 deactivateMovement();
                 waypoint.enabled = true;
                 waypoint.ToggleMovement(true);
@@ -200,6 +216,8 @@ public class Enemy : MonoBehaviour
                 break;
 
         }
+        if(switched)
+            currentMovement = movement;
     }
 
     private void deactivateMovement()
