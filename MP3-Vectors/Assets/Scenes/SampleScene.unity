@@ -670,7 +670,7 @@ GameObject:
   - component: {fileID: 487768331}
   - component: {fileID: 487768330}
   m_Layer: 0
-  m_Name: Sphere
+  m_Name: Radius
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3841,7 +3841,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.Toggle+ToggleEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
-  m_IsOn: 0
+  m_IsOn: 1
 --- !u!224 &6665923380037636643
 RectTransform:
   m_ObjectHideFlags: 0
@@ -5535,7 +5535,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.Toggle+ToggleEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
-  m_IsOn: 1
+  m_IsOn: 0
 --- !u!224 &6665923381196268072
 RectTransform:
   m_ObjectHideFlags: 0
