@@ -18,7 +18,7 @@ public class travellingBallBehavior : MonoBehaviour
     private GameObject FlatShadow;
 
     float kNormalSize = 10f;
-    float kVerySmall = 0.0001f; // let's avoid this
+    //float kVerySmall = 0.0001f; // let's avoid this
 
     // Start is called before the first frame update
     void Start()
@@ -61,7 +61,8 @@ public class travellingBallBehavior : MonoBehaviour
         float h = Vector3.Dot(centerSphere, n) - d;
         Vector3 intersectionPoint = centerSphere - (n * h); // Predicted point of intersection
         FlatShadow.transform.localPosition = intersectionPoint; // Move the shadows to the intesection point
-        FlatShadow.transform.position += new Vector3(0, 0, -0.05f);
+        FlatShadow.transform.localPosition += 0.1f * n; // Offset so it doesn't clip through plane.
+        //FlatShadow.transform.localPosition += new Vector3(-0.05f, 0, -0.05f);
         FlatShadow.transform.forward = n; // Orient the shadows so they're flat against the plane.
 
         float posCheck = Vector3.Dot(n, V); // Needed to check if the sphere is behind the plane
