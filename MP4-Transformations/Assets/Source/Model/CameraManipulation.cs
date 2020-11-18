@@ -4,6 +4,16 @@ using UnityEngine;
 
 public class CameraManipulation : MonoBehaviour {
 
+    //public Transform target;
+
+    private Vector3 targetPos;
+    private Vector3 selfPos;
+    private Vector3 distance;
+    private float d;
+
+    private Vector3 previousPos;
+    private Vector3 currentPos;
+
     public enum LookAtCompute {
         QuatLookRotation = 0,
         TransformLookAt = 1
@@ -12,9 +22,10 @@ public class CameraManipulation : MonoBehaviour {
     public Transform LookAtPosition = null;
     //public LineSegment LineOfSight = null;
     public LookAtCompute ComputeMode = LookAtCompute.QuatLookRotation;
+    public bool OrbitHorizontal = false;
 
-	// Use this for initialization
-	void Start () {
+    // Use this for initialization
+    void Start () {
         Debug.Assert(LookAtPosition != null);
         //Debug.Assert(LineOfSight != null);
         //LineOfSight.SetWidth(0.2f);
@@ -28,6 +39,11 @@ public class CameraManipulation : MonoBehaviour {
 	void Update () {
         //LineOfSight.SetPoints(transform.localPosition, LookAtPosition.localPosition);
 
+        //targetPos = target.transform.position;
+        selfPos = transform.position;
+        distance = targetPos - selfPos;
+        d = distance.magnitude;
+
         switch (ComputeMode)
         {
             case LookAtCompute.QuatLookRotation:
@@ -39,27 +55,63 @@ public class CameraManipulation : MonoBehaviour {
                 break;
 
             case LookAtCompute.TransformLookAt:
-                transform.LookAt(LookAtPosition);
                 break;
         }
 
-        if (Input.GetMouseButtonDown(0))
+        if (Input.GetKey(KeyCode.LeftAlt) || Input.GetKey(KeyCode.RightAlt))
         {
-            mouseDownPos = Input.mousePosition;
-            delta = Vector3.zero;
-        } if (Input.GetMouseButton(0))
-        {
-            delta = mouseDownPos - Input.mousePosition;
-            mouseDownPos = Input.mousePosition;
-            ProcesssZoom(delta.y);
-        }
-	}
 
-    public void ProcesssZoom(float delta)
+            if (Input.GetAxis("Mouse ScrollWheel") < 0 && d < 75) // Zoom out
+            {
+                ProcesssZoom(1);
+            }
+            if (Input.GetAxis("Mouse ScrollWheel") > 0 && d > 5) // Zoom in
+            {
+                ProcesssZoom(-1);
+            }
+
+            if (Input.GetMouseButton(0)) // Tumble
+            {
+                ComputeHorizontalOrbit();
+            }
+        }
+    }
+
+    public void ProcesssZoom(int delta)
     {
         Vector3 v = LookAtPosition.localPosition - transform.localPosition;
         float dist = v.magnitude;
         dist += delta;
         transform.localPosition = LookAtPosition.localPosition - dist * v.normalized;
+    }
+
+    const float RotateDelta = 10f / 60;  // about 10-degress per second
+    float Direction = 1f;
+    void ComputeHorizontalOrbit()
+    {
+        if (!OrbitHorizontal)
+            return;
+
+        // orbit with respect to the transform.right axis
+
+        // 1. Rotation of the viewing direction by right axis
+        Quaternion q = Quaternion.AngleAxis(Direction * RotateDelta, transform.right);
+
+        // 2. we need to rotate the camera position
+        Matrix4x4 r = Matrix4x4.TRS(Vector3.zero, q, Vector3.one);
+        Matrix4x4 invP = Matrix4x4.TRS(-LookAtPosition.localPosition, Quaternion.identity, Vector3.one);
+        r = invP.inverse * r * invP;
+        Vector3 newCameraPos = r.MultiplyPoint(transform.localPosition);
+        transform.localPosition = newCameraPos;
+
+        Vector3 V = LookAtPosition.localPosition - transform.localPosition;
+        Vector3 W = Vector3.Cross(-V, transform.up);
+        Vector3 U = Vector3.Cross(W, -V);
+        transform.localRotation = Quaternion.LookRotation(V, U);
+
+        if (Mathf.Abs(Vector3.Dot(newCameraPos.normalized, Vector3.up)) > 0.7071f) // this is about 45-degrees
+        {
+            Direction *= -1f;
+        }
     }
 }
