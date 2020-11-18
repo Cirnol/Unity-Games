@@ -22,7 +22,7 @@ public class CameraManipulation : MonoBehaviour {
     public Transform LookAtPosition = null;
     //public LineSegment LineOfSight = null;
     public LookAtCompute ComputeMode = LookAtCompute.QuatLookRotation;
-    public bool OrbitHorizontal = false;
+    public bool OrbitHorizontal = true;
 
     // Use this for initialization
     void Start () {
@@ -72,7 +72,10 @@ public class CameraManipulation : MonoBehaviour {
 
             if (Input.GetMouseButton(0)) // Tumble
             {
-                ComputeHorizontalOrbit();
+                delta = mouseDownPos - Input.mousePosition;
+                mouseDownPos = Input.mousePosition;
+                Tumble(delta.x, transform.up);
+                Tumble(delta.y, transform.right);
             }
         }
     }
@@ -85,9 +88,15 @@ public class CameraManipulation : MonoBehaviour {
         transform.localPosition = LookAtPosition.localPosition - dist * v.normalized;
     }
 
-    const float RotateDelta = 10f / 60;  // about 10-degress per second
-    float Direction = 1f;
-    void ComputeHorizontalOrbit()
+    void Tumble(float delta, Vector3 dir)
+    {
+        float DirectionTumble = delta;
+        const float RotateDelta = 10f / 60;  // about 10-degress per second
+        ComputeHorizontalOrbit(DirectionTumble, RotateDelta);
+    }
+
+    
+    void ComputeHorizontalOrbit(float Direction, float RotateDelta)
     {
         if (!OrbitHorizontal)
             return;

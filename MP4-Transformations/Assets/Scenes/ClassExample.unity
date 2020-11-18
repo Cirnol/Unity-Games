@@ -2851,7 +2851,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   LookAtPosition: {fileID: 767878073}
   ComputeMode: 0
-  OrbitHorizontal: 0
+  OrbitHorizontal: 1
 --- !u!1 &1987723349
 GameObject:
   m_ObjectHideFlags: 0
