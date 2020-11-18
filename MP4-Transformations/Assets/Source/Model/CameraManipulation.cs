@@ -22,7 +22,7 @@ public class CameraManipulation : MonoBehaviour {
     public Transform LookAtPosition = null;
     //public LineSegment LineOfSight = null;
     public LookAtCompute ComputeMode = LookAtCompute.QuatLookRotation;
-    public bool OrbitHorizontal = true;
+    //public bool OrbitHorizontal = true;
 
     // Use this for initialization
     void Start () {
@@ -60,7 +60,7 @@ public class CameraManipulation : MonoBehaviour {
 
         if (Input.GetKey(KeyCode.LeftAlt) || Input.GetKey(KeyCode.RightAlt))
         {
-
+            // Zooming
             if (Input.GetAxis("Mouse ScrollWheel") < 0 && d < 75) // Zoom out
             {
                 ProcesssZoom(1);
@@ -70,12 +70,33 @@ public class CameraManipulation : MonoBehaviour {
                 ProcesssZoom(-1);
             }
 
-            if (Input.GetMouseButton(0)) // Tumble
+            // Tumbling
+            if (Input.GetMouseButtonDown(0))
+            {
+                mouseDownPos = Input.mousePosition;
+                delta = Vector3.zero;
+            }
+            if (Input.GetMouseButton(0))
             {
                 delta = mouseDownPos - Input.mousePosition;
                 mouseDownPos = Input.mousePosition;
-                Tumble(delta.x, transform.up);
-                Tumble(delta.y, transform.right);
+                ComputeHorizontalOrbit(delta.x, transform.up);
+                ComputeHorizontalOrbit(delta.y, transform.right);
+
+                //if (transform.localRotation.y != 0)
+                //{
+                //    transform.localRotation = Quaternion.Euler(transform.localRotation.x, 0, transform.localRotation.z);
+                //}
+
+                //if (transform.localRotation.x > 0.7071f)
+                //{
+                //    return;
+                //}
+
+                //if (transform.localRotation.x < -0.7071f)
+                //{
+                //    return;
+                //}
             }
         }
     }
@@ -88,23 +109,13 @@ public class CameraManipulation : MonoBehaviour {
         transform.localPosition = LookAtPosition.localPosition - dist * v.normalized;
     }
 
-    void Tumble(float delta, Vector3 dir)
+    const float RotateDelta = 10f / 60;  // about 10-degress per second
+    void ComputeHorizontalOrbit(float Direction, Vector3 AxisRot)
     {
-        float DirectionTumble = delta;
-        const float RotateDelta = 10f / 60;  // about 10-degress per second
-        ComputeHorizontalOrbit(DirectionTumble, RotateDelta);
-    }
-
-    
-    void ComputeHorizontalOrbit(float Direction, float RotateDelta)
-    {
-        if (!OrbitHorizontal)
-            return;
-
         // orbit with respect to the transform.right axis
 
         // 1. Rotation of the viewing direction by right axis
-        Quaternion q = Quaternion.AngleAxis(Direction * RotateDelta, transform.right);
+        Quaternion q = Quaternion.AngleAxis(Direction * RotateDelta, AxisRot);
 
         // 2. we need to rotate the camera position
         Matrix4x4 r = Matrix4x4.TRS(Vector3.zero, q, Vector3.one);
@@ -113,10 +124,12 @@ public class CameraManipulation : MonoBehaviour {
         Vector3 newCameraPos = r.MultiplyPoint(transform.localPosition);
         transform.localPosition = newCameraPos;
 
+        // Replaces built-in LookAt function
         Vector3 V = LookAtPosition.localPosition - transform.localPosition;
         Vector3 W = Vector3.Cross(-V, transform.up);
         Vector3 U = Vector3.Cross(W, -V);
         transform.localRotation = Quaternion.LookRotation(V, U);
+        //
 
         if (Mathf.Abs(Vector3.Dot(newCameraPos.normalized, Vector3.up)) > 0.7071f) // this is about 45-degrees
         {
