@@ -26,6 +26,10 @@ public class CameraManipulation : MonoBehaviour {
 
     // Use this for initialization
     void Start () {
+
+        transform.up = Vector3.up;
+        transform.forward = Vector3.forward;
+
         Debug.Assert(LookAtPosition != null);
         //Debug.Assert(LineOfSight != null);
         //LineOfSight.SetWidth(0.2f);
@@ -37,6 +41,9 @@ public class CameraManipulation : MonoBehaviour {
 
 	// Update is called once per frame
 	void Update () {
+        transform.up = Vector3.up;
+        transform.forward = Vector3.forward;
+
         //LineOfSight.SetPoints(transform.localPosition, LookAtPosition.localPosition);
 
         //targetPos = target.transform.position;
@@ -82,6 +89,10 @@ public class CameraManipulation : MonoBehaviour {
                 mouseDownPos = Input.mousePosition;
                 ComputeHorizontalOrbit(delta.x, transform.up);
                 ComputeHorizontalOrbit(delta.y, transform.right);
+
+                //Add these two lines
+                float z = transform.eulerAngles.z;
+                transform.Rotate(0, 0, -z);
 
                 //if (transform.localRotation.y != 0)
                 //{
