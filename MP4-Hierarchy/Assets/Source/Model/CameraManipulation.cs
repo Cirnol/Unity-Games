@@ -137,10 +137,12 @@ public class CameraManipulation : MonoBehaviour {
 
         // Replaces built-in LookAt function
         Vector3 V = LookAtPosition.localPosition - transform.localPosition;
-        Vector3 W = Vector3.Cross(-V, transform.up);
+        Vector3 W = Vector3.Cross(-V, Vector3.up);
         Vector3 U = Vector3.Cross(W, -V);
-        transform.localRotation = Quaternion.LookRotation(V, U);
-        //
+        //transform.localRotation = Quaternion.LookRotation(V, U);
+        transform.localRotation = Quaternion.FromToRotation(Vector3.up, U);
+        Quaternion alignU = Quaternion.FromToRotation(transform.forward, V);
+        transform.localRotation = alignU * transform.localRotation;
 
         if (Mathf.Abs(Vector3.Dot(newCameraPos.normalized, Vector3.up)) > 0.7071f) // this is about 45-degrees
         {

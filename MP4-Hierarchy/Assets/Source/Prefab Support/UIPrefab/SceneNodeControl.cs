@@ -18,13 +18,17 @@ public class SceneNodeControl : MonoBehaviour {
         Debug.Assert(TheRoot != null);
         Debug.Assert(XformControl != null);
 
-        mSelectMenuOptions.Add(new Dropdown.OptionData(TheRoot.transform.name));
-        mSelectedTransform.Add(TheRoot.transform);
-        GetChildrenNames("", TheRoot.transform);
-        TheMenu.AddOptions(mSelectMenuOptions);
-        TheMenu.onValueChanged.AddListener(SelectionChange);
+        if(TheRoot.transform.name != "Camera")
+        {
+            mSelectMenuOptions.Add(new Dropdown.OptionData(TheRoot.transform.name));
+            mSelectedTransform.Add(TheRoot.transform);
+            GetChildrenNames("", TheRoot.transform);
+            TheMenu.AddOptions(mSelectMenuOptions);
+            TheMenu.onValueChanged.AddListener(SelectionChange);
 
-        XformControl.SetSelectedObject(TheRoot.transform);
+            XformControl.SetSelectedObject(TheRoot.transform);
+        }
+        
     }
 
     void GetChildrenNames(string blanks, Transform node)

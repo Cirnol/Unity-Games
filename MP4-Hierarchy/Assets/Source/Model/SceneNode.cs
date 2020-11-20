@@ -4,7 +4,9 @@ using System.Collections.Generic;
 
 public class SceneNode : MonoBehaviour {
 
-    protected Matrix4x4 mCombinedParentXform;
+    //public SmallCamera sc;
+
+    public Matrix4x4 mCombinedParentXform;
     
     public Vector3 NodeOrigin = Vector3.zero;
     public List<NodePrimitive> PrimitiveList;
@@ -17,7 +19,8 @@ public class SceneNode : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-	}
+        
+    }
 
     private void InitializeSceneNode()
     {
@@ -48,5 +51,8 @@ public class SceneNode : MonoBehaviour {
             p.LoadShaderMatrix(ref mCombinedParentXform);
         }
 
+        ////sc = sc.GetComponent<Camera>();
+        //if (sc != null)
+        //    sc.loadCombinedMatrix(ref mCombinedParentXform);
     }
 }
