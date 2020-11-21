@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class CameraManipulation : MonoBehaviour {
 
-    //public Transform target;
+    public GameObject target;
 
     private Vector3 targetPos;
     private Vector3 selfPos;
@@ -112,9 +112,6 @@ public class CameraManipulation : MonoBehaviour {
                         Debug.Log(delta);
                     }
                 }
-                
-                
-                //Debug.Log(result);
 
                 mouseDownPos = Input.mousePosition;
                 ComputeHorizontalOrbit(delta.x, transform.up);
@@ -124,27 +121,28 @@ public class CameraManipulation : MonoBehaviour {
                 //Add these two lines
                 float z = transform.eulerAngles.z;
                 transform.Rotate(0, 0, -z);
-
-                
-
-                
-
-
-                //if (transform.localRotation.y != 0)
-                //{
-                //    transform.localRotation = Quaternion.Euler(transform.localRotation.x, 0, transform.localRotation.z);
-                //}
-
-                //if (transform.localRotation.x > 0.7071f)
-                //{
-                //    return;
-                //}
-
-                //if (transform.localRotation.x < -0.7071f)
-                //{
-                //    return;
-                //}
             }
+
+            //// Panning
+            //if (Input.GetMouseButtonDown(1))
+            //{
+            //    mouseDownPos = Input.mousePosition;
+            //    delta = Vector3.zero;
+            //}
+            //if (Input.GetMouseButton(1))
+            //{
+            //    delta = mouseDownPos - Input.mousePosition;
+            //    Vector3 move = new Vector3(delta.x, delta.y, delta.z);
+            //    //Debug.Log(delta);
+            //    //target.transform.Translate(delta);
+            //    target.transform.localPosition = move;
+            //    Debug.Log("TargetPos:" + target.transform.position);
+                
+            //    //transform.localPosition = move;
+            //    mouseDownPos = Input.mousePosition;
+
+
+            //}
         }
     }
 
