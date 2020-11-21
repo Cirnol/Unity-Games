@@ -85,14 +85,50 @@ public class CameraManipulation : MonoBehaviour {
             }
             if (Input.GetMouseButton(0))
             {
-                delta = mouseDownPos - Input.mousePosition;
+
+                // Obtain Rotation Z value and convert to 360 degrees
+                float result = gameObject.transform.rotation.eulerAngles.x - Mathf.CeilToInt(gameObject.transform.rotation.eulerAngles.x / 360f) * 360f;
+                if (result < 0)
+                {
+                    result += 360f;
+                }
+                // Obtained from https://answers.unity.com/questions/1427258/get-an-eular-angle-between-0-and-360-after-calcula.html
+
+                if(result > 80 && result < 100)
+                {
+                    delta.y = -1;
+                    //transform.rotation = Quaternion.Euler(80, gameObject.transform.rotation.eulerAngles.y, gameObject.transform.rotation.eulerAngles.z);
+                }
+                else
+                {
+                    if (result < 280 && result > 100)
+                    {
+                        delta.y = 1;
+                        transform.rotation = Quaternion.Euler(280, gameObject.transform.rotation.eulerAngles.y, gameObject.transform.rotation.eulerAngles.z);
+                    }
+                    else
+                    {
+                        delta = mouseDownPos - Input.mousePosition;
+                        Debug.Log(delta);
+                    }
+                }
+                
+                
+                //Debug.Log(result);
+
                 mouseDownPos = Input.mousePosition;
                 ComputeHorizontalOrbit(delta.x, transform.up);
                 ComputeHorizontalOrbit(delta.y, transform.right);
 
+
                 //Add these two lines
                 float z = transform.eulerAngles.z;
                 transform.Rotate(0, 0, -z);
+
+                
+
+                
+
 
                 //if (transform.localRotation.y != 0)
                 //{
