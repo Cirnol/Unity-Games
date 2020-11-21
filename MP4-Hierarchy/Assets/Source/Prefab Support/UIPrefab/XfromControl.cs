@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using static SceneNode;
 
 public class XfromControl : MonoBehaviour {
     public Toggle T, R, S;
@@ -10,6 +11,8 @@ public class XfromControl : MonoBehaviour {
 
     private Transform mSelected;
     private Vector3 mPreviousSliderValues = Vector3.zero;
+
+    public AxisFrameBehavior A;
 
 	// Use this for initialization
 	void Start () {
@@ -24,8 +27,16 @@ public class XfromControl : MonoBehaviour {
         R.isOn = false;
         S.isOn = false;
         SetToTranslation(true);
+
+        //A.ObtainCurrentNode(mSelected);
 	}
-	
+
+    void Update()
+    {
+
+        
+    }
+
     //---------------------------------------------------------------------------------
     // Initialize slider bars to specific function
     void SetToTranslation(bool v)
@@ -99,7 +110,10 @@ public class XfromControl : MonoBehaviour {
         mSelected = xform;
         mPreviousSliderValues = Vector3.zero;
         if (xform != null)
+        {
+            A.ObtainCurrentNode(xform);
             ObjectName.text = "Selected:" + xform.name;
+        }
         else
             ObjectName.text = "Selected: none";
         ObjectSetUI();

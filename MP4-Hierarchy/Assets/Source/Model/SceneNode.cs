@@ -4,8 +4,6 @@ using System.Collections.Generic;
 
 public class SceneNode : MonoBehaviour {
 
-    //public SmallCamera sc;
-
     public Matrix4x4 mCombinedParentXform;
     
     public Vector3 NodeOrigin = Vector3.zero;

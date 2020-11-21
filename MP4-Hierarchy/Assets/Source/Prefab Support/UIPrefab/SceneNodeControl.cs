@@ -31,19 +31,24 @@ public class SceneNodeControl : MonoBehaviour {
         
     }
 
-    void GetChildrenNames(string blanks, Transform node)
+        void GetChildrenNames(string blanks, Transform node)
     {
         string space = blanks + kChildSpace;
         for (int i = node.childCount - 1; i >= 0; i--)
         {
             Transform child = node.GetChild(i);
-            SceneNode cn = child.GetComponent<SceneNode>();
-            if (cn != null)
+
+            if(child.name != "Camera")
             {
-                mSelectMenuOptions.Add(new Dropdown.OptionData(space + child.name));
-                mSelectedTransform.Add(child);
-                GetChildrenNames(blanks + kChildSpace, child);
+                SceneNode cn = child.GetComponent<SceneNode>();
+                if (cn != null)
+                {
+                    mSelectMenuOptions.Add(new Dropdown.OptionData(space + child.name));
+                    mSelectedTransform.Add(child);
+                    GetChildrenNames(blanks + kChildSpace, child);
+                }
             }
+            
         }
     }
 
