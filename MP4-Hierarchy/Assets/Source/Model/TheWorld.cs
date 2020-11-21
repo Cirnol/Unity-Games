@@ -16,5 +16,8 @@ public class TheWorld : MonoBehaviour  {
     {
         Matrix4x4 i = Matrix4x4.identity;
         TheRoot.CompositeXform(ref i);
+
+        if (Input.GetKeyDown(KeyCode.Q) || Input.GetKeyDown(KeyCode.Escape))
+            Application.Quit();
     }
 }

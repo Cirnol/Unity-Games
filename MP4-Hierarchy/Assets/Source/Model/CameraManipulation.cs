@@ -109,7 +109,6 @@ public class CameraManipulation : MonoBehaviour {
                     else
                     {
                         delta = mouseDownPos - Input.mousePosition;
-                        Debug.Log(delta);
                     }
                 }
 
@@ -169,7 +168,7 @@ public class CameraManipulation : MonoBehaviour {
         Vector3 newCameraPos = r.MultiplyPoint(transform.localPosition);
         transform.localPosition = newCameraPos;
 
-        // This replaces built-in LookAt function
+        // This replaces built-in look function
         Vector3 V = LookAtPosition.localPosition - transform.localPosition;
         Vector3 W = Vector3.Cross(-V, Vector3.up);
         Vector3 U = Vector3.Cross(W, -V);
