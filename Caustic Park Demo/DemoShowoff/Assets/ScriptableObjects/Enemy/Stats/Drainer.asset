@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51a996751bb6f0641acc61b3fab8fe83, type: 3}
+  m_Name: Drainer
+  m_EditorClassIdentifier: 
+  StartingState: {fileID: 11400000, guid: 4db96fa5e0b2b824995cb66b1c6188ce, type: 2}
+  RemainState: {fileID: 11400000, guid: 629a64ee6fc7a5d41a4d59ea99fc7d80, type: 2}
+  AttackRange: 0.5
+  AttackDamage: 20
+  BatteryAttackDamage: 10
+  TimeBetweenAttacks: 2
+  SearchRotationSpeed: 360
+  SearchDuration: 1
+  ChaseAfterLostTime: 1
+  MoveSpeed: 0.1
+  TimeForSeen: 0.5
+  WaitTime: 2

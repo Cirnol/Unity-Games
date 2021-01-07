@@ -1,0 +1,2143 @@
+fileFormatVersion: 2
+guid: e7b567cba98bd934a9c84f99937cfe03
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3263358848344180699
+    second: GruntWalkUp_0
+  - first:
+      213: 5413151095161226508
+    second: GruntWalkUp_1
+  - first:
+      213: 3849654597147171797
+    second: GruntWalkUp_2
+  - first:
+      213: 2367883401910114610
+    second: GruntWalkUp_3
+  - first:
+      213: -4188705888200369898
+    second: GruntWalkUp_4
+  - first:
+      213: -2575755850091147213
+    second: GruntWalkUp_5
+  - first:
+      213: -4106187288194763034
+    second: GruntWalkUp_6
+  - first:
+      213: -7712453610165639798
+    second: GruntWalkUp_7
+  - first:
+      213: -8333838472959502560
+    second: GruntWalkUp_8
+  - first:
+      213: 226778068164820915
+    second: GruntWalkUp_9
+  - first:
+      213: -3544504436886078627
+    second: GruntWalkUp_10
+  - first:
+      213: 5512219442683322943
+    second: GruntWalkUp_11
+  - first:
+      213: 5598358221339649429
+    second: GruntWalkUp_12
+  - first:
+      213: 7740533403691978228
+    second: GruntWalkUp_13
+  - first:
+      213: -2516542235752404912
+    second: GruntWalkUp_14
+  - first:
+      213: -6689843936958727340
+    second: GruntWalkUp_15
+  - first:
+      213: 6513261256791829725
+    second: GruntWalkUp_16
+  - first:
+      213: 547757800307862063
+    second: GruntWalkUp_17
+  - first:
+      213: 7835299865406062213
+    second: GruntWalkUp_18
+  - first:
+      213: 5891665031865467062
+    second: GruntWalkUp_19
+  - first:
+      213: -1008004850276845661
+    second: GruntWalkUp_20
+  - first:
+      213: 8107001924853922961
+    second: GruntWalkUp_21
+  - first:
+      213: 7712146025753454442
+    second: GruntWalkUp_22
+  - first:
+      213: 8420187008508230477
+    second: GruntWalkUp_23
+  - first:
+      213: 4835497375925057286
+    second: GruntWalkUp_24
+  - first:
+      213: 8731408809485310188
+    second: GruntWalkUp_25
+  - first:
+      213: -7806454237632247221
+    second: GruntWalkUp_26
+  - first:
+      213: -4587157339683480147
+    second: GruntWalkUp_27
+  - first:
+      213: 9195687303851216485
+    second: GruntWalkUp_28
+  - first:
+      213: 1511862922720988462
+    second: GruntWalkUp_29
+  - first:
+      213: 3796037777950029791
+    second: GruntWalkUp_30
+  - first:
+      213: -6331684731548940706
+    second: GruntWalkUp_31
+  - first:
+      213: 4939375442810187266
+    second: GruntWalkUp_32
+  - first:
+      213: -2930422857900957109
+    second: GruntWalkUp_33
+  - first:
+      213: -709693429484721816
+    second: GruntWalkUp_34
+  - first:
+      213: 7180670721380516140
+    second: GruntWalkUp_35
+  - first:
+      213: 8227486156360239998
+    second: GruntWalkUp_36
+  - first:
+      213: -8326772022634589723
+    second: GruntWalkUp_37
+  - first:
+      213: -8453431885910330035
+    second: GruntWalkUp_38
+  - first:
+      213: -5455548206799138757
+    second: GruntWalkUp_39
+  - first:
+      213: -7668718809229409782
+    second: GruntWalkUp_40
+  - first:
+      213: -3912221716854489706
+    second: GruntWalkUp_41
+  - first:
+      213: -9108995536562037459
+    second: GruntWalkUp_42
+  - first:
+      213: -1448950594834636870
+    second: GruntWalkUp_43
+  - first:
+      213: 3546009033754793039
+    second: GruntWalkUp_44
+  - first:
+      213: 256785309979382281
+    second: GruntWalkUp_45
+  - first:
+      213: -9124861749998982978
+    second: GruntWalkUp_46
+  - first:
+      213: 8686041319236226828
+    second: GruntWalkUp_47
+  - first:
+      213: 6989651332533356886
+    second: GruntWalkUp_48
+  - first:
+      213: -7700425847073247258
+    second: GruntWalkUp_49
+  - first:
+      213: 2719075589980904093
+    second: GruntWalkUp_50
+  - first:
+      213: 2261409302694562408
+    second: GruntWalkUp_51
+  - first:
+      213: -1706177130422205241
+    second: GruntWalkUp_52
+  - first:
+      213: 1446533185247140888
+    second: GruntWalkUp_53
+  - first:
+      213: 2020203574495143409
+    second: GruntWalkUp_54
+  - first:
+      213: -45396227630479938
+    second: GruntWalkUp_55
+  - first:
+      213: 1035611975706308060
+    second: GruntWalkUp_56
+  - first:
+      213: -3415628274061258067
+    second: GruntWalkUp_57
+  - first:
+      213: -7462460730427021486
+    second: GruntWalkUp_58
+  - first:
+      213: -9086703406742184981
+    second: GruntWalkUp_59
+  - first:
+      213: 3073429762193348328
+    second: GruntWalkUp_60
+  - first:
+      213: -4835645648223194738
+    second: GruntWalkUp_61
+  - first:
+      213: -5682661038619000537
+    second: GruntWalkUp_62
+  - first:
+      213: -51898162034172392
+    second: GruntWalkUp_63
+  - first:
+      213: 1159255804333654969
+    second: GruntWalkUp_64
+  - first:
+      213: -3560107598605297729
+    second: GruntWalkUp_65
+  - first:
+      213: 7360376608911042207
+    second: GruntWalkUp_66
+  - first:
+      213: 151490882359444135
+    second: GruntWalkUp_67
+  - first:
+      213: -6520470843361218410
+    second: GruntWalkUp_68
+  - first:
+      213: 8086346707914131251
+    second: GruntWalkUp_69
+  - first:
+      213: 7314027574487279163
+    second: GruntWalkUp_0
+  - first:
+      213: -5745801721409972006
+    second: GruntWalkUp_1
+  - first:
+      213: -7880558498263163755
+    second: GruntWalkUp_2
+  - first:
+      213: 5612829646867306651
+    second: GruntWalkUp_3
+  - first:
+      213: 4574112683059711163
+    second: GruntWalkUp_4
+  - first:
+      213: -6398596929451940189
+    second: GruntWalkUp_5
+  - first:
+      213: -4955184289749842935
+    second: GruntWalkUp_6
+  - first:
+      213: -8801032778337246196
+    second: GruntWalkUp_7
+  - first:
+      213: -8086791701348301846
+    second: GruntWalkUp_8
+  - first:
+      213: -7550801922372461533
+    second: GruntWalkUp_9
+  - first:
+      213: -1104764894572632131
+    second: GruntWalkUp_10
+  - first:
+      213: 5065237028895576363
+    second: GruntWalkUp_11
+  - first:
+      213: 697328848052051303
+    second: GruntWalkUp_12
+  - first:
+      213: -1105050624435048067
+    second: GruntWalkUp_13
+  - first:
+      213: -5122339492400813938
+    second: GruntWalkUp_14
+  - first:
+      213: -5883318416535108715
+    second: GruntWalkUp_15
+  - first:
+      213: -6067035300847807114
+    second: GruntWalkUp_16
+  - first:
+      213: 4753662720053391143
+    second: GruntWalkUp_17
+  - first:
+      213: 2491820913511009753
+    second: GruntWalkUp_18
+  - first:
+      213: -5703237219112020869
+    second: GruntWalkUp_19
+  - first:
+      213: -6343557704153505526
+    second: GruntWalkUp_20
+  - first:
+      213: 1551677453093040178
+    second: GruntWalkUp_21
+  - first:
+      213: 1218244651045823108
+    second: GruntWalkUp_22
+  - first:
+      213: 8390256691556409537
+    second: GruntWalkUp_23
+  - first:
+      213: -7688134478634435596
+    second: GruntWalkUp_24
+  - first:
+      213: -6277003387011007950
+    second: GruntWalkUp_25
+  - first:
+      213: 2931194902836889139
+    second: GruntWalkUp_26
+  - first:
+      213: -8622358039283372563
+    second: GruntWalkUp_27
+  - first:
+      213: 6514510389081696054
+    second: GruntWalkUp_28
+  - first:
+      213: -4370048480017552967
+    second: GruntWalkUp_29
+  - first:
+      213: -8000302995065248360
+    second: GruntWalkUp_30
+  - first:
+      213: -5304644413166541920
+    second: GruntWalkUp_31
+  - first:
+      213: 2829940043787356248
+    second: GruntWalkUp_32
+  - first:
+      213: 2367306548196914908
+    second: GruntWalkUp_33
+  - first:
+      213: -6779388440397918853
+    second: GruntWalkUp_34
+  - first:
+      213: -8672635212979111304
+    second: GruntWalkUp_35
+  - first:
+      213: 8179312222004074481
+    second: GruntWalkUp_36
+  - first:
+      213: 1135712622890593925
+    second: GruntWalkUp_37
+  - first:
+      213: -1743852712168645404
+    second: GruntWalkUp_38
+  - first:
+      213: -8340573236296093600
+    second: GruntWalkUp_39
+  - first:
+      213: 4477909935545171865
+    second: GruntWalkUp_40
+  - first:
+      213: 3058536104170488566
+    second: GruntWalkUp_41
+  - first:
+      213: 1226899979327913583
+    second: GruntWalkUp_42
+  - first:
+      213: 1822162103061689532
+    second: GruntWalkUp_43
+  - first:
+      213: -2012267910713179824
+    second: GruntWalkUp_44
+  - first:
+      213: 8733818139070494624
+    second: GruntWalkUp_45
+  - first:
+      213: 34608596693559388
+    second: GruntWalkUp_46
+  - first:
+      213: 8892492429333238810
+    second: GruntWalkUp_47
+  - first:
+      213: 2847304636887698794
+    second: GruntWalkUp_48
+  - first:
+      213: 7563408802540253172
+    second: GruntWalkUp_49
+  - first:
+      213: -3943143919795228792
+    second: GruntWalkUp_50
+  - first:
+      213: 8774165418485930743
+    second: GruntWalkUp_51
+  - first:
+      213: 6051477365576754544
+    second: GruntWalkUp_52
+  - first:
+      213: -8990286861066449219
+    second: GruntWalkUp_53
+  - first:
+      213: 3368894667410764914
+    second: GruntWalkUp_54
+  - first:
+      213: 9048358537502791626
+    second: GruntWalkUp_55
+  - first:
+      213: -2960788640301329162
+    second: GruntWalkUp_56
+  - first:
+      213: 4201265224071066484
+    second: GruntWalkUp_57
+  - first:
+      213: -5546993254749498526
+    second: GruntWalkUp_58
+  - first:
+      213: 3351147031350054416
+    second: GruntWalkUp_59
+  - first:
+      213: -8242338896677915532
+    second: GruntWalkUp_60
+  - first:
+      213: -3917554277525071270
+    second: GruntWalkUp_61
+  - first:
+      213: 3863294273193140638
+    second: GruntWalkUp_62
+  - first:
+      213: -7783680592283697424
+    second: GruntWalkUp_63
+  - first:
+      213: -2039322273275250199
+    second: GruntWalkUp_64
+  - first:
+      213: 489233983879408274
+    second: GruntWalkUp_65
+  - first:
+      213: -7908361008788178904
+    second: GruntWalkUp_66
+  - first:
+      213: -8413960281085704574
+    second: GruntWalkUp_67
+  - first:
+      213: 3300131844328823353
+    second: GruntWalkUp_68
+  - first:
+      213: 6348608710316601458
+    second: GruntWalkUp_69
+  - first:
+      213: -6192736050473682989
+    second: GruntWalkUp_70
+  - first:
+      213: -523860911952718909
+    second: GruntWalkUp_71
+  - first:
+      213: 5622712464990363126
+    second: GruntWalkUp_72
+  - first:
+      213: -1515575749429173835
+    second: GruntWalkUp_73
+  - first:
+      213: -3173930631996535443
+    second: GruntWalkUp_74
+  - first:
+      213: -3172223295286278801
+    second: GruntWalkUp_75
+  - first:
+      213: 8775366198226181660
+    second: GruntWalkUp_76
+  - first:
+      213: -2513438117261584122
+    second: GruntWalkUp_77
+  - first:
+      213: 4537143318554352685
+    second: GruntWalkUp_78
+  - first:
+      213: 8502040275715011592
+    second: GruntWalkUp_79
+  - first:
+      213: -2580870799171908570
+    second: GruntWalkUp_80
+  - first:
+      213: 2617195044734740591
+    second: GruntWalkUp_81
+  - first:
+      213: -5180819674618851595
+    second: GruntWalkUp_82
+  - first:
+      213: 6570205843822076891
+    second: GruntWalkUp_83
+  - first:
+      213: -982319136981415555
+    second: GruntWalkUp_84
+  - first:
+      213: -6550730364112838909
+    second: GruntWalkUp_85
+  - first:
+      213: -2937520301590635162
+    second: GruntWalkUp_86
+  - first:
+      213: 7314326775065084289
+    second: GruntWalkUp_87
+  - first:
+      213: 6763951038294823199
+    second: GruntWalkUp_88
+  - first:
+      213: 873153384840817759
+    second: GruntWalkUp_89
+  - first:
+      213: 8160811755911733356
+    second: GruntWalkUp_90
+  - first:
+      213: -5379696942279229167
+    second: GruntWalkUp_91
+  - first:
+      213: 7331035429378484209
+    second: GruntWalkUp_92
+  - first:
+      213: 602997855967712652
+    second: GruntWalkUp_93
+  - first:
+      213: 1435068625639817134
+    second: GruntWalkUp_94
+  - first:
+      213: -428023288028850115
+    second: GruntWalkUp_95
+  - first:
+      213: -5984147226065681888
+    second: GruntWalkUp_96
+  - first:
+      213: -3356354741034183162
+    second: GruntWalkUp_97
+  - first:
+      213: 8580772862111808609
+    second: GruntWalkUp_98
+  - first:
+      213: 3221883575512875546
+    second: GruntWalkUp_99
+  - first:
+      213: 6235921974018109934
+    second: GruntWalkUp_100
+  - first:
+      213: -1533584345638143805
+    second: GruntWalkUp_101
+  - first:
+      213: -1823570649723573038
+    second: GruntWalkUp_102
+  - first:
+      213: -7948819882642333122
+    second: GruntWalkUp_103
+  - first:
+      213: -7905585987231335275
+    second: GruntWalkUp_104
+  - first:
+      213: 604268515773780468
+    second: GruntWalkUp_105
+  - first:
+      213: -3044777860946985542
+    second: GruntWalkUp_106
+  - first:
+      213: 4722944341538156837
+    second: GruntWalkUp_107
+  - first:
+      213: 5378880228615812462
+    second: GruntWalkUp_108
+  - first:
+      213: -7338623539078867976
+    second: GruntWalkUp_109
+  - first:
+      213: -6616433003990547118
+    second: GruntWalkUp_110
+  - first:
+      213: -8029128383028311670
+    second: GruntWalkUp_111
+  - first:
+      213: -8001661547241787651
+    second: GruntWalkUp_112
+  - first:
+      213: -7489323084567123323
+    second: GruntWalkUp_113
+  - first:
+      213: 1297427490931430197
+    second: GruntWalkUp_114
+  - first:
+      213: 6742129110728560497
+    second: GruntWalkUp_115
+  - first:
+      213: -4449241512018616523
+    second: GruntWalkUp_116
+  - first:
+      213: 439475385870840996
+    second: GruntWalkUp_117
+  - first:
+      213: 7072828585730244251
+    second: GruntWalkUp_118
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GruntWalkUp_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2328
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36e9bed355a08560800000000000000
+      internalID: 7314027574487279163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_1
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 2328
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8d785e6cfc240b0800000000000000
+      internalID: -5745801721409972006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_2
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 2328
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c965f7cc1a2a290800000000000000
+      internalID: -7880558498263163755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_3
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 2328
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b989e4663d6c4ed40800000000000000
+      internalID: 5612829646867306651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_4
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 2328
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc026420438a7f30800000000000000
+      internalID: 4574112683059711163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_5
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 2328
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6ac1f6efd9337a0800000000000000
+      internalID: -6398596929451940189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_6
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 2328
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9044dd46426ab3bb0800000000000000
+      internalID: -4955184289749842935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_7
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 2328
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04a3a661537cd580800000000000000
+      internalID: -8801032778337246196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_8
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 2328
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3ce841bc1f5cf80800000000000000
+      internalID: -8086791701348301846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_9
+      rect:
+        serializedVersion: 2
+        x: 3465
+        y: 2328
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c17af48a9263790800000000000000
+      internalID: -7550801922372461533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1940
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db72da28e261ba0f0800000000000000
+      internalID: -1104764894572632131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_11
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1940
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21d972bd365b4640800000000000000
+      internalID: 5065237028895576363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_12
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1940
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d56c784e86da900800000000000000
+      internalID: 697328848052051303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_13
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1940
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71b9b7df421aa0f0800000000000000
+      internalID: -1105050624435048067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_14
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 1940
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88ae78fe5bc9e8b0800000000000000
+      internalID: -5122339492400813938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_15
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 1940
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59349e142114a5ea0800000000000000
+      internalID: -5883318416535108715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_16
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 1940
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6751635d98f8dcba0800000000000000
+      internalID: -6067035300847807114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_17
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 1940
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72facc2de0768f140800000000000000
+      internalID: 4753662720053391143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_18
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 1940
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd86b92be9b49220800000000000000
+      internalID: 2491820913511009753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_19
+      rect:
+        serializedVersion: 2
+        x: 3465
+        y: 1940
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b749a0d57f70ad0b0800000000000000
+      internalID: -5703237219112020869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1552
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01ecbfa0e727f7a0800000000000000
+      internalID: -6343557704153505526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_21
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1552
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230f7952c6aa88510800000000000000
+      internalID: 1551677453093040178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_22
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1552
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4822b1b3e0318e010800000000000000
+      internalID: 1218244651045823108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_23
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1552
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0609ae10e207470800000000000000
+      internalID: 8390256691556409537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_24
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 1552
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbbf87dc624e4590800000000000000
+      internalID: -7688134478634435596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_25
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 1552
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23af84f2daa93e8a0800000000000000
+      internalID: -6277003387011007950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_26
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 1552
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3364707eb32bda820800000000000000
+      internalID: 2931194902836889139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_27
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 1552
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dede746eb0b375880800000000000000
+      internalID: -8622358039283372563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_28
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 1552
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6376ecafea0386a50800000000000000
+      internalID: 6514510389081696054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_29
+      rect:
+        serializedVersion: 2
+        x: 3465
+        y: 1552
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b961599f087a53c0800000000000000
+      internalID: -4370048480017552967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1164
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89564ab30d639f090800000000000000
+      internalID: -8000302995065248360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_31
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1164
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3a27de20e1266b0800000000000000
+      internalID: -5304644413166541920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_32
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1164
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8584995e977f54720800000000000000
+      internalID: 2829940043787356248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_33
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1164
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6bbb753cc5ad020800000000000000
+      internalID: 2367306548196914908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_34
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 1164
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d41b7d126cae1a0800000000000000
+      internalID: -6779388440397918853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_35
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 1164
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87af5df293c94a780800000000000000
+      internalID: -8672635212979111304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_36
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 1164
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7509b4121c28170800000000000000
+      internalID: 8179312222004074481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_37
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 1164
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e225efc9cd2cf00800000000000000
+      internalID: 1135712622890593925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_38
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 1164
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec169692379cc7e0800000000000000
+      internalID: -1743852712168645404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_39
+      rect:
+        serializedVersion: 2
+        x: 3465
+        y: 1164
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060f073f4d4504c80800000000000000
+      internalID: -8340573236296093600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 776
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99fbc548c5bb42e30800000000000000
+      internalID: 4477909935545171865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_41
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 776
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f20ac5c16a127a20800000000000000
+      internalID: 3058536104170488566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_42
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 776
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e36c2e703d60110800000000000000
+      internalID: 1226899979327913583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_43
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 776
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4bb2c47ce994910800000000000000
+      internalID: 1822162103061689532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_44
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 776
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05106052ffcf214e0800000000000000
+      internalID: -2012267910713179824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_45
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 776
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7f820e251c43970800000000000000
+      internalID: 8733818139070494624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_46
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 776
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c582818d554fa7000800000000000000
+      internalID: 34608596693559388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_47
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 776
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14124200ca786b70800000000000000
+      internalID: 8892492429333238810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_48
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 776
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d83094b78a38720800000000000000
+      internalID: 2847304636887698794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_49
+      rect:
+        serializedVersion: 2
+        x: 3465
+        y: 776
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff6976bb30a6f860800000000000000
+      internalID: 7563408802540253172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 388
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f2d522f732749c0800000000000000
+      internalID: -3943143919795228792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_51
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 388
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fade59e5f814c970800000000000000
+      internalID: 8774165418485930743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_52
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 388
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075e4851a9a2bf350800000000000000
+      internalID: 6051477365576754544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_53
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 388
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbec5418bb51c3380800000000000000
+      internalID: -8990286861066449219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_54
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 388
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274f9b0d9d7b0ce20800000000000000
+      internalID: 3368894667410764914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_55
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 388
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac71a3c462a329d70800000000000000
+      internalID: 9048358537502791626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_56
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 388
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4d3d72b6a29e6d0800000000000000
+      internalID: -2960788640301329162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_57
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 388
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47335f74674ed4a30800000000000000
+      internalID: 4201265224071066484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_58
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 388
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2631b27260f1503b0800000000000000
+      internalID: -5546993254749498526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_59
+      rect:
+        serializedVersion: 2
+        x: 3465
+        y: 388
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e89b9487aa18e20800000000000000
+      internalID: 3351147031350054416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474b02971745d9d80800000000000000
+      internalID: -8242338896677915532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_61
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 0
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a5ec3042d02a9c0800000000000000
+      internalID: -3917554277525071270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_62
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 0
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e916a704cad2d9530800000000000000
+      internalID: 3863294273193140638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_63
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 0
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fef3d3bdbfcaf390800000000000000
+      internalID: -7783680592283697424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_64
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 0
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9f2ee723fd2b3e0800000000000000
+      internalID: -2039322273275250199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_65
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 0
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a6e2d57bb1ac600800000000000000
+      internalID: 489233983879408274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_66
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 0
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82871a3109bdf3290800000000000000
+      internalID: -7908361008788178904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_67
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 0
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28604a314bb9b3b80800000000000000
+      internalID: -8413960281085704574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_68
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 0
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a9c257d6c6ccd20800000000000000
+      internalID: 3300131844328823353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkUp_69
+      rect:
+        serializedVersion: 2
+        x: 3465
+        y: 0
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2703f545cf9ca1850800000000000000
+      internalID: 6348608710316601458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 932a2ab44bc144f43b554fee4526810e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

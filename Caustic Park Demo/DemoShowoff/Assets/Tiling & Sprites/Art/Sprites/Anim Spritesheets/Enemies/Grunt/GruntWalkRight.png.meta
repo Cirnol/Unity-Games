@@ -1,0 +1,1786 @@
+fileFormatVersion: 2
+guid: c6015ad7d2ef3cb4c9c25f2d558af59f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1279834421014271265
+    second: GruntWalkRight_0
+  - first:
+      213: 5417207477477227254
+    second: GruntWalkRight_1
+  - first:
+      213: -6257600622867632957
+    second: GruntWalkRight_2
+  - first:
+      213: 5428206978785909707
+    second: GruntWalkRight_3
+  - first:
+      213: 8714730002934461764
+    second: GruntWalkRight_4
+  - first:
+      213: -8042848042703835052
+    second: GruntWalkRight_5
+  - first:
+      213: -74487227975750932
+    second: GruntWalkRight_6
+  - first:
+      213: 2951586655221070131
+    second: GruntWalkRight_7
+  - first:
+      213: -7754228250653402990
+    second: GruntWalkRight_8
+  - first:
+      213: 8348019183084044931
+    second: GruntWalkRight_9
+  - first:
+      213: 3470432252961212828
+    second: GruntWalkRight_10
+  - first:
+      213: 6507532411847711208
+    second: GruntWalkRight_11
+  - first:
+      213: -2029895529275383735
+    second: GruntWalkRight_12
+  - first:
+      213: 4286419939360338945
+    second: GruntWalkRight_13
+  - first:
+      213: 1798686714806755470
+    second: GruntWalkRight_14
+  - first:
+      213: -7388807952967815929
+    second: GruntWalkRight_15
+  - first:
+      213: -6169987694847520082
+    second: GruntWalkRight_16
+  - first:
+      213: 8269732818438714981
+    second: GruntWalkRight_17
+  - first:
+      213: 1703759890319924188
+    second: GruntWalkRight_18
+  - first:
+      213: 6624929416174112319
+    second: GruntWalkRight_19
+  - first:
+      213: 6686526711652001389
+    second: GruntWalkRight_20
+  - first:
+      213: 6149194129917810572
+    second: GruntWalkRight_21
+  - first:
+      213: -7371830175458872567
+    second: GruntWalkRight_22
+  - first:
+      213: 7526014886434049317
+    second: GruntWalkRight_23
+  - first:
+      213: -5511736737899151398
+    second: GruntWalkRight_24
+  - first:
+      213: -1062885963706702093
+    second: GruntWalkRight_25
+  - first:
+      213: 7089783177404337610
+    second: GruntWalkRight_26
+  - first:
+      213: 3751000845049623722
+    second: GruntWalkRight_27
+  - first:
+      213: 9121682808091366273
+    second: GruntWalkRight_28
+  - first:
+      213: -6333607215281803958
+    second: GruntWalkRight_29
+  - first:
+      213: -8981648809022615045
+    second: GruntWalkRight_30
+  - first:
+      213: -1129450908186124617
+    second: GruntWalkRight_31
+  - first:
+      213: -5653331185156967553
+    second: GruntWalkRight_32
+  - first:
+      213: -7401780572189992813
+    second: GruntWalkRight_33
+  - first:
+      213: 2916365211171229334
+    second: GruntWalkRight_34
+  - first:
+      213: 4361089041294362732
+    second: GruntWalkRight_35
+  - first:
+      213: -1317365368609098145
+    second: GruntWalkRight_36
+  - first:
+      213: -6570607560769149143
+    second: GruntWalkRight_37
+  - first:
+      213: 24261040729983644
+    second: GruntWalkRight_38
+  - first:
+      213: 6213000927078635873
+    second: GruntWalkRight_39
+  - first:
+      213: -6691188804456393588
+    second: GruntWalkRight_40
+  - first:
+      213: 1906810905040722036
+    second: GruntWalkRight_41
+  - first:
+      213: -3564985244796549986
+    second: GruntWalkRight_42
+  - first:
+      213: -7241134507302808529
+    second: GruntWalkRight_43
+  - first:
+      213: -8184167345406026939
+    second: GruntWalkRight_44
+  - first:
+      213: -1830557388526664618
+    second: GruntWalkRight_45
+  - first:
+      213: 361010475252575053
+    second: GruntWalkRight_46
+  - first:
+      213: -4497333917475340365
+    second: GruntWalkRight_47
+  - first:
+      213: 8299158983020724408
+    second: GruntWalkRight_48
+  - first:
+      213: 1922406115147299174
+    second: GruntWalkRight_49
+  - first:
+      213: -6880319521153408872
+    second: GruntWalkRight_50
+  - first:
+      213: 2485683061330210385
+    second: GruntWalkRight_51
+  - first:
+      213: 6279285812215008699
+    second: GruntWalkRight_52
+  - first:
+      213: 2106436463896804695
+    second: GruntWalkRight_53
+  - first:
+      213: -644146328234395465
+    second: GruntWalkRight_54
+  - first:
+      213: 7789847121515134128
+    second: GruntWalkRight_55
+  - first:
+      213: 1803911291485188190
+    second: GruntWalkRight_56
+  - first:
+      213: 6929102555251902404
+    second: GruntWalkRight_57
+  - first:
+      213: -3412966973816856187
+    second: GruntWalkRight_58
+  - first:
+      213: 2760640581623278327
+    second: GruntWalkRight_59
+  - first:
+      213: 1757300715414034705
+    second: GruntWalkRight_60
+  - first:
+      213: 6871151555964333451
+    second: GruntWalkRight_61
+  - first:
+      213: 7654339468539094929
+    second: GruntWalkRight_62
+  - first:
+      213: -826938372263186733
+    second: GruntWalkRight_63
+  - first:
+      213: 243907656477946577
+    second: GruntWalkRight_64
+  - first:
+      213: -6183976506814004234
+    second: GruntWalkRight_65
+  - first:
+      213: -8900545895444727486
+    second: GruntWalkRight_66
+  - first:
+      213: -7982491645993721063
+    second: GruntWalkRight_67
+  - first:
+      213: 4552073180553151501
+    second: GruntWalkRight_68
+  - first:
+      213: 5930857659358927930
+    second: GruntWalkRight_69
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GruntWalkRight_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1259fd300a2e2c110800000000000000
+      internalID: 1279834421014271265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_1
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 2400
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fabe99cf79cd2b40800000000000000
+      internalID: 5417207477477227254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_2
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 2400
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc26bf33698829a0800000000000000
+      internalID: -6257600622867632957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_3
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 2400
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb94d1cc7dd45b40800000000000000
+      internalID: 5428206978785909707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_4
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 2400
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445f85ad3c0f0f870800000000000000
+      internalID: 8714730002934461764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_5
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 2400
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45031386150126090800000000000000
+      internalID: -8042848042703835052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_6
+      rect:
+        serializedVersion: 2
+        x: 2442
+        y: 2400
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceaa334c24e57fef0800000000000000
+      internalID: -74487227975750932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_7
+      rect:
+        serializedVersion: 2
+        x: 2849
+        y: 2400
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3393c3cbc6426f820800000000000000
+      internalID: 2951586655221070131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_8
+      rect:
+        serializedVersion: 2
+        x: 3256
+        y: 2400
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298518c5d72736490800000000000000
+      internalID: -7754228250653402990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_9
+      rect:
+        serializedVersion: 2
+        x: 3663
+        y: 2400
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3820fd1a73f1ad370800000000000000
+      internalID: 8348019183084044931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99cfc63fb3792030800000000000000
+      internalID: 3470432252961212828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_11
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 2000
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9168c00466f4a50800000000000000
+      internalID: 6507532411847711208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_12
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 2000
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940236e55cc54d3e0800000000000000
+      internalID: -2029895529275383735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_13
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 2000
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10479b3793c6c7b30800000000000000
+      internalID: 4286419939360338945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_14
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 2000
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80654a890836f810800000000000000
+      internalID: 1798686714806755470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_15
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 2000
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70da5c9705ea57990800000000000000
+      internalID: -7388807952967815929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_16
+      rect:
+        serializedVersion: 2
+        x: 2442
+        y: 2000
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2151ca1eccf5aa0800000000000000
+      internalID: -6169987694847520082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_17
+      rect:
+        serializedVersion: 2
+        x: 2849
+        y: 2000
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566fd66fe2ef3c270800000000000000
+      internalID: 8269732818438714981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_18
+      rect:
+        serializedVersion: 2
+        x: 3256
+        y: 2000
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbd315e798f4a710800000000000000
+      internalID: 1703759890319924188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_19
+      rect:
+        serializedVersion: 2
+        x: 3663
+        y: 2000
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e0811243a70fb50800000000000000
+      internalID: 6624929416174112319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66ad251e905bcc50800000000000000
+      internalID: 6686526711652001389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_21
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1600
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c871ba83b73565550800000000000000
+      internalID: 6149194129917810572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_22
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1600
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903b447538ff1b990800000000000000
+      internalID: -7371830175458872567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_23
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 1600
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d04382aa6c17860800000000000000
+      internalID: 7526014886434049317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_24
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 1600
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adffc0aa3a06283b0800000000000000
+      internalID: -5511736737899151398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_25
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 1600
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f66380f8dedf31f0800000000000000
+      internalID: -1062885963706702093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_26
+      rect:
+        serializedVersion: 2
+        x: 2442
+        y: 1600
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acdc9bf8c38f36260800000000000000
+      internalID: 7089783177404337610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_27
+      rect:
+        serializedVersion: 2
+        x: 2849
+        y: 1600
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa47f59156b3e0430800000000000000
+      internalID: 3751000845049623722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_28
+      rect:
+        serializedVersion: 2
+        x: 3256
+        y: 1600
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183d21a6f2ab69e70800000000000000
+      internalID: 9121682808091366273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_29
+      rect:
+        serializedVersion: 2
+        x: 3663
+        y: 1600
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4de64a6bc18a18a0800000000000000
+      internalID: -6333607215281803958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf195e8bef5ca5380800000000000000
+      internalID: -8981648809022615045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_31
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1200
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bed25212626350f0800000000000000
+      internalID: -1129450908186124617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_32
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1200
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73b41f5d355b81b0800000000000000
+      internalID: -5653331185156967553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_33
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 1200
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3985a3139c7974990800000000000000
+      internalID: -7401780572189992813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_34
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 1200
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e0b2f35b2097820800000000000000
+      internalID: 2916365211171229334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_35
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 1200
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6803348063b58c30800000000000000
+      internalID: 4361089041294362732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_36
+      rect:
+        serializedVersion: 2
+        x: 2442
+        y: 1200
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5637ac4d27c7bde0800000000000000
+      internalID: -1317365368609098145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_37
+      rect:
+        serializedVersion: 2
+        x: 2849
+        y: 1200
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927ebdd6c3380d4a0800000000000000
+      internalID: -6570607560769149143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_38
+      rect:
+        serializedVersion: 2
+        x: 3256
+        y: 1200
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a879ab941365000800000000000000
+      internalID: 24261040729983644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_39
+      rect:
+        serializedVersion: 2
+        x: 3663
+        y: 1200
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169d1bfdc63093650800000000000000
+      internalID: 6213000927078635873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c845e49db3f1423a0800000000000000
+      internalID: -6691188804456393588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_41
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 800
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4781bc85a6a567a10800000000000000
+      internalID: 1906810905040722036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_42
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 800
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e948466dec0a68ec0800000000000000
+      internalID: -3564985244796549986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_43
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 800
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f249461e782528b90800000000000000
+      internalID: -7241134507302808529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_44
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 800
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bd8b2392ffb6e80800000000000000
+      internalID: -8184167345406026939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_45
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 800
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654c6ebf0cd8896e0800000000000000
+      internalID: -1830557388526664618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_46
+      rect:
+        serializedVersion: 2
+        x: 2442
+        y: 800
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bef915d11920500800000000000000
+      internalID: 361010475252575053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_47
+      rect:
+        serializedVersion: 2
+        x: 2849
+        y: 800
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bff09441a24691c0800000000000000
+      internalID: -4497333917475340365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_48
+      rect:
+        serializedVersion: 2
+        x: 3256
+        y: 800
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0417dcf198c2370800000000000000
+      internalID: 8299158983020724408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_49
+      rect:
+        serializedVersion: 2
+        x: 3663
+        y: 800
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669b4672d22cdaa10800000000000000
+      internalID: 1922406115147299174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890277859d13480a0800000000000000
+      internalID: -6880319521153408872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_51
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 400
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15eeac6139bee7220800000000000000
+      internalID: 2485683061330210385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_52
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 400
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbdc9385d21842750800000000000000
+      internalID: 6279285812215008699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_53
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 400
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75dbf74bdc09b3d10800000000000000
+      internalID: 2106436463896804695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_54
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 400
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8773ac3588f07f0800000000000000
+      internalID: -644146328234395465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_55
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 400
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc32844fa81b1c60800000000000000
+      internalID: 7789847121515134128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_56
+      rect:
+        serializedVersion: 2
+        x: 2442
+        y: 400
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e507a4713c7c80910800000000000000
+      internalID: 1803911291485188190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_57
+      rect:
+        serializedVersion: 2
+        x: 2849
+        y: 400
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c78a02ef0e192060800000000000000
+      internalID: 6929102555251902404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_58
+      rect:
+        serializedVersion: 2
+        x: 3256
+        y: 400
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581a187be94b2a0d0800000000000000
+      internalID: -3412966973816856187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_59
+      rect:
+        serializedVersion: 2
+        x: 3663
+        y: 400
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7faee248bf3cf4620800000000000000
+      internalID: 2760640581623278327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1191bc9a0bf236810800000000000000
+      internalID: 1757300715414034705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_61
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 0
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d602b6feb3b5f50800000000000000
+      internalID: 6871151555964333451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_62
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 0
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1976684313da93a60800000000000000
+      internalID: 7654339468539094929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_63
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 0
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3deec168eef1684f0800000000000000
+      internalID: -826938372263186733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_64
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 0
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2bd56a8b8826300800000000000000
+      internalID: 243907656477946577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_65
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 0
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f38df3912a1e2aa0800000000000000
+      internalID: -6183976506814004234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_66
+      rect:
+        serializedVersion: 2
+        x: 2442
+        y: 0
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249b4fa4aa8ea7480800000000000000
+      internalID: -8900545895444727486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_67
+      rect:
+        serializedVersion: 2
+        x: 2849
+        y: 0
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913650a142e783190800000000000000
+      internalID: -7982491645993721063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_68
+      rect:
+        serializedVersion: 2
+        x: 3256
+        y: 0
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04047690763c2f30800000000000000
+      internalID: 4552073180553151501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkRight_69
+      rect:
+        serializedVersion: 2
+        x: 3663
+        y: 0
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c5e7f3e93ae4250800000000000000
+      internalID: 5930857659358927930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a9ed95fcd482d5e4ea2f15dc69b6b955
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

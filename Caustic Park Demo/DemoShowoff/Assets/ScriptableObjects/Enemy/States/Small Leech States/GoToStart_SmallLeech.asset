@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01a2c9dffa70e804c811f5609b342970, type: 3}
+  m_Name: GoToStart_SmallLeech
+  m_EditorClassIdentifier: 
+  actions:
+  - {fileID: 11400000, guid: 46d27141b7ba50e40b4a0cf55a04a278, type: 2}
+  transitions:
+  - decision: {fileID: 11400000, guid: af21769afcc6a6c42adac88db8d8572e, type: 2}
+    trueState: {fileID: 11400000, guid: 5219e2bf4f3973a409f62d75b4880986, type: 2}
+    falseState: {fileID: 11400000, guid: 629a64ee6fc7a5d41a4d59ea99fc7d80, type: 2}

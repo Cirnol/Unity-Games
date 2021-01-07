@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5778516096007824194
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5778516096007824195}
+  - component: {fileID: 5778516096007824192}
+  m_Layer: 29
+  m_Name: BeamHandler
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5778516096007824195
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5778516096007824194}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5778516096007824192
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5778516096007824194}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8c7df145b2e6a34f9b006d05f1c6aa9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  BeamCount: 25
+  BeamWidth: 0.25
+  Distance: 60
+  bulb: {fileID: 11400000, guid: 98b91564b999f9644b490f66f2bb4fe6, type: 2}
+  ObstacleMask:
+    serializedVersion: 2
+    m_Bits: 256
+  CharacterMask:
+    serializedVersion: 2
+    m_Bits: 0
+  InteractableMask:
+    serializedVersion: 2
+    m_Bits: 2048
+  ReflectMask:
+    serializedVersion: 2
+    m_Bits: 0
+  Segments: []
+  BeamMaterial: {fileID: 2100000, guid: edc054e500d9e5d4ea8e86633bbd6965, type: 2}
+  active: 0
+  VisibleObstacles: []
+  VisibleCharacters: []
+  VisibleInteractables: []

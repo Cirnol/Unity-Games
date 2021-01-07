@@ -1,0 +1,3088 @@
+fileFormatVersion: 2
+guid: da5f2a1e0c1ff434cab9c730f9aac8e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4112351843018045626
+    second: GruntAttackRight_0
+  - first:
+      213: -4327458953614730100
+    second: GruntAttackRight_1
+  - first:
+      213: 8468413635865437843
+    second: GruntAttackRight_2
+  - first:
+      213: -2814283047190117383
+    second: GruntAttackRight_3
+  - first:
+      213: -3615146560714346756
+    second: GruntAttackRight_4
+  - first:
+      213: 6411219073640712838
+    second: GruntAttackRight_5
+  - first:
+      213: -8183412968588407184
+    second: GruntAttackRight_6
+  - first:
+      213: -7099637288507835347
+    second: GruntAttackRight_7
+  - first:
+      213: 644494279373976826
+    second: GruntAttackRight_8
+  - first:
+      213: -1506652789095147403
+    second: GruntAttackRight_9
+  - first:
+      213: -5039615593459998868
+    second: GruntAttackRight_10
+  - first:
+      213: -4231685247126206707
+    second: GruntAttackRight_11
+  - first:
+      213: 5577216389656215303
+    second: GruntAttackRight_12
+  - first:
+      213: 3459596589653011523
+    second: GruntAttackRight_13
+  - first:
+      213: 9000328767761867583
+    second: GruntAttackRight_14
+  - first:
+      213: -1759876167346127023
+    second: GruntAttackRight_15
+  - first:
+      213: -5272442067185344186
+    second: GruntAttackRight_16
+  - first:
+      213: -5387360423761173396
+    second: GruntAttackRight_17
+  - first:
+      213: 8719223316640114656
+    second: GruntAttackRight_18
+  - first:
+      213: 7351685763548700908
+    second: GruntAttackRight_19
+  - first:
+      213: 8115577685689194245
+    second: GruntAttackRight_20
+  - first:
+      213: 4044562091136836949
+    second: GruntAttackRight_21
+  - first:
+      213: 5690916596375242096
+    second: GruntAttackRight_22
+  - first:
+      213: 792239339003132862
+    second: GruntAttackRight_23
+  - first:
+      213: -5037858891691986525
+    second: GruntAttackRight_24
+  - first:
+      213: -5174557697207005445
+    second: GruntAttackRight_25
+  - first:
+      213: -7304960190455230512
+    second: GruntAttackRight_26
+  - first:
+      213: -8105152216585780858
+    second: GruntAttackRight_27
+  - first:
+      213: 6987992404335327387
+    second: GruntAttackRight_28
+  - first:
+      213: 4341204502296530320
+    second: GruntAttackRight_29
+  - first:
+      213: 4091064932936554175
+    second: GruntAttackRight_30
+  - first:
+      213: 5122473115883391730
+    second: GruntAttackRight_31
+  - first:
+      213: 7410975969564041586
+    second: GruntAttackRight_32
+  - first:
+      213: 4654833245557127862
+    second: GruntAttackRight_33
+  - first:
+      213: -2050663972246384907
+    second: GruntAttackRight_34
+  - first:
+      213: 2254574971069954413
+    second: GruntAttackRight_35
+  - first:
+      213: -5948162770564018890
+    second: GruntAttackRight_36
+  - first:
+      213: -7698629671435783822
+    second: GruntAttackRight_37
+  - first:
+      213: 3915056457092057512
+    second: GruntAttackRight_38
+  - first:
+      213: 7859452469065164095
+    second: GruntAttackRight_39
+  - first:
+      213: -1557009488875163893
+    second: GruntAttackRight_40
+  - first:
+      213: 1493414746589870086
+    second: GruntAttackRight_41
+  - first:
+      213: 4869606619401907939
+    second: GruntAttackRight_42
+  - first:
+      213: 730656905823151096
+    second: GruntAttackRight_43
+  - first:
+      213: -4270926806425145685
+    second: GruntAttackRight_44
+  - first:
+      213: -6471815147740712950
+    second: GruntAttackRight_45
+  - first:
+      213: -5828949008721345107
+    second: GruntAttackRight_46
+  - first:
+      213: -511525141557315119
+    second: GruntAttackRight_47
+  - first:
+      213: -989203939708287175
+    second: GruntAttackRight_48
+  - first:
+      213: 8602962782617904571
+    second: GruntAttackRight_49
+  - first:
+      213: 2957114637071621149
+    second: GruntAttackRight_50
+  - first:
+      213: -1303656245534625904
+    second: GruntAttackRight_51
+  - first:
+      213: 7114053823697030865
+    second: GruntAttackRight_52
+  - first:
+      213: -7073958288660250541
+    second: GruntAttackRight_53
+  - first:
+      213: -1374519332509616363
+    second: GruntAttackRight_54
+  - first:
+      213: -9212698839677180706
+    second: GruntAttackRight_55
+  - first:
+      213: 857790488059215543
+    second: GruntAttackRight_56
+  - first:
+      213: 5670841049164497647
+    second: GruntAttackRight_57
+  - first:
+      213: 3426675158288929089
+    second: GruntAttackRight_58
+  - first:
+      213: 5427088417251285554
+    second: GruntAttackRight_59
+  - first:
+      213: -174605183676489015
+    second: GruntAttackRight_60
+  - first:
+      213: -6500198689145656019
+    second: GruntAttackRight_61
+  - first:
+      213: 1149544125338452409
+    second: GruntAttackRight_62
+  - first:
+      213: -8361408481644779163
+    second: GruntAttackRight_63
+  - first:
+      213: -3814162443900872366
+    second: GruntAttackRight_64
+  - first:
+      213: -8561624202491572969
+    second: GruntAttackRight_65
+  - first:
+      213: 8799172420760866946
+    second: GruntAttackRight_66
+  - first:
+      213: 8353330010479100080
+    second: GruntAttackRight_67
+  - first:
+      213: 5462210696176965336
+    second: GruntAttackRight_68
+  - first:
+      213: -6907304647668718646
+    second: GruntAttackRight_69
+  - first:
+      213: -3550757906978318729
+    second: GruntAttackRight_70
+  - first:
+      213: -5091635350735596428
+    second: GruntAttackRight_71
+  - first:
+      213: -4096535200326567448
+    second: GruntAttackRight_72
+  - first:
+      213: 1610535558977019234
+    second: GruntAttackRight_73
+  - first:
+      213: -3661346830612694681
+    second: GruntAttackRight_74
+  - first:
+      213: 5873013008734182758
+    second: GruntAttackRight_75
+  - first:
+      213: -1951615803458957107
+    second: GruntAttackRight_76
+  - first:
+      213: -7077535392993466421
+    second: GruntAttackRight_77
+  - first:
+      213: -3009869689076764837
+    second: GruntAttackRight_78
+  - first:
+      213: -6880805122071397599
+    second: GruntAttackRight_79
+  - first:
+      213: 422108138639326369
+    second: GruntAttackRight_80
+  - first:
+      213: 7899236177040091452
+    second: GruntAttackRight_81
+  - first:
+      213: 6011507183871899215
+    second: GruntAttackRight_82
+  - first:
+      213: -1926467400281481309
+    second: GruntAttackRight_83
+  - first:
+      213: 8197318363764969508
+    second: GruntAttackRight_84
+  - first:
+      213: -2114309029726071643
+    second: GruntAttackRight_85
+  - first:
+      213: -2251110818906208481
+    second: GruntAttackRight_86
+  - first:
+      213: -5963709056697077686
+    second: GruntAttackRight_87
+  - first:
+      213: 516288842955089099
+    second: GruntAttackRight_88
+  - first:
+      213: -2715530938599234584
+    second: GruntAttackRight_89
+  - first:
+      213: -4531744888063968645
+    second: GruntAttackRight_90
+  - first:
+      213: 1304909223312324965
+    second: GruntAttackRight_91
+  - first:
+      213: -2408885268694409734
+    second: GruntAttackRight_92
+  - first:
+      213: 5746712335252998812
+    second: GruntAttackRight_93
+  - first:
+      213: -9074158083972459716
+    second: GruntAttackRight_94
+  - first:
+      213: -7267863168575617164
+    second: GruntAttackRight_95
+  - first:
+      213: 3411913930734939095
+    second: GruntAttackRight_96
+  - first:
+      213: -5431619779377525571
+    second: GruntAttackRight_97
+  - first:
+      213: 4390113234572594995
+    second: GruntAttackRight_98
+  - first:
+      213: -1128569676257741744
+    second: GruntAttackRight_99
+  - first:
+      213: -4793994869312746860
+    second: GruntAttackRight_100
+  - first:
+      213: -151041038338507517
+    second: GruntAttackRight_101
+  - first:
+      213: -2733223559124511492
+    second: GruntAttackRight_102
+  - first:
+      213: 966482834080583615
+    second: GruntAttackRight_103
+  - first:
+      213: 7171074621801389089
+    second: GruntAttackRight_104
+  - first:
+      213: -336732535702856637
+    second: GruntAttackRight_105
+  - first:
+      213: -4422854824827930581
+    second: GruntAttackRight_106
+  - first:
+      213: -5451319259307030746
+    second: GruntAttackRight_107
+  - first:
+      213: -4168687212378564553
+    second: GruntAttackRight_108
+  - first:
+      213: -98524612697179654
+    second: GruntAttackRight_109
+  - first:
+      213: -62116822114473916
+    second: GruntAttackRight_110
+  - first:
+      213: 700756430233680048
+    second: GruntAttackRight_111
+  - first:
+      213: 5171445002552211524
+    second: GruntAttackRight_112
+  - first:
+      213: -9177782135157219312
+    second: GruntAttackRight_113
+  - first:
+      213: 6667416818781934985
+    second: GruntAttackRight_114
+  - first:
+      213: -1671721135536300401
+    second: GruntAttackRight_115
+  - first:
+      213: -7060680406411691273
+    second: GruntAttackRight_116
+  - first:
+      213: 4887560442258340779
+    second: GruntAttackRight_117
+  - first:
+      213: 4201806503530169694
+    second: GruntAttackRight_118
+  - first:
+      213: 2498039793573418695
+    second: GruntAttackRight_119
+  - first:
+      213: 1937651967735955584
+    second: GruntAttackRight_120
+  - first:
+      213: -7661394028058995249
+    second: GruntAttackRight_121
+  - first:
+      213: -56542658659873481
+    second: GruntAttackRight_122
+  - first:
+      213: 6790569658863610821
+    second: GruntAttackRight_123
+  - first:
+      213: -3685869905768402272
+    second: GruntAttackRight_124
+  - first:
+      213: -8622178325665365993
+    second: GruntAttackRight_125
+  - first:
+      213: -8761724318004705799
+    second: GruntAttackRight_126
+  - first:
+      213: -7633987198385708682
+    second: GruntAttackRight_127
+  - first:
+      213: -6712056892728224595
+    second: GruntAttackRight_128
+  - first:
+      213: -1211832514454170452
+    second: GruntAttackRight_129
+  - first:
+      213: -2032831170139826078
+    second: GruntAttackRight_130
+  - first:
+      213: -2001791671453395987
+    second: GruntAttackRight_131
+  - first:
+      213: -6553248838033725987
+    second: GruntAttackRight_132
+  - first:
+      213: 1639338385233970841
+    second: GruntAttackRight_133
+  - first:
+      213: -2187761265202700007
+    second: GruntAttackRight_134
+  - first:
+      213: 5936730017314957434
+    second: GruntAttackRight_135
+  - first:
+      213: -675089047069808514
+    second: GruntAttackRight_136
+  - first:
+      213: -8818251858126912928
+    second: GruntAttackRight_137
+  - first:
+      213: 1210291225721930919
+    second: GruntAttackRight_138
+  - first:
+      213: -5933004710411575701
+    second: GruntAttackRight_139
+  - first:
+      213: 6279372681025861055
+    second: GruntAttackRight_140
+  - first:
+      213: 2134814595393663930
+    second: GruntAttackRight_141
+  - first:
+      213: 6334016800073656660
+    second: GruntAttackRight_142
+  - first:
+      213: 2789318495846086300
+    second: GruntAttackRight_143
+  - first:
+      213: -7088430739982250204
+    second: GruntAttackRight_144
+  - first:
+      213: -4760024879411274537
+    second: GruntAttackRight_145
+  - first:
+      213: 2225264662486284398
+    second: GruntAttackRight_146
+  - first:
+      213: -4952365988164434271
+    second: GruntAttackRight_147
+  - first:
+      213: 1401492101453074658
+    second: GruntAttackRight_148
+  - first:
+      213: -6209491633134630247
+    second: GruntAttackRight_149
+  - first:
+      213: 4663782534302769189
+    second: GruntAttackRight_150
+  - first:
+      213: -1175216179389126708
+    second: GruntAttackRight_151
+  - first:
+      213: -3146451598096144669
+    second: GruntAttackRight_152
+  - first:
+      213: -127320318436713968
+    second: GruntAttackRight_153
+  - first:
+      213: -4275022552123713184
+    second: GruntAttackRight_154
+  - first:
+      213: -5853851692272376541
+    second: GruntAttackRight_155
+  - first:
+      213: 1360503219906146638
+    second: GruntAttackRight_156
+  - first:
+      213: -4425729883562004660
+    second: GruntAttackRight_157
+  - first:
+      213: -5377021552338133837
+    second: GruntAttackRight_158
+  - first:
+      213: 8674573280866734783
+    second: GruntAttackRight_159
+  - first:
+      213: -8682685119064646387
+    second: GruntAttackRight_160
+  - first:
+      213: 1587437655532346032
+    second: GruntAttackRight_161
+  - first:
+      213: -5899314125594108746
+    second: GruntAttackRight_162
+  - first:
+      213: -7420296817886218042
+    second: GruntAttackRight_163
+  - first:
+      213: 4448439273715172283
+    second: GruntAttackRight_164
+  - first:
+      213: -6624919413527412914
+    second: GruntAttackRight_165
+  - first:
+      213: 1682703237094023771
+    second: GruntAttackRight_166
+  - first:
+      213: -6629548345460465384
+    second: GruntAttackRight_167
+  - first:
+      213: -2945630111329336820
+    second: GruntAttackRight_168
+  - first:
+      213: -814192196567573071
+    second: GruntAttackRight_169
+  - first:
+      213: -8291541374351938704
+    second: GruntAttackRight_170
+  - first:
+      213: 3584986349467721203
+    second: GruntAttackRight_171
+  - first:
+      213: -4249974888735306418
+    second: GruntAttackRight_172
+  - first:
+      213: 3301265189257063935
+    second: GruntAttackRight_173
+  - first:
+      213: -1010732591485672560
+    second: GruntAttackRight_174
+  - first:
+      213: -7699399172883439086
+    second: GruntAttackRight_175
+  - first:
+      213: -4837094110296351589
+    second: GruntAttackRight_176
+  - first:
+      213: 4596455669544720750
+    second: GruntAttackRight_177
+  - first:
+      213: -3409137173741436062
+    second: GruntAttackRight_178
+  - first:
+      213: 6834109747724712817
+    second: GruntAttackRight_179
+  - first:
+      213: -6825498253115224841
+    second: GruntAttackRight_180
+  - first:
+      213: -4261593698461273425
+    second: GruntAttackRight_181
+  - first:
+      213: 13691858453176226
+    second: GruntAttackRight_182
+  - first:
+      213: 2516982783166078183
+    second: GruntAttackRight_183
+  - first:
+      213: -8968107813131283811
+    second: GruntAttackRight_184
+  - first:
+      213: 2361705036523106169
+    second: GruntAttackRight_185
+  - first:
+      213: -7570449793055822510
+    second: GruntAttackRight_186
+  - first:
+      213: 2015235851932084417
+    second: GruntAttackRight_187
+  - first:
+      213: -3344834899013576741
+    second: GruntAttackRight_188
+  - first:
+      213: 4220497350324199191
+    second: GruntAttackRight_189
+  - first:
+      213: 5353004934168333241
+    second: GruntAttackRight_190
+  - first:
+      213: -4260743699990830720
+    second: GruntAttackRight_191
+  - first:
+      213: 6205139250766775854
+    second: GruntAttackRight_192
+  - first:
+      213: -8461945884260457874
+    second: GruntAttackRight_193
+  - first:
+      213: -7674241232138547444
+    second: GruntAttackRight_194
+  - first:
+      213: -6449899658479949593
+    second: GruntAttackRight_195
+  - first:
+      213: 1473211250995341516
+    second: GruntAttackRight_196
+  - first:
+      213: 2419329678327985394
+    second: GruntAttackRight_197
+  - first:
+      213: 4805160147898061105
+    second: GruntAttackRight_198
+  - first:
+      213: 4375584643787346820
+    second: GruntAttackRight_199
+  - first:
+      213: -8559882706740716163
+    second: GruntAttackRight_200
+  - first:
+      213: 216109952782665107
+    second: GruntAttackRight_201
+  - first:
+      213: 7508466734082130216
+    second: GruntAttackRight_202
+  - first:
+      213: 6437386822190273569
+    second: GruntAttackRight_203
+  - first:
+      213: -1786001863780446252
+    second: GruntAttackRight_204
+  - first:
+      213: -928292364753939019
+    second: GruntAttackRight_205
+  - first:
+      213: -2631999205212077028
+    second: GruntAttackRight_206
+  - first:
+      213: -7467228089951445577
+    second: GruntAttackRight_207
+  - first:
+      213: -9191603614257983633
+    second: GruntAttackRight_208
+  - first:
+      213: -8383904464372699221
+    second: GruntAttackRight_209
+  - first:
+      213: 8550660373025723806
+    second: GruntAttackRight_210
+  - first:
+      213: -8146596205925104577
+    second: GruntAttackRight_211
+  - first:
+      213: 3854371168002584325
+    second: GruntAttackRight_212
+  - first:
+      213: 1334615566025366442
+    second: GruntAttackRight_213
+  - first:
+      213: -265679235408801111
+    second: GruntAttackRight_214
+  - first:
+      213: 5545849792549196027
+    second: GruntAttackRight_215
+  - first:
+      213: -8753956512833524265
+    second: GruntAttackRight_216
+  - first:
+      213: 1270448068301038189
+    second: GruntAttackRight_217
+  - first:
+      213: 8708010533263144750
+    second: GruntAttackRight_218
+  - first:
+      213: 400571896749817386
+    second: GruntAttackRight_219
+  - first:
+      213: 4158618673150206787
+    second: GruntAttackRight_220
+  - first:
+      213: 370191562232066294
+    second: GruntAttackRight_221
+  - first:
+      213: -8220301310347414447
+    second: GruntAttackRight_222
+  - first:
+      213: 7632453912877172653
+    second: GruntAttackRight_223
+  - first:
+      213: 7800766683672961606
+    second: GruntAttackRight_224
+  - first:
+      213: 6712078563114964976
+    second: GruntAttackRight_225
+  - first:
+      213: -1126521256557659875
+    second: GruntAttackRight_226
+  - first:
+      213: -8847923096998579312
+    second: GruntAttackRight_227
+  - first:
+      213: 1766838182031343104
+    second: GruntAttackRight_228
+  - first:
+      213: -4297226648383543410
+    second: GruntAttackRight_229
+  - first:
+      213: -9090527839818104816
+    second: GruntAttackRight_230
+  - first:
+      213: -8739731712941561142
+    second: GruntAttackRight_231
+  - first:
+      213: -5221667363156780622
+    second: GruntAttackRight_232
+  - first:
+      213: -7805780510487211317
+    second: GruntAttackRight_233
+  - first:
+      213: -7217069817013375413
+    second: GruntAttackRight_234
+  - first:
+      213: 6685554593498796357
+    second: GruntAttackRight_235
+  - first:
+      213: -748737619262606893
+    second: GruntAttackRight_236
+  - first:
+      213: 5822236117739837826
+    second: GruntAttackRight_237
+  - first:
+      213: 5150303429607199379
+    second: GruntAttackRight_238
+  - first:
+      213: 8989839584773821928
+    second: GruntAttackRight_239
+  - first:
+      213: 3243358476377678414
+    second: GruntAttackRight_240
+  - first:
+      213: -2850843241497289964
+    second: GruntAttackRight_241
+  - first:
+      213: 654768947968589407
+    second: GruntAttackRight_242
+  - first:
+      213: 5604581781942923511
+    second: GruntAttackRight_243
+  - first:
+      213: 338273842684403952
+    second: GruntAttackRight_244
+  - first:
+      213: -1683675655434034199
+    second: GruntAttackRight_245
+  - first:
+      213: 2033643533762924273
+    second: GruntAttackRight_246
+  - first:
+      213: -1107100101689741070
+    second: GruntAttackRight_247
+  - first:
+      213: 2155139430109536193
+    second: GruntAttackRight_248
+  - first:
+      213: -5698443724885382154
+    second: GruntAttackRight_249
+  - first:
+      213: -8542776673005329327
+    second: GruntAttackRight_250
+  - first:
+      213: -3389570807740371926
+    second: GruntAttackRight_251
+  - first:
+      213: 1745400078964556630
+    second: GruntAttackRight_252
+  - first:
+      213: 4800188790693080161
+    second: GruntAttackRight_253
+  - first:
+      213: -5169125298821394199
+    second: GruntAttackRight_254
+  - first:
+      213: -4242089377132008143
+    second: GruntAttackRight_255
+  - first:
+      213: 8510745416190002786
+    second: GruntAttackRight_256
+  - first:
+      213: -7171039586947587989
+    second: GruntAttackRight_257
+  - first:
+      213: 5298865958040475127
+    second: GruntAttackRight_258
+  - first:
+      213: 5615843202638362829
+    second: GruntAttackRight_259
+  - first:
+      213: -7257897981392349657
+    second: GruntAttackRight_260
+  - first:
+      213: 2556683051518569000
+    second: GruntAttackRight_261
+  - first:
+      213: -8436742151973674559
+    second: GruntAttackRight_262
+  - first:
+      213: 5780706290970575389
+    second: GruntAttackRight_263
+  - first:
+      213: 6616370400042851389
+    second: GruntAttackRight_264
+  - first:
+      213: -8297068117268895680
+    second: GruntAttackRight_265
+  - first:
+      213: -3138654633821762065
+    second: GruntAttackRight_266
+  - first:
+      213: -3068272342125406235
+    second: GruntAttackRight_267
+  - first:
+      213: 3387560432687096842
+    second: GruntAttackRight_268
+  - first:
+      213: -6269181905343902204
+    second: GruntAttackRight_269
+  - first:
+      213: 5917198779525110005
+    second: GruntAttackRight_270
+  - first:
+      213: -8015317068526552698
+    second: GruntAttackRight_271
+  - first:
+      213: -2710941021649288621
+    second: GruntAttackRight_272
+  - first:
+      213: -4950959291812358644
+    second: GruntAttackRight_273
+  - first:
+      213: 6463260037492425955
+    second: GruntAttackRight_274
+  - first:
+      213: 1756596850912706114
+    second: GruntAttackRight_275
+  - first:
+      213: 1719983835190045363
+    second: GruntAttackRight_276
+  - first:
+      213: -1693183383876375487
+    second: GruntAttackRight_277
+  - first:
+      213: 826933753116356999
+    second: GruntAttackRight_278
+  - first:
+      213: -7188585669893350795
+    second: GruntAttackRight_279
+  - first:
+      213: -2231393391749331371
+    second: GruntAttackRight_280
+  - first:
+      213: -4423369937409646719
+    second: GruntAttackRight_281
+  - first:
+      213: -7618744158327716999
+    second: GruntAttackRight_282
+  - first:
+      213: -5396544399850630016
+    second: GruntAttackRight_283
+  - first:
+      213: -4415663731837807270
+    second: GruntAttackRight_284
+  - first:
+      213: -5253846571867525756
+    second: GruntAttackRight_285
+  - first:
+      213: -6929773264261961220
+    second: GruntAttackRight_286
+  - first:
+      213: -4440220925957402913
+    second: GruntAttackRight_287
+  - first:
+      213: -8649217448101457369
+    second: GruntAttackRight_288
+  - first:
+      213: -6678232138728125985
+    second: GruntAttackRight_289
+  - first:
+      213: 5787865727756616565
+    second: GruntAttackRight_290
+  - first:
+      213: -4699422133743724822
+    second: GruntAttackRight_291
+  - first:
+      213: -1281075618643253431
+    second: GruntAttackRight_292
+  - first:
+      213: 4573264109094802108
+    second: GruntAttackRight_293
+  - first:
+      213: 7775233421864704022
+    second: GruntAttackRight_294
+  - first:
+      213: -4438152255896334839
+    second: GruntAttackRight_295
+  - first:
+      213: -8656125848198715321
+    second: GruntAttackRight_296
+  - first:
+      213: -2939719869100910527
+    second: GruntAttackRight_297
+  - first:
+      213: 4239250474140185203
+    second: GruntAttackRight_298
+  - first:
+      213: 3690394160863353495
+    second: GruntAttackRight_299
+  - first:
+      213: -1370632686223634138
+    second: GruntAttackRight_300
+  - first:
+      213: 1963102577509198327
+    second: GruntAttackRight_301
+  - first:
+      213: -2711265995087210503
+    second: GruntAttackRight_302
+  - first:
+      213: 520293370347373873
+    second: GruntAttackRight_303
+  - first:
+      213: 6167999738810836496
+    second: GruntAttackRight_304
+  - first:
+      213: -2647337954579127846
+    second: GruntAttackRight_305
+  - first:
+      213: -1607422121970765212
+    second: GruntAttackRight_306
+  - first:
+      213: 8774347056832498090
+    second: GruntAttackRight_307
+  - first:
+      213: 2448118728389971344
+    second: GruntAttackRight_308
+  - first:
+      213: -5694704311127041135
+    second: GruntAttackRight_309
+  - first:
+      213: -1998451145120758400
+    second: GruntAttackRight_310
+  - first:
+      213: -7159837447245232426
+    second: GruntAttackRight_311
+  - first:
+      213: -1984738174456375512
+    second: GruntAttackRight_312
+  - first:
+      213: -4633601734228797348
+    second: GruntAttackRight_313
+  - first:
+      213: 7924596094536864849
+    second: GruntAttackRight_314
+  - first:
+      213: 4612411813703623576
+    second: GruntAttackRight_315
+  - first:
+      213: 8601104960548751482
+    second: GruntAttackRight_316
+  - first:
+      213: 7240841885649798971
+    second: GruntAttackRight_317
+  - first:
+      213: -2798222866719767187
+    second: GruntAttackRight_318
+  - first:
+      213: -2903264641099085578
+    second: GruntAttackRight_319
+  - first:
+      213: 3970618273320980277
+    second: GruntAttackRight_320
+  - first:
+      213: 765578906238568981
+    second: GruntAttackRight_321
+  - first:
+      213: 4932694304765372494
+    second: GruntAttackRight_322
+  - first:
+      213: -5275804546935491333
+    second: GruntAttackRight_323
+  - first:
+      213: -2487625521810153690
+    second: GruntAttackRight_324
+  - first:
+      213: -2286953054137594021
+    second: GruntAttackRight_325
+  - first:
+      213: -2472653549793813708
+    second: GruntAttackRight_326
+  - first:
+      213: -8434490371759704759
+    second: GruntAttackRight_327
+  - first:
+      213: -2492843240252016462
+    second: GruntAttackRight_328
+  - first:
+      213: -5692277264782206558
+    second: GruntAttackRight_329
+  - first:
+      213: 8786710794304479871
+    second: GruntAttackRight_330
+  - first:
+      213: 1330275107804335538
+    second: GruntAttackRight_331
+  - first:
+      213: -3494189936830897635
+    second: GruntAttackRight_332
+  - first:
+      213: -1539094536069941830
+    second: GruntAttackRight_333
+  - first:
+      213: 1353279640540192557
+    second: GruntAttackRight_334
+  - first:
+      213: 5404963234257458789
+    second: GruntAttackRight_335
+  - first:
+      213: 6131315829034256629
+    second: GruntAttackRight_336
+  - first:
+      213: 3768765085540689744
+    second: GruntAttackRight_337
+  - first:
+      213: 4840093970770145763
+    second: GruntAttackRight_338
+  - first:
+      213: -3311074570910349702
+    second: GruntAttackRight_339
+  - first:
+      213: -6972575885998751724
+    second: GruntAttackRight_340
+  - first:
+      213: 9160778429142924445
+    second: GruntAttackRight_341
+  - first:
+      213: -2678074326159003611
+    second: GruntAttackRight_342
+  - first:
+      213: -4157788803142227363
+    second: GruntAttackRight_343
+  - first:
+      213: 3331195030606736816
+    second: GruntAttackRight_344
+  - first:
+      213: -5956407800967361773
+    second: GruntAttackRight_345
+  - first:
+      213: 3199588837108860033
+    second: GruntAttackRight_346
+  - first:
+      213: 3213870645553068791
+    second: GruntAttackRight_347
+  - first:
+      213: -8555655472068634012
+    second: GruntAttackRight_348
+  - first:
+      213: 2884016337466461564
+    second: GruntAttackRight_349
+  - first:
+      213: 4997666844678232820
+    second: GruntAttackRight_350
+  - first:
+      213: -1852682144812428228
+    second: GruntAttackRight_351
+  - first:
+      213: -7786325893044224033
+    second: GruntAttackRight_352
+  - first:
+      213: -3162323739222457499
+    second: GruntAttackRight_353
+  - first:
+      213: -4043598509918073483
+    second: GruntAttackRight_354
+  - first:
+      213: -7323485384212698928
+    second: GruntAttackRight_355
+  - first:
+      213: -7215755932516451701
+    second: GruntAttackRight_356
+  - first:
+      213: -4080964197391338349
+    second: GruntAttackRight_357
+  - first:
+      213: -8321679413742383200
+    second: GruntAttackRight_358
+  - first:
+      213: -4061812136909282425
+    second: GruntAttackRight_359
+  - first:
+      213: 42487526481050855
+    second: GruntAttackRight_360
+  - first:
+      213: 1511810994424258569
+    second: GruntAttackRight_361
+  - first:
+      213: 2329689874356523956
+    second: GruntAttackRight_362
+  - first:
+      213: 4986959516823687628
+    second: GruntAttackRight_363
+  - first:
+      213: 6346767706938505534
+    second: GruntAttackRight_364
+  - first:
+      213: -2115372436108661235
+    second: GruntAttackRight_365
+  - first:
+      213: -2267038242530269311
+    second: GruntAttackRight_366
+  - first:
+      213: -8721890235095299532
+    second: GruntAttackRight_367
+  - first:
+      213: -1530676555836130970
+    second: GruntAttackRight_368
+  - first:
+      213: 7687445433765102307
+    second: GruntAttackRight_369
+  - first:
+      213: -6068162000132701271
+    second: GruntAttackRight_370
+  - first:
+      213: -3250674421162072771
+    second: GruntAttackRight_371
+  - first:
+      213: -562259794544048061
+    second: GruntAttackRight_372
+  - first:
+      213: 4916055279640933923
+    second: GruntAttackRight_373
+  - first:
+      213: 1891613936455932495
+    second: GruntAttackRight_374
+  - first:
+      213: -1868139153922291951
+    second: GruntAttackRight_375
+  - first:
+      213: 9000546918566460717
+    second: GruntAttackRight_376
+  - first:
+      213: -439639174652746333
+    second: GruntAttackRight_377
+  - first:
+      213: -3791246815152032202
+    second: GruntAttackRight_378
+  - first:
+      213: -4910572181843411783
+    second: GruntAttackRight_379
+  - first:
+      213: -362897252675318442
+    second: GruntAttackRight_380
+  - first:
+      213: 2816573253304811772
+    second: GruntAttackRight_381
+  - first:
+      213: 8781452439552170377
+    second: GruntAttackRight_382
+  - first:
+      213: -72144142204529895
+    second: GruntAttackRight_383
+  - first:
+      213: -3410607926684084568
+    second: GruntAttackRight_384
+  - first:
+      213: 677872689323562287
+    second: GruntAttackRight_385
+  - first:
+      213: 1382740623567349028
+    second: GruntAttackRight_386
+  - first:
+      213: -2056884273152758644
+    second: GruntAttackRight_387
+  - first:
+      213: 8072742648150362062
+    second: GruntAttackRight_388
+  - first:
+      213: -5414448168957720481
+    second: GruntAttackRight_389
+  - first:
+      213: -1109761349971930060
+    second: GruntAttackRight_390
+  - first:
+      213: -5338373658775967074
+    second: GruntAttackRight_391
+  - first:
+      213: -3685857614284404794
+    second: GruntAttackRight_392
+  - first:
+      213: 1949352432405307594
+    second: GruntAttackRight_393
+  - first:
+      213: -6106807550894667420
+    second: GruntAttackRight_394
+  - first:
+      213: -5925125620439806192
+    second: GruntAttackRight_395
+  - first:
+      213: -3788585648886639414
+    second: GruntAttackRight_396
+  - first:
+      213: 3892511768751626709
+    second: GruntAttackRight_397
+  - first:
+      213: 3412317534498659118
+    second: GruntAttackRight_398
+  - first:
+      213: 5937399266884207261
+    second: GruntAttackRight_399
+  - first:
+      213: 3232452163516007557
+    second: GruntAttackRight_400
+  - first:
+      213: -8933807854597848200
+    second: GruntAttackRight_401
+  - first:
+      213: -4692758650645607024
+    second: GruntAttackRight_402
+  - first:
+      213: -4059126518736642358
+    second: GruntAttackRight_403
+  - first:
+      213: -5504276280450070345
+    second: GruntAttackRight_404
+  - first:
+      213: -8826185875079978625
+    second: GruntAttackRight_405
+  - first:
+      213: 5808176820171106791
+    second: GruntAttackRight_406
+  - first:
+      213: -2692634231247661851
+    second: GruntAttackRight_407
+  - first:
+      213: -5429274564259208662
+    second: GruntAttackRight_408
+  - first:
+      213: -2842242017069042263
+    second: GruntAttackRight_409
+  - first:
+      213: 5073729886320525848
+    second: GruntAttackRight_410
+  - first:
+      213: -8154788155342921606
+    second: GruntAttackRight_411
+  - first:
+      213: 8215688400712782680
+    second: GruntAttackRight_412
+  - first:
+      213: 765901922559068133
+    second: GruntAttackRight_413
+  - first:
+      213: 5356923546825312037
+    second: GruntAttackRight_414
+  - first:
+      213: -7158957150105866295
+    second: GruntAttackRight_415
+  - first:
+      213: 3627128504883064210
+    second: GruntAttackRight_416
+  - first:
+      213: 263347607429875629
+    second: GruntAttackRight_417
+  - first:
+      213: -5060705084564072304
+    second: GruntAttackRight_418
+  - first:
+      213: -670868972115310600
+    second: GruntAttackRight_419
+  - first:
+      213: 1520077218062297186
+    second: GruntAttackRight_420
+  - first:
+      213: -4180478190799043634
+    second: GruntAttackRight_421
+  - first:
+      213: -8576513806492144867
+    second: GruntAttackRight_422
+  - first:
+      213: 7383844742719501397
+    second: GruntAttackRight_423
+  - first:
+      213: -896563548500706838
+    second: GruntAttackRight_424
+  - first:
+      213: -1829902983813438334
+    second: GruntAttackRight_425
+  - first:
+      213: 8427047427882123695
+    second: GruntAttackRight_426
+  - first:
+      213: 4532730393982534256
+    second: GruntAttackRight_427
+  - first:
+      213: 1836458020679643475
+    second: GruntAttackRight_428
+  - first:
+      213: -6354167778759872074
+    second: GruntAttackRight_429
+  - first:
+      213: 5686351088696131367
+    second: GruntAttackRight_430
+  - first:
+      213: 4781387754929229899
+    second: GruntAttackRight_431
+  - first:
+      213: -5592580060663673201
+    second: GruntAttackRight_432
+  - first:
+      213: 4820862694113789643
+    second: GruntAttackRight_433
+  - first:
+      213: 8561325698299149112
+    second: GruntAttackRight_434
+  - first:
+      213: -9169534167004454415
+    second: GruntAttackRight_435
+  - first:
+      213: 9208917083870104135
+    second: GruntAttackRight_436
+  - first:
+      213: -8886996007063403269
+    second: GruntAttackRight_437
+  - first:
+      213: 3659956439169783570
+    second: GruntAttackRight_438
+  - first:
+      213: -1947113424823270857
+    second: GruntAttackRight_439
+  - first:
+      213: 2656022477472806992
+    second: GruntAttackRight_440
+  - first:
+      213: -5303867282393394488
+    second: GruntAttackRight_441
+  - first:
+      213: -207943968787983069
+    second: GruntAttackRight_442
+  - first:
+      213: 532403353612377894
+    second: GruntAttackRight_443
+  - first:
+      213: 6949116855380759998
+    second: GruntAttackRight_444
+  - first:
+      213: 6495923199861893759
+    second: GruntAttackRight_445
+  - first:
+      213: -2010803500265623740
+    second: GruntAttackRight_446
+  - first:
+      213: -6358028492387107602
+    second: GruntAttackRight_447
+  - first:
+      213: -1530115635936240279
+    second: GruntAttackRight_448
+  - first:
+      213: -293338052435952243
+    second: GruntAttackRight_449
+  - first:
+      213: 5329270014811350125
+    second: GruntAttackRight_450
+  - first:
+      213: -3266848253191424433
+    second: GruntAttackRight_451
+  - first:
+      213: 1747384872850428125
+    second: GruntAttackRight_452
+  - first:
+      213: 3058415782069418200
+    second: GruntAttackRight_453
+  - first:
+      213: 6612712849232883325
+    second: GruntAttackRight_454
+  - first:
+      213: -284809359823889602
+    second: GruntAttackRight_455
+  - first:
+      213: 5581622127262498994
+    second: GruntAttackRight_456
+  - first:
+      213: -2954180076180711076
+    second: GruntAttackRight_457
+  - first:
+      213: 7186251500683573979
+    second: GruntAttackRight_458
+  - first:
+      213: -8101120801133250395
+    second: GruntAttackRight_459
+  - first:
+      213: 1346130368648126023
+    second: GruntAttackRight_460
+  - first:
+      213: -8499871168810561270
+    second: GruntAttackRight_461
+  - first:
+      213: 8642500371420707152
+    second: GruntAttackRight_462
+  - first:
+      213: 5466197501154883913
+    second: GruntAttackRight_463
+  - first:
+      213: -1168499627944386165
+    second: GruntAttackRight_464
+  - first:
+      213: 5913866465417640661
+    second: GruntAttackRight_465
+  - first:
+      213: -2511519226283092660
+    second: GruntAttackRight_466
+  - first:
+      213: -6207295803720498567
+    second: GruntAttackRight_467
+  - first:
+      213: 569356704625056603
+    second: GruntAttackRight_468
+  - first:
+      213: 5707416613297261454
+    second: GruntAttackRight_469
+  - first:
+      213: 3216686727054011584
+    second: GruntAttackRight_470
+  - first:
+      213: -4559229481919079343
+    second: GruntAttackRight_471
+  - first:
+      213: 5139866088012401024
+    second: GruntAttackRight_472
+  - first:
+      213: 6127030558272093675
+    second: GruntAttackRight_473
+  - first:
+      213: -6548548404054502519
+    second: GruntAttackRight_474
+  - first:
+      213: -1924992083207283729
+    second: GruntAttackRight_475
+  - first:
+      213: -7807094806818538695
+    second: GruntAttackRight_476
+  - first:
+      213: 723485071983173057
+    second: GruntAttackRight_477
+  - first:
+      213: -5789363670427039626
+    second: GruntAttackRight_478
+  - first:
+      213: -482753435667375967
+    second: GruntAttackRight_479
+  - first:
+      213: -803015653023202213
+    second: GruntAttackRight_480
+  - first:
+      213: -7333288928200656034
+    second: GruntAttackRight_481
+  - first:
+      213: -7056197902016424212
+    second: GruntAttackRight_482
+  - first:
+      213: 3124975190317984434
+    second: GruntAttackRight_483
+  - first:
+      213: 6940513046126162967
+    second: GruntAttackRight_484
+  - first:
+      213: 5985219562316718147
+    second: GruntAttackRight_485
+  - first:
+      213: 6891675856451980275
+    second: GruntAttackRight_486
+  - first:
+      213: 6162773583598956694
+    second: GruntAttackRight_487
+  - first:
+      213: -1790846763711606753
+    second: GruntAttackRight_488
+  - first:
+      213: 7618182008163265862
+    second: GruntAttackRight_489
+  - first:
+      213: -103104671055421010
+    second: GruntAttackRight_490
+  - first:
+      213: -3590525331293233433
+    second: GruntAttackRight_491
+  - first:
+      213: -6928263864243045525
+    second: GruntAttackRight_492
+  - first:
+      213: 2427732375482600615
+    second: GruntAttackRight_493
+  - first:
+      213: -3677732550018910876
+    second: GruntAttackRight_494
+  - first:
+      213: -7671896320243868845
+    second: GruntAttackRight_495
+  - first:
+      213: -4534293873847150983
+    second: GruntAttackRight_496
+  - first:
+      213: 3929890181659119558
+    second: GruntAttackRight_497
+  - first:
+      213: -7781493929728307081
+    second: GruntAttackRight_498
+  - first:
+      213: 3696577220672016299
+    second: GruntAttackRight_499
+  - first:
+      213: 5790599105989058066
+    second: GruntAttackRight_500
+  - first:
+      213: 606453953091205363
+    second: GruntAttackRight_501
+  - first:
+      213: -179248691801502951
+    second: GruntAttackRight_502
+  - first:
+      213: 1911660166799735766
+    second: GruntAttackRight_503
+  - first:
+      213: 4546047439283211007
+    second: GruntAttackRight_504
+  - first:
+      213: -5740584443774564665
+    second: GruntAttackRight_505
+  - first:
+      213: -9030015841182612180
+    second: GruntAttackRight_506
+  - first:
+      213: -3559936616687641527
+    second: GruntAttackRight_507
+  - first:
+      213: 3159751924166425698
+    second: GruntAttackRight_508
+  - first:
+      213: -7837496532615275255
+    second: GruntAttackRight_509
+  - first:
+      213: 5103087484965888384
+    second: GruntAttackRight_510
+  - first:
+      213: -9001767251228648980
+    second: GruntAttackRight_511
+  - first:
+      213: -4090445630740789366
+    second: GruntAttackRight_512
+  - first:
+      213: 4443695222048818941
+    second: GruntAttackRight_513
+  - first:
+      213: -9175451149972529089
+    second: GruntAttackRight_514
+  - first:
+      213: -1701111007046413795
+    second: GruntAttackRight_515
+  - first:
+      213: 8331904598276208055
+    second: GruntAttackRight_516
+  - first:
+      213: 7500969211484960590
+    second: GruntAttackRight_517
+  - first:
+      213: 9114865574184586050
+    second: GruntAttackRight_518
+  - first:
+      213: -4042433578184440980
+    second: GruntAttackRight_519
+  - first:
+      213: -845224005050661563
+    second: GruntAttackRight_520
+  - first:
+      213: -8040776694987847359
+    second: GruntAttackRight_521
+  - first:
+      213: 222798263983650802
+    second: GruntAttackRight_522
+  - first:
+      213: -8694140047888561661
+    second: GruntAttackRight_523
+  - first:
+      213: 770973421627232891
+    second: GruntAttackRight_524
+  - first:
+      213: 8351752257537509592
+    second: GruntAttackRight_525
+  - first:
+      213: -2589973031945946470
+    second: GruntAttackRight_526
+  - first:
+      213: -6686400241348456259
+    second: GruntAttackRight_527
+  - first:
+      213: -6901517957932117572
+    second: GruntAttackRight_528
+  - first:
+      213: -2357230078654796979
+    second: GruntAttackRight_529
+  - first:
+      213: -8900137132912972462
+    second: GruntAttackRight_530
+  - first:
+      213: -8663790994891210808
+    second: GruntAttackRight_531
+  - first:
+      213: -5489875143587175155
+    second: GruntAttackRight_532
+  - first:
+      213: -4413726174754309137
+    second: GruntAttackRight_533
+  - first:
+      213: 5901896963331143845
+    second: GruntAttackRight_534
+  - first:
+      213: -4141177844098738651
+    second: GruntAttackRight_535
+  - first:
+      213: -7801177090881082588
+    second: GruntAttackRight_536
+  - first:
+      213: 4487400523521603804
+    second: GruntAttackRight_537
+  - first:
+      213: -1112218112886502660
+    second: GruntAttackRight_538
+  - first:
+      213: -7280627648597780091
+    second: GruntAttackRight_539
+  - first:
+      213: 615673315001873430
+    second: GruntAttackRight_540
+  - first:
+      213: -2361053504046570874
+    second: GruntAttackRight_541
+  - first:
+      213: 582264443921741873
+    second: GruntAttackRight_542
+  - first:
+      213: 2691096054650923843
+    second: GruntAttackRight_543
+  - first:
+      213: 3084238700896051281
+    second: GruntAttackRight_544
+  - first:
+      213: -7691458658291936665
+    second: GruntAttackRight_545
+  - first:
+      213: 1261208281114035985
+    second: GruntAttackRight_546
+  - first:
+      213: 6651424700732415781
+    second: GruntAttackRight_547
+  - first:
+      213: 4840824923637735534
+    second: GruntAttackRight_548
+  - first:
+      213: 14437328898817639
+    second: GruntAttackRight_549
+  - first:
+      213: -4643194248148416300
+    second: GruntAttackRight_550
+  - first:
+      213: -7264965672147284479
+    second: GruntAttackRight_551
+  - first:
+      213: -2526906452540225521
+    second: GruntAttackRight_552
+  - first:
+      213: -2945272526159390128
+    second: GruntAttackRight_553
+  - first:
+      213: 6906560812880863317
+    second: GruntAttackRight_554
+  - first:
+      213: 3968192344112824691
+    second: GruntAttackRight_555
+  - first:
+      213: 247750482122473316
+    second: GruntAttackRight_556
+  - first:
+      213: -1330700481738285776
+    second: GruntAttackRight_557
+  - first:
+      213: 3465591627954275912
+    second: GruntAttackRight_558
+  - first:
+      213: 6472092116763344459
+    second: GruntAttackRight_559
+  - first:
+      213: 8706580635138402370
+    second: GruntAttackRight_560
+  - first:
+      213: -1180895523849295370
+    second: GruntAttackRight_561
+  - first:
+      213: 2359144890534535653
+    second: GruntAttackRight_562
+  - first:
+      213: 7618140924627642103
+    second: GruntAttackRight_563
+  - first:
+      213: -5790880226240714907
+    second: GruntAttackRight_564
+  - first:
+      213: 1707326436811569230
+    second: GruntAttackRight_565
+  - first:
+      213: -729687897985242836
+    second: GruntAttackRight_566
+  - first:
+      213: 916650587869627124
+    second: GruntAttackRight_567
+  - first:
+      213: 3774678601531447158
+    second: GruntAttackRight_568
+  - first:
+      213: -5566762458756001936
+    second: GruntAttackRight_569
+  - first:
+      213: -1154979215657697230
+    second: GruntAttackRight_570
+  - first:
+      213: 7530718060467038781
+    second: GruntAttackRight_571
+  - first:
+      213: -1566415455310061683
+    second: GruntAttackRight_572
+  - first:
+      213: 3466820626138409401
+    second: GruntAttackRight_573
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GruntAttackRight_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2025
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8738a8632021930800000000000000
+      internalID: 4112351843018045626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_1
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 2025
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cd5b17207c1f3c0800000000000000
+      internalID: -4327458953614730100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_2
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 2025
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39665d09559d58570800000000000000
+      internalID: 8468413635865437843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_3
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 2025
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f344d2ba78a1f8d0800000000000000
+      internalID: -2814283047190117383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_4
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 2025
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe65ad5b5b64ddc0800000000000000
+      internalID: -3615146560714346756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_5
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 2025
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a409587c939f850800000000000000
+      internalID: 6411219073640712838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_6
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 2025
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e86fc334dae6e80800000000000000
+      internalID: -8183412968588407184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_7
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 2025
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c7f586085097d90800000000000000
+      internalID: -7099637288507835347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_8
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 2025
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af47bd5e124b1f800800000000000000
+      internalID: 644494279373976826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_9
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 2025
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578d12a554b471be0800000000000000
+      internalID: -1506652789095147403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1620
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f1c4b9150bf0ab0800000000000000
+      internalID: -5039615593459998868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_11
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1620
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0708cb20b80645c0800000000000000
+      internalID: -4231685247126206707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_12
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1620
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ff1fcc1c0466d40800000000000000
+      internalID: 5577216389656215303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_13
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1620
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34cab60c4c4f20030800000000000000
+      internalID: 3459596589653011523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_14
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1620
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33ec28145797ec70800000000000000
+      internalID: 9000328767761867583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_15
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 1620
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f78a433f9a397e0800000000000000
+      internalID: -1759876167346127023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_16
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 1620
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641679edfd584d6b0800000000000000
+      internalID: -5272442067185344186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_17
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 1620
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64a7b0fc304c35b0800000000000000
+      internalID: -5387360423761173396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_18
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 1620
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e723a9f867e00970800000000000000
+      internalID: 8719223316640114656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_19
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 1620
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0ed94404f660660800000000000000
+      internalID: 7351685763548700908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1215
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507579e28e250a070800000000000000
+      internalID: 8115577685689194245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_21
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1215
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555e83afacb212830800000000000000
+      internalID: 4044562091136836949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_22
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1215
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075425d1e723afe40800000000000000
+      internalID: 5690916596375242096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_23
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1215
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb3f5a3b799efa00800000000000000
+      internalID: 792239339003132862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_24
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1215
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1f72c970ee51ab0800000000000000
+      internalID: -5037858891691986525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_25
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 1215
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe863cb0374038b0800000000000000
+      internalID: -5174557697207005445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_26
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 1215
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfcb8df8619f9a90800000000000000
+      internalID: -7304960190455230512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_27
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 1215
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6814fef7007b48f80800000000000000
+      internalID: -8105152216585780858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_28
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 1215
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98f88951165af060800000000000000
+      internalID: 6987992404335327387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_29
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 1215
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d06b08e7e0f3c30800000000000000
+      internalID: 4341204502296530320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 810
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb69db091e166c830800000000000000
+      internalID: 4091064932936554175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_31
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 810
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fac7bba82ea61740800000000000000
+      internalID: 5122473115883391730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_32
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 810
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27122d8116319d660800000000000000
+      internalID: 7410975969564041586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_33
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 810
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba7c1aac2a499040800000000000000
+      internalID: 4654833245557127862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_34
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 810
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe009c6bf39a83e0800000000000000
+      internalID: -2050663972246384907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_35
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 810
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d697c1eadfbd94f10800000000000000
+      internalID: 2254574971069954413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_36
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 810
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d04529971e37da0800000000000000
+      internalID: -5948162770564018890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_37
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 810
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271b9c85a19f82590800000000000000
+      internalID: -7698629671435783822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_38
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 810
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a94298da13155630800000000000000
+      internalID: 3915056457092057512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_39
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 810
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3522b32162621d60800000000000000
+      internalID: 7859452469065164095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 405
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0feea78e14646ae0800000000000000
+      internalID: -1557009488875163893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_41
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 405
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608b1d0bccca9b410800000000000000
+      internalID: 1493414746589870086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_42
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 405
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee67598b61549340800000000000000
+      internalID: 4869606619401907939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_43
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 405
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3664ca590d32a00800000000000000
+      internalID: 730656905823151096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_44
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 405
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baee559a2be9ab4c0800000000000000
+      internalID: -4270926806425145685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_45
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 405
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a003cea896e7f26a0800000000000000
+      internalID: -6471815147740712950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_46
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 405
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da58c4972c96b1fa0800000000000000
+      internalID: -5828949008721345107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_47
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 405
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d97bcb0892b6e8f0800000000000000
+      internalID: -511525141557315119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_48
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 405
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93745430244a542f0800000000000000
+      internalID: -989203939708287175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_49
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 405
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5a8d1021dd36770800000000000000
+      internalID: 8602962782617904571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c13ce4818c90920800000000000000
+      internalID: 2957114637071621149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_51
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 0
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f60bf3d8b78ede0800000000000000
+      internalID: -1303656245534625904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_52
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 0
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de8872c2423ab260800000000000000
+      internalID: 7114053823697030865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_53
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 0
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350c9787a6044dd90800000000000000
+      internalID: -7073958288660250541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_54
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 0
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5177bd813f9bcece0800000000000000
+      internalID: -1374519332509616363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_55
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 0
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4636e573be52080800000000000000
+      internalID: -9212698839677180706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_56
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 0
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be7a7477eb77eb00800000000000000
+      internalID: 857790488059215543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_57
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 0
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2472983efd2be40800000000000000
+      internalID: 5670841049164497647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_58
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 0
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1419772b6eefd8f20800000000000000
+      internalID: 3426675158288929089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackRight_59
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 0
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a56ea5924e05b40800000000000000
+      internalID: 5427088417251285554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6b6637946fef5c54d9e22ef6e7abbea0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

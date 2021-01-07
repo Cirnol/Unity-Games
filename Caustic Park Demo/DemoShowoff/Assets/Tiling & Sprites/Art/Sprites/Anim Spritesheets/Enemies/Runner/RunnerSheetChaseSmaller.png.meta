@@ -1,0 +1,1765 @@
+fileFormatVersion: 2
+guid: 0f98d688b7e4dbf4f868717653a8cba3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2539552559964311958
+    second: RunnerSheetChaseSmaller_0
+  - first:
+      213: -7618319629851652389
+    second: RunnerSheetChaseSmaller_1
+  - first:
+      213: -6115685617023071874
+    second: RunnerSheetChaseSmaller_2
+  - first:
+      213: 415407580946351061
+    second: RunnerSheetChaseSmaller_3
+  - first:
+      213: -6467251185266099015
+    second: RunnerSheetChaseSmaller_4
+  - first:
+      213: 5258526688984760957
+    second: RunnerSheetChaseSmaller_5
+  - first:
+      213: 216631089380688306
+    second: RunnerSheetChaseSmaller_6
+  - first:
+      213: 8007132827271065618
+    second: RunnerSheetChaseSmaller_7
+  - first:
+      213: 5544735540930966076
+    second: RunnerSheetChaseSmaller_8
+  - first:
+      213: 6514264660351432387
+    second: RunnerSheetChaseSmaller_9
+  - first:
+      213: -8485140079892507029
+    second: RunnerSheetChaseSmaller_10
+  - first:
+      213: -8933920356038844806
+    second: RunnerSheetChaseSmaller_11
+  - first:
+      213: 4946293031117612650
+    second: RunnerSheetChaseSmaller_12
+  - first:
+      213: 4916145305438095252
+    second: RunnerSheetChaseSmaller_13
+  - first:
+      213: 3869845835870916015
+    second: RunnerSheetChaseSmaller_14
+  - first:
+      213: 1664443989304114000
+    second: RunnerSheetChaseSmaller_15
+  - first:
+      213: 7266993468699564374
+    second: RunnerSheetChaseSmaller_16
+  - first:
+      213: -4399974684092453106
+    second: RunnerSheetChaseSmaller_17
+  - first:
+      213: 4607684298344691948
+    second: RunnerSheetChaseSmaller_18
+  - first:
+      213: 7670111019519059987
+    second: RunnerSheetChaseSmaller_19
+  - first:
+      213: 7692004773498688908
+    second: RunnerSheetChaseSmaller_20
+  - first:
+      213: -2978911673456238195
+    second: RunnerSheetChaseSmaller_21
+  - first:
+      213: 1392152389865187334
+    second: RunnerSheetChaseSmaller_22
+  - first:
+      213: -9014295962243083405
+    second: RunnerSheetChaseSmaller_23
+  - first:
+      213: 5096335615395988293
+    second: RunnerSheetChaseSmaller_24
+  - first:
+      213: 5162292524680366626
+    second: RunnerSheetChaseSmaller_25
+  - first:
+      213: 5139692932322223629
+    second: RunnerSheetChaseSmaller_26
+  - first:
+      213: 3380121444520934115
+    second: RunnerSheetChaseSmaller_27
+  - first:
+      213: 4744488893946905872
+    second: RunnerSheetChaseSmaller_28
+  - first:
+      213: 8884323871604069803
+    second: RunnerSheetChaseSmaller_29
+  - first:
+      213: -26899555528872784
+    second: RunnerSheetChaseSmaller_30
+  - first:
+      213: 4904105511258080605
+    second: RunnerSheetChaseSmaller_31
+  - first:
+      213: 675582389616750952
+    second: RunnerSheetChaseSmaller_32
+  - first:
+      213: -4792715092021605218
+    second: RunnerSheetChaseSmaller_33
+  - first:
+      213: 8379096558471698673
+    second: RunnerSheetChaseSmaller_34
+  - first:
+      213: 4225757124801551634
+    second: RunnerSheetChaseSmaller_35
+  - first:
+      213: 2808178796252362020
+    second: RunnerSheetChaseSmaller_36
+  - first:
+      213: -1242001343329451411
+    second: RunnerSheetChaseSmaller_37
+  - first:
+      213: 1209117940601131369
+    second: RunnerSheetChaseSmaller_38
+  - first:
+      213: -6343819389696621087
+    second: RunnerSheetChaseSmaller_39
+  - first:
+      213: 499422528526360707
+    second: RunnerSheetChaseSmaller_40
+  - first:
+      213: 1095942113824755994
+    second: RunnerSheetChaseSmaller_41
+  - first:
+      213: 813182781025923506
+    second: RunnerSheetChaseSmaller_42
+  - first:
+      213: -5108521668203738967
+    second: RunnerSheetChaseSmaller_43
+  - first:
+      213: -2605826336383702956
+    second: RunnerSheetChaseSmaller_44
+  - first:
+      213: -190371567015837576
+    second: RunnerSheetChaseSmaller_45
+  - first:
+      213: -8340350510984606711
+    second: RunnerSheetChaseSmaller_46
+  - first:
+      213: -4549596186651877699
+    second: RunnerSheetChaseSmaller_47
+  - first:
+      213: 1648869126652882580
+    second: RunnerSheetChaseSmaller_48
+  - first:
+      213: 6073141629260685039
+    second: RunnerSheetChaseSmaller_49
+  - first:
+      213: 3717707143168160917
+    second: RunnerSheetChaseSmaller_50
+  - first:
+      213: 8655452433451031358
+    second: RunnerSheetChaseSmaller_51
+  - first:
+      213: -5899738036423608091
+    second: RunnerSheetChaseSmaller_52
+  - first:
+      213: 6161275070722112673
+    second: RunnerSheetChaseSmaller_53
+  - first:
+      213: -5854250845015896115
+    second: RunnerSheetChaseSmaller_54
+  - first:
+      213: -137550093444604115
+    second: RunnerSheetChaseSmaller_55
+  - first:
+      213: 1123819705367815620
+    second: RunnerSheetChaseSmaller_56
+  - first:
+      213: -3979836975205955063
+    second: RunnerSheetChaseSmaller_57
+  - first:
+      213: 8562522101306521613
+    second: RunnerSheetChaseSmaller_58
+  - first:
+      213: 1963964933698733325
+    second: RunnerSheetChaseSmaller_59
+  - first:
+      213: 8793888287126001409
+    second: RunnerSheetChaseSmaller_60
+  - first:
+      213: 1454304499423195466
+    second: RunnerSheetChaseSmaller_61
+  - first:
+      213: -7628711648242461362
+    second: RunnerSheetChaseSmaller_62
+  - first:
+      213: 6005272258882270669
+    second: RunnerSheetChaseSmaller_63
+  - first:
+      213: -6771749611620155270
+    second: RunnerSheetChaseSmaller_64
+  - first:
+      213: -4620115487952681328
+    second: RunnerSheetChaseSmaller_65
+  - first:
+      213: -201410012768272409
+    second: RunnerSheetChaseSmaller_66
+  - first:
+      213: -8297960935987462917
+    second: RunnerSheetChaseSmaller_67
+  - first:
+      213: 4006705719380448400
+    second: RunnerSheetChaseSmaller_68
+  - first:
+      213: -8235090541927345747
+    second: RunnerSheetChaseSmaller_69
+  - first:
+      213: -1341569486043996360
+    second: RunnerSheetChaseSmaller_70
+  - first:
+      213: -6157681638698678310
+    second: RunnerSheetChaseSmaller_71
+  - first:
+      213: 9084995201971714917
+    second: RunnerSheetChaseSmaller_72
+  - first:
+      213: 7364319133307017374
+    second: RunnerSheetChaseSmaller_73
+  - first:
+      213: -864986975436372054
+    second: RunnerSheetChaseSmaller_74
+  - first:
+      213: -5389365971665035517
+    second: RunnerSheetChaseSmaller_75
+  - first:
+      213: 6860899550641031153
+    second: RunnerSheetChaseSmaller_76
+  - first:
+      213: -2258118774092690112
+    second: RunnerSheetChaseSmaller_77
+  - first:
+      213: 2277484261997008333
+    second: RunnerSheetChaseSmaller_78
+  - first:
+      213: -1053043573474958790
+    second: RunnerSheetChaseSmaller_79
+  - first:
+      213: 3020694565793525843
+    second: RunnerSheetChaseSmaller_80
+  - first:
+      213: -1921409343380368286
+    second: RunnerSheetChaseSmaller_81
+  - first:
+      213: -1676013823149658840
+    second: RunnerSheetChaseSmaller_82
+  - first:
+      213: -8978871521358549425
+    second: RunnerSheetChaseSmaller_83
+  - first:
+      213: 296471026043508155
+    second: RunnerSheetChaseSmaller_84
+  - first:
+      213: 664312833603285817
+    second: RunnerSheetChaseSmaller_85
+  - first:
+      213: -4708887507249555261
+    second: RunnerSheetChaseSmaller_86
+  - first:
+      213: -4564965939399971581
+    second: RunnerSheetChaseSmaller_87
+  - first:
+      213: 905476318810558576
+    second: RunnerSheetChaseSmaller_88
+  - first:
+      213: -6959143950804056227
+    second: RunnerSheetChaseSmaller_89
+  - first:
+      213: 2203750143350316115
+    second: RunnerSheetChaseSmaller_90
+  - first:
+      213: -964009936337621263
+    second: RunnerSheetChaseSmaller_91
+  - first:
+      213: 922961686617282971
+    second: RunnerSheetChaseSmaller_92
+  - first:
+      213: 6264585548459518981
+    second: RunnerSheetChaseSmaller_93
+  - first:
+      213: 2648910263906582637
+    second: RunnerSheetChaseSmaller_94
+  - first:
+      213: 770635143334217604
+    second: RunnerSheetChaseSmaller_95
+  - first:
+      213: -4706251755477953195
+    second: RunnerSheetChaseSmaller_96
+  - first:
+      213: -8393600849140133630
+    second: RunnerSheetChaseSmaller_97
+  - first:
+      213: 8438035217542210725
+    second: RunnerSheetChaseSmaller_98
+  - first:
+      213: 2671884197540599674
+    second: RunnerSheetChaseSmaller_99
+  - first:
+      213: -3336127450078910120
+    second: RunnerSheetChaseSmaller_100
+  - first:
+      213: 6490238836290503480
+    second: RunnerSheetChaseSmaller_101
+  - first:
+      213: -8321452978601078622
+    second: RunnerSheetChaseSmaller_102
+  - first:
+      213: -229269651242442582
+    second: RunnerSheetChaseSmaller_103
+  - first:
+      213: -5532673306665008547
+    second: RunnerSheetChaseSmaller_104
+  - first:
+      213: -3002692059355608907
+    second: RunnerSheetChaseSmaller_105
+  - first:
+      213: -5316461547081283175
+    second: RunnerSheetChaseSmaller_106
+  - first:
+      213: 1435350183173351436
+    second: RunnerSheetChaseSmaller_107
+  - first:
+      213: -4618541013144896640
+    second: RunnerSheetChaseSmaller_108
+  - first:
+      213: -8342002611366722265
+    second: RunnerSheetChaseSmaller_109
+  - first:
+      213: 7096430562581484449
+    second: RunnerSheetChaseSmaller_110
+  - first:
+      213: 2933169708859066312
+    second: RunnerSheetChaseSmaller_111
+  - first:
+      213: -980990325053753043
+    second: RunnerSheetChaseSmaller_112
+  - first:
+      213: 3599037291703646138
+    second: RunnerSheetChaseSmaller_113
+  - first:
+      213: 7807790398735195716
+    second: RunnerSheetChaseSmaller_114
+  - first:
+      213: -8898445896052047891
+    second: RunnerSheetChaseSmaller_115
+  - first:
+      213: -8776808010904066884
+    second: RunnerSheetChaseSmaller_116
+  - first:
+      213: -2489073604121946588
+    second: RunnerSheetChaseSmaller_117
+  - first:
+      213: -125625506291656668
+    second: RunnerSheetChaseSmaller_118
+  - first:
+      213: 3286158410735416414
+    second: RunnerSheetChaseSmaller_119
+  - first:
+      213: -8037343260239669907
+    second: RunnerSheetChaseSmaller_120
+  - first:
+      213: -1167405328037485881
+    second: RunnerSheetChaseSmaller_121
+  - first:
+      213: -4826766112593832941
+    second: RunnerSheetChaseSmaller_122
+  - first:
+      213: -8744299255473675647
+    second: RunnerSheetChaseSmaller_123
+  - first:
+      213: -8249818823419952189
+    second: RunnerSheetChaseSmaller_124
+  - first:
+      213: 6024208678027589002
+    second: RunnerSheetChaseSmaller_125
+  - first:
+      213: -2244043803482115695
+    second: RunnerSheetChaseSmaller_126
+  - first:
+      213: -7652504309113974839
+    second: RunnerSheetChaseSmaller_127
+  - first:
+      213: 410351254548444010
+    second: RunnerSheetChaseSmaller_128
+  - first:
+      213: 8185555214027016372
+    second: RunnerSheetChaseSmaller_129
+  - first:
+      213: -6151193746080712450
+    second: RunnerSheetChaseSmaller_130
+  - first:
+      213: 7196375384963326501
+    second: RunnerSheetChaseSmaller_131
+  - first:
+      213: 7501563654144757692
+    second: RunnerSheetChaseSmaller_132
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1793
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6915b11299d4e3320800000000000000
+      internalID: 2539552559964311958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_1
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1793
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde8e4509aa464690800000000000000
+      internalID: -7618319629851652389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_2
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1793
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79cf576558b02ba0800000000000000
+      internalID: -6115685617023071874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_3
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 1793
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3cf437ef2d3c500800000000000000
+      internalID: 415407580946351061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_4
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 1793
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc7dfcdf45bf36a0800000000000000
+      internalID: -6467251185266099015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_5
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 1793
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7209daa92a0af840800000000000000
+      internalID: 5258526688984760957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_6
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 1793
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b187d9f3d0a10300800000000000000
+      internalID: 216631089380688306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_7
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 1793
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2107cdef1ec0f1f60800000000000000
+      internalID: 8007132827271065618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_8
+      rect:
+        serializedVersion: 2
+        x: 3048
+        y: 1793
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c327ca2e89bd2fc40800000000000000
+      internalID: 5544735540930966076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_9
+      rect:
+        serializedVersion: 2
+        x: 3429
+        y: 1793
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6b02dc131576a50800000000000000
+      internalID: 6514264660351432387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1435
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66d394bd0abe3a80800000000000000
+      internalID: -8485140079892507029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_11
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1435
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e5ca625c6540480800000000000000
+      internalID: -8933920356038844806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_12
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1435
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6661c22e43c4a440800000000000000
+      internalID: 4946293031117612650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_13
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 1435
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49787d2cb18a93440800000000000000
+      internalID: 4916145305438095252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_14
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 1435
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad4c9ec84474b530800000000000000
+      internalID: 3869845835870916015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_15
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 1435
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b710b5dfa491710800000000000000
+      internalID: 1664443989304114000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_16
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 1435
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659dbeebe0c89d460800000000000000
+      internalID: 7266993468699564374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_17
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 1435
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f25fd365620f2c0800000000000000
+      internalID: -4399974684092453106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_18
+      rect:
+        serializedVersion: 2
+        x: 3048
+        y: 1435
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8faffe478c1ff30800000000000000
+      internalID: 4607684298344691948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_19
+      rect:
+        serializedVersion: 2
+        x: 3429
+        y: 1435
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3182e329555b17a60800000000000000
+      internalID: 7670111019519059987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1077
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c859ff6669d7fba60800000000000000
+      internalID: 7692004773498688908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_21
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1077
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81606ead97c8a6d0800000000000000
+      internalID: -2978911673456238195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_22
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1077
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608202ff83be15310800000000000000
+      internalID: 1392152389865187334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_23
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 1077
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37353460599c6e280800000000000000
+      internalID: -9014295962243083405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_24
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 1077
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54389db9d32d9b640800000000000000
+      internalID: 5096335615395988293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_25
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 1077
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a4a3043b524a740800000000000000
+      internalID: 5162292524680366626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_26
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 1077
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06e6ad9d7bd35740800000000000000
+      internalID: 5139692932322223629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_27
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 1077
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eab95e8b8a98ee20800000000000000
+      internalID: 3380121444520934115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_28
+      rect:
+        serializedVersion: 2
+        x: 3048
+        y: 1077
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015cd7cf28fc7d140800000000000000
+      internalID: 4744488893946905872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_29
+      rect:
+        serializedVersion: 2
+        x: 3429
+        y: 1077
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5db747d757b4b70800000000000000
+      internalID: 8884323871604069803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 719
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bce51c2ffe60aff0800000000000000
+      internalID: -26899555528872784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_31
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 719
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55c29bbaf1ee0440800000000000000
+      internalID: 4904105511258080605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_32
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 719
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861bd9d9a96206900800000000000000
+      internalID: 675582389616750952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_33
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 719
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c0666440bdc7db0800000000000000
+      internalID: -4792715092021605218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_34
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 719
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f85762fce7884470800000000000000
+      internalID: 8379096558471698673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_35
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 719
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d5fda47b7e4aa30800000000000000
+      internalID: 4225757124801551634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_36
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 719
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425f760acb7a8f620800000000000000
+      internalID: 2808178796252362020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_37
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 719
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d624a40db5683cee0800000000000000
+      internalID: -1242001343329451411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_38
+      rect:
+        serializedVersion: 2
+        x: 3048
+        y: 719
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961151d5c56a7c010800000000000000
+      internalID: 1209117940601131369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_39
+      rect:
+        serializedVersion: 2
+        x: 3429
+        y: 719
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5c5e540e936f7a0800000000000000
+      internalID: -6343819389696621087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 361
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38024a5c42e4ee600800000000000000
+      internalID: 499422528526360707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_41
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 361
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a115ae4cb81953f00800000000000000
+      internalID: 1095942113824755994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_42
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 361
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1b3805e61094b00800000000000000
+      internalID: 813182781025923506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_43
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 361
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8845fdb92ea19b0800000000000000
+      internalID: -5108521668203738967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_44
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 361
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458ed79d0ce36dbd0800000000000000
+      internalID: -2605826336383702956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_45
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 361
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870cfa4811aab5df0800000000000000
+      internalID: -190371567015837576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_46
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 361
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cc38a366f114c80800000000000000
+      internalID: -8340350510984606711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_47
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 361
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe942f7f569cd0c0800000000000000
+      internalID: -4549596186651877699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_48
+      rect:
+        serializedVersion: 2
+        x: 3048
+        y: 361
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ee04f0cb5f1e610800000000000000
+      internalID: 1648869126652882580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_49
+      rect:
+        serializedVersion: 2
+        x: 3429
+        y: 361
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee58ba8222284450800000000000000
+      internalID: 6073141629260685039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594787f03f2f79330800000000000000
+      internalID: 3717707143168160917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_51
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 3
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b932231285e1870800000000000000
+      internalID: 8655452433451031358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_52
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 3
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e83c17938bef1ea0800000000000000
+      internalID: -5899738036423608091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_53
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 3
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac7cd1780f318550800000000000000
+      internalID: 6161275070722112673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_54
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 3
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf0cc4afd581cea0800000000000000
+      internalID: -5854250845015896115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_55
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 3
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f99653be2571ef0800000000000000
+      internalID: -137550093444604115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_56
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 3
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5680a511c989f00800000000000000
+      internalID: 1123819705367815620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_57
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 3
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a42ec6b57c4c8c0800000000000000
+      internalID: -3979836975205955063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_58
+      rect:
+        serializedVersion: 2
+        x: 3048
+        y: 3
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d087ec52c7034d670800000000000000
+      internalID: 8562522101306521613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetChaseSmaller_59
+      rect:
+        serializedVersion: 2
+        x: 3429
+        y: 3
+        width: 381
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05cf60a3b7614b10800000000000000
+      internalID: 1963964933698733325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 83812d4ed2537324f9e99ce6acb11b1d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

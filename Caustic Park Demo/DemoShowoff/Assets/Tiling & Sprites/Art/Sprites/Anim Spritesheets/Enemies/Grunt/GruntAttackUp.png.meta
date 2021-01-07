@@ -1,0 +1,1546 @@
+fileFormatVersion: 2
+guid: 3870e3534c4c0c243846b75072417ba1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 167155049630381913
+    second: GruntAttackUp_0
+  - first:
+      213: -8595506196424094919
+    second: GruntAttackUp_1
+  - first:
+      213: 5193135458073926661
+    second: GruntAttackUp_2
+  - first:
+      213: -7688526191445032343
+    second: GruntAttackUp_3
+  - first:
+      213: 8696267224370636182
+    second: GruntAttackUp_4
+  - first:
+      213: -4324313127357948164
+    second: GruntAttackUp_5
+  - first:
+      213: 3326423727400136098
+    second: GruntAttackUp_6
+  - first:
+      213: 5131805166297222424
+    second: GruntAttackUp_7
+  - first:
+      213: 2768097254349495801
+    second: GruntAttackUp_8
+  - first:
+      213: -955343105526920347
+    second: GruntAttackUp_9
+  - first:
+      213: 4301031228395187887
+    second: GruntAttackUp_10
+  - first:
+      213: -4104856481320843055
+    second: GruntAttackUp_11
+  - first:
+      213: 6800440917483101618
+    second: GruntAttackUp_12
+  - first:
+      213: -7058745136283739568
+    second: GruntAttackUp_13
+  - first:
+      213: 6747188315475635683
+    second: GruntAttackUp_14
+  - first:
+      213: -4435599859421197831
+    second: GruntAttackUp_15
+  - first:
+      213: 8889308482927095429
+    second: GruntAttackUp_16
+  - first:
+      213: -6026085348940739475
+    second: GruntAttackUp_17
+  - first:
+      213: 1384057121878653974
+    second: GruntAttackUp_18
+  - first:
+      213: 157644718604172050
+    second: GruntAttackUp_19
+  - first:
+      213: 7068617901889337220
+    second: GruntAttackUp_20
+  - first:
+      213: 3805814166635175474
+    second: GruntAttackUp_21
+  - first:
+      213: 8124961513075087449
+    second: GruntAttackUp_22
+  - first:
+      213: -1612705032729587416
+    second: GruntAttackUp_23
+  - first:
+      213: -252885385816489769
+    second: GruntAttackUp_24
+  - first:
+      213: 3300510868288599120
+    second: GruntAttackUp_25
+  - first:
+      213: 5828359348263924324
+    second: GruntAttackUp_26
+  - first:
+      213: -1326752808796008708
+    second: GruntAttackUp_27
+  - first:
+      213: 1428559483398032671
+    second: GruntAttackUp_28
+  - first:
+      213: -4461852179728489148
+    second: GruntAttackUp_29
+  - first:
+      213: 4610000350053270828
+    second: GruntAttackUp_30
+  - first:
+      213: 1704599271361431746
+    second: GruntAttackUp_31
+  - first:
+      213: 1204218005432506849
+    second: GruntAttackUp_32
+  - first:
+      213: 7376926659968435853
+    second: GruntAttackUp_33
+  - first:
+      213: 3785489549682565909
+    second: GruntAttackUp_34
+  - first:
+      213: 5526908700746848574
+    second: GruntAttackUp_35
+  - first:
+      213: -2256965570135415834
+    second: GruntAttackUp_36
+  - first:
+      213: -6419729929197253820
+    second: GruntAttackUp_37
+  - first:
+      213: 2178248081024729015
+    second: GruntAttackUp_38
+  - first:
+      213: -1315770127653695247
+    second: GruntAttackUp_39
+  - first:
+      213: -519954289874145172
+    second: GruntAttackUp_40
+  - first:
+      213: 4829005787832654653
+    second: GruntAttackUp_41
+  - first:
+      213: 1749615936623468512
+    second: GruntAttackUp_42
+  - first:
+      213: 8605782821766092337
+    second: GruntAttackUp_43
+  - first:
+      213: -2351992466744041039
+    second: GruntAttackUp_44
+  - first:
+      213: 2902205175093390161
+    second: GruntAttackUp_45
+  - first:
+      213: 5433417361354457629
+    second: GruntAttackUp_46
+  - first:
+      213: -8403827878016356920
+    second: GruntAttackUp_47
+  - first:
+      213: -5538871084645590035
+    second: GruntAttackUp_48
+  - first:
+      213: -7425538916786997804
+    second: GruntAttackUp_49
+  - first:
+      213: 8648231066256331081
+    second: GruntAttackUp_50
+  - first:
+      213: 2971336876689360551
+    second: GruntAttackUp_51
+  - first:
+      213: 406921661769580482
+    second: GruntAttackUp_52
+  - first:
+      213: -3133104008020046560
+    second: GruntAttackUp_53
+  - first:
+      213: 1118571890927620856
+    second: GruntAttackUp_54
+  - first:
+      213: -6881533026083772879
+    second: GruntAttackUp_55
+  - first:
+      213: 284449445259763279
+    second: GruntAttackUp_56
+  - first:
+      213: -6851296539314434146
+    second: GruntAttackUp_57
+  - first:
+      213: 2566230147420412140
+    second: GruntAttackUp_58
+  - first:
+      213: -3917456987315121747
+    second: GruntAttackUp_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GruntAttackUp_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1740
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957b1abc1aad15200800000000000000
+      internalID: 167155049630381913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_1
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1740
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b0971c7a0a6b880800000000000000
+      internalID: -8595506196424094919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_2
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1740
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c5bf84f29b11840800000000000000
+      internalID: 5193135458073926661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_3
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1740
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962c1a81a2edc4590800000000000000
+      internalID: -7688526191445032343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_4
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1740
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695eb7c37f85fa870800000000000000
+      internalID: 8696267224370636182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_5
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1740
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe55423f14fcf3c0800000000000000
+      internalID: -4324313127357948164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_6
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 1740
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2adad1481c4d92e20800000000000000
+      internalID: 3326423727400136098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_7
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 1740
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d09a9fb95d73740800000000000000
+      internalID: 5131805166297222424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_8
+      rect:
+        serializedVersion: 2
+        x: 2664
+        y: 1740
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd5c3d69c14a6620800000000000000
+      internalID: 2768097254349495801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_9
+      rect:
+        serializedVersion: 2
+        x: 2997
+        y: 1740
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b0374d180fdb2f0800000000000000
+      internalID: -955343105526920347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1392
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae6b584d1550bb30800000000000000
+      internalID: 4301031228395187887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_11
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1392
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d849e857ce9807c0800000000000000
+      internalID: -4104856481320843055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_12
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1392
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd9c92fbf4006e50800000000000000
+      internalID: 6800440917483101618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_13
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1392
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a9ac782bc4a0e90800000000000000
+      internalID: -7058745136283739568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_14
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1392
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed67985604d2ad50800000000000000
+      internalID: 6747188315475635683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_15
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1392
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f94d6dbd659172c0800000000000000
+      internalID: -4435599859421197831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_16
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 1392
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e6cb7b7fa2d5b70800000000000000
+      internalID: 8889308482927095429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_17
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 1392
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c833e7d4b0f5ca0800000000000000
+      internalID: -6026085348940739475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_18
+      rect:
+        serializedVersion: 2
+        x: 2664
+        y: 1392
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c3d6a8e98253310800000000000000
+      internalID: 1384057121878653974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_19
+      rect:
+        serializedVersion: 2
+        x: 2997
+        y: 1392
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b3e1d4901103200800000000000000
+      internalID: 157644718604172050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1044
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487b417d786c81260800000000000000
+      internalID: 7068617901889337220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_21
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1044
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e507b02d7f0d430800000000000000
+      internalID: 3805814166635175474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_22
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1044
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9589f80c279a1c070800000000000000
+      internalID: 8124961513075087449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_23
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1044
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8211ba431558e99e0800000000000000
+      internalID: -1612705032729587416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_24
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1044
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d04589d4129d7cf0800000000000000
+      internalID: -252885385816489769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_25
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1044
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05478a9d525cdcd20800000000000000
+      internalID: 3300510868288599120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_26
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 1044
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462399082fd72e050800000000000000
+      internalID: 5828359348263924324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_27
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 1044
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe46fe895d669de0800000000000000
+      internalID: -1326752808796008708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_28
+      rect:
+        serializedVersion: 2
+        x: 2664
+        y: 1044
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d8474084343d310800000000000000
+      internalID: 1428559483398032671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_29
+      rect:
+        serializedVersion: 2
+        x: 2997
+        y: 1044
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4452bfa15115412c0800000000000000
+      internalID: -4461852179728489148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 696
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c250a5fb4e20aff30800000000000000
+      internalID: 4610000350053270828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_31
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 696
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c843e58104f7a710800000000000000
+      internalID: 1704599271361431746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_32
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 696
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e91fed45ed36b010800000000000000
+      internalID: 1204218005432506849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_33
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 696
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86078d66bb106660800000000000000
+      internalID: 7376926659968435853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_34
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 696
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51368c560b2c88430800000000000000
+      internalID: 3785489549682565909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_35
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 696
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3918063e2683bc40800000000000000
+      internalID: 5526908700746848574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_36
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 696
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3aac995c5ada0e0800000000000000
+      internalID: -2256965570135415834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_37
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 696
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b014084a988e6a0800000000000000
+      internalID: -6419729929197253820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_38
+      rect:
+        serializedVersion: 2
+        x: 2664
+        y: 696
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfb72eb611ba3e10800000000000000
+      internalID: 2178248081024729015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_39
+      rect:
+        serializedVersion: 2
+        x: 2997
+        y: 696
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f091274a027dbde0800000000000000
+      internalID: -1315770127653695247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 348
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c607c940450c8c8f0800000000000000
+      internalID: -519954289874145172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_41
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 348
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b121acd23140340800000000000000
+      internalID: 4829005787832654653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_42
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 348
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efddcbac62e74810800000000000000
+      internalID: 1749615936623468512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_43
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 348
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136d68981e1ed6770800000000000000
+      internalID: 8605782821766092337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_44
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 348
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1a359105b0c5fd0800000000000000
+      internalID: -2351992466744041039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_45
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 348
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bedbeea34b64820800000000000000
+      internalID: 2902205175093390161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_46
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 348
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1209fb7d40676b40800000000000000
+      internalID: 5433417361354457629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_47
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 348
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd6f41021b9f5b80800000000000000
+      internalID: -8403827878016356920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_48
+      rect:
+        serializedVersion: 2
+        x: 2664
+        y: 348
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb540f381af123b0800000000000000
+      internalID: -5538871084645590035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_49
+      rect:
+        serializedVersion: 2
+        x: 2997
+        y: 348
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5721782bf23f890800000000000000
+      internalID: -7425538916786997804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941d4bf9550b40870800000000000000
+      internalID: 8648231066256331081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_51
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 0
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a68613852f4c3920800000000000000
+      internalID: 2971336876689360551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_52
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 0
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfff2d681da5a500800000000000000
+      internalID: 406921661769580482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_53
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 0
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02dcc9d218af484d0800000000000000
+      internalID: -3133104008020046560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_54
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 0
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f25a765537f58f00800000000000000
+      internalID: 1118571890927620856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_55
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 0
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13668263c22ef70a0800000000000000
+      internalID: -6881533026083772879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_56
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 0
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ed34d634192f300800000000000000
+      internalID: 284449445259763279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_57
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 0
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fcc43e81e4be0a0800000000000000
+      internalID: -6851296539314434146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_58
+      rect:
+        serializedVersion: 2
+        x: 2664
+        y: 0
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce854ecf8b41d9320800000000000000
+      internalID: 2566230147420412140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackUp_59
+      rect:
+        serializedVersion: 2
+        x: 2997
+        y: 0
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1d53820a562a9c0800000000000000
+      internalID: -3917456987315121747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d422fc8f04899174c85147980c938f91
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

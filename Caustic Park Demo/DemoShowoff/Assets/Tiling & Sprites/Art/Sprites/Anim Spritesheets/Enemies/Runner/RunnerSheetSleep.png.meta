@@ -1,0 +1,1546 @@
+fileFormatVersion: 2
+guid: c37731db4530d5144b9273900b1799c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4725665198575980397
+    second: RunnerSheetSleep_0
+  - first:
+      213: -1389927774004741130
+    second: RunnerSheetSleep_1
+  - first:
+      213: 6319248689607372559
+    second: RunnerSheetSleep_2
+  - first:
+      213: -3967223549307862896
+    second: RunnerSheetSleep_3
+  - first:
+      213: 8303319803266748177
+    second: RunnerSheetSleep_4
+  - first:
+      213: -3433075728141243073
+    second: RunnerSheetSleep_5
+  - first:
+      213: -875539724904646828
+    second: RunnerSheetSleep_6
+  - first:
+      213: 725389898342041381
+    second: RunnerSheetSleep_7
+  - first:
+      213: -582658049486286225
+    second: RunnerSheetSleep_8
+  - first:
+      213: 1190406644545357881
+    second: RunnerSheetSleep_9
+  - first:
+      213: 4882948655572889905
+    second: RunnerSheetSleep_10
+  - first:
+      213: -5192443779926214410
+    second: RunnerSheetSleep_11
+  - first:
+      213: 7009558024442050298
+    second: RunnerSheetSleep_12
+  - first:
+      213: -2081121798035165603
+    second: RunnerSheetSleep_13
+  - first:
+      213: -3154084903825747194
+    second: RunnerSheetSleep_14
+  - first:
+      213: -3490245829441367363
+    second: RunnerSheetSleep_15
+  - first:
+      213: -7567204723322060364
+    second: RunnerSheetSleep_16
+  - first:
+      213: -3472765473250946157
+    second: RunnerSheetSleep_17
+  - first:
+      213: 8706813462467372671
+    second: RunnerSheetSleep_18
+  - first:
+      213: 3636637231931709212
+    second: RunnerSheetSleep_19
+  - first:
+      213: 8587976605748039088
+    second: RunnerSheetSleep_20
+  - first:
+      213: 6907335679222895020
+    second: RunnerSheetSleep_21
+  - first:
+      213: -3718090603798150387
+    second: RunnerSheetSleep_22
+  - first:
+      213: 2442231051587902995
+    second: RunnerSheetSleep_23
+  - first:
+      213: -449891247188762481
+    second: RunnerSheetSleep_24
+  - first:
+      213: -6392835176425540582
+    second: RunnerSheetSleep_25
+  - first:
+      213: -2356930289790091712
+    second: RunnerSheetSleep_26
+  - first:
+      213: -8734586994891203038
+    second: RunnerSheetSleep_27
+  - first:
+      213: 443293308584726226
+    second: RunnerSheetSleep_28
+  - first:
+      213: 931153460838721904
+    second: RunnerSheetSleep_29
+  - first:
+      213: 7858525138684912505
+    second: RunnerSheetSleep_30
+  - first:
+      213: 3529874189040406392
+    second: RunnerSheetSleep_31
+  - first:
+      213: -7523890599110224598
+    second: RunnerSheetSleep_32
+  - first:
+      213: 8943991281726906427
+    second: RunnerSheetSleep_33
+  - first:
+      213: 7938691574500715
+    second: RunnerSheetSleep_34
+  - first:
+      213: 4033361681092451627
+    second: RunnerSheetSleep_35
+  - first:
+      213: 7477632725343227950
+    second: RunnerSheetSleep_36
+  - first:
+      213: 4016756471483982323
+    second: RunnerSheetSleep_37
+  - first:
+      213: -7750071807649378132
+    second: RunnerSheetSleep_38
+  - first:
+      213: 4028089779170069592
+    second: RunnerSheetSleep_39
+  - first:
+      213: -515796858376694730
+    second: RunnerSheetSleep_40
+  - first:
+      213: -6309041815524282025
+    second: RunnerSheetSleep_41
+  - first:
+      213: 4269024169095475413
+    second: RunnerSheetSleep_42
+  - first:
+      213: 2817930781398078761
+    second: RunnerSheetSleep_43
+  - first:
+      213: 8178062135018290849
+    second: RunnerSheetSleep_44
+  - first:
+      213: -6366560043127442311
+    second: RunnerSheetSleep_45
+  - first:
+      213: 395760219092808827
+    second: RunnerSheetSleep_46
+  - first:
+      213: 6430643569194656035
+    second: RunnerSheetSleep_47
+  - first:
+      213: -3363256980344653995
+    second: RunnerSheetSleep_48
+  - first:
+      213: 7012225371862251906
+    second: RunnerSheetSleep_49
+  - first:
+      213: 71664368108504509
+    second: RunnerSheetSleep_50
+  - first:
+      213: -809954150627326185
+    second: RunnerSheetSleep_51
+  - first:
+      213: -8135707175735955103
+    second: RunnerSheetSleep_52
+  - first:
+      213: -1596004650434780520
+    second: RunnerSheetSleep_53
+  - first:
+      213: 7469793179937046205
+    second: RunnerSheetSleep_54
+  - first:
+      213: -7262855260089849204
+    second: RunnerSheetSleep_55
+  - first:
+      213: -957223309369749451
+    second: RunnerSheetSleep_56
+  - first:
+      213: 4501176550157885545
+    second: RunnerSheetSleep_57
+  - first:
+      213: 3082764793058406844
+    second: RunnerSheetSleep_58
+  - first:
+      213: 2216312143867380469
+    second: RunnerSheetSleep_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RunnerSheetSleep_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7430
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f0c80e57fe49140800000000000000
+      internalID: 4725665198575980397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_1
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 7430
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb7ffebd0cf5bce0800000000000000
+      internalID: -1389927774004741130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_2
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 7430
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f666fc33b72b750800000000000000
+      internalID: 6319248689607372559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_3
+      rect:
+        serializedVersion: 2
+        x: 2790
+        y: 7430
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090c0fe733791f8c0800000000000000
+      internalID: -3967223549307862896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_4
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 7430
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f4e224e515b3370800000000000000
+      internalID: 8303319803266748177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_5
+      rect:
+        serializedVersion: 2
+        x: 4650
+        y: 7430
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d202180d34b50d0800000000000000
+      internalID: -3433075728141243073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_6
+      rect:
+        serializedVersion: 2
+        x: 5580
+        y: 7430
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457b05e424579d3f0800000000000000
+      internalID: -875539724904646828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_7
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 7430
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527855ee44a111a00800000000000000
+      internalID: 725389898342041381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_8
+      rect:
+        serializedVersion: 2
+        x: 7440
+        y: 7430
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6219de479bf9e7f0800000000000000
+      internalID: -582658049486286225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_9
+      rect:
+        serializedVersion: 2
+        x: 8370
+        y: 7430
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9380462498c258010800000000000000
+      internalID: 1190406644545357881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5944
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131b4e76ee7b3c340800000000000000
+      internalID: 4882948655572889905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_11
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 5944
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8bf4594ebb0f7b0800000000000000
+      internalID: -5192443779926214410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_12
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 5944
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af67b5f82e3f64160800000000000000
+      internalID: 7009558024442050298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_13
+      rect:
+        serializedVersion: 2
+        x: 2790
+        y: 5944
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5eaacd30ce5e13e0800000000000000
+      internalID: -2081121798035165603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_14
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 5944
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6035b04bd707a34d0800000000000000
+      internalID: -3154084903825747194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_15
+      rect:
+        serializedVersion: 2
+        x: 4650
+        y: 5944
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2db5509e7209fc0800000000000000
+      internalID: -3490245829441367363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_16
+      rect:
+        serializedVersion: 2
+        x: 5580
+        y: 5944
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b10bbb9563ebf690800000000000000
+      internalID: -7567204723322060364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_17
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 5944
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393d2aa93324ecfc0800000000000000
+      internalID: -3472765473250946157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_18
+      rect:
+        serializedVersion: 2
+        x: 7440
+        y: 5944
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76e4f3a6b0d4d870800000000000000
+      internalID: 8706813462467372671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_19
+      rect:
+        serializedVersion: 2
+        x: 8370
+        y: 5944
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17df327b4ee77230800000000000000
+      internalID: 3636637231931709212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4458
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd0afcc83f9e2770800000000000000
+      internalID: 8587976605748039088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_21
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 4458
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca156702439cbdf50800000000000000
+      internalID: 6907335679222895020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_22
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 4458
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03c4ed8b40b66cc0800000000000000
+      internalID: -3718090603798150387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_23
+      rect:
+        serializedVersion: 2
+        x: 2790
+        y: 4458
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e5351b33c84e120800000000000000
+      internalID: 2442231051587902995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_24
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 4458
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80a1c75b4aa1c9f0800000000000000
+      internalID: -449891247188762481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_25
+      rect:
+        serializedVersion: 2
+        x: 4650
+        y: 4458
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14b88917461847a0800000000000000
+      internalID: -6392835176425540582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_26
+      rect:
+        serializedVersion: 2
+        x: 5580
+        y: 4458
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ef3b493608a4fd0800000000000000
+      internalID: -2356930289790091712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_27
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 4458
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e53cde76388c680800000000000000
+      internalID: -8734586994891203038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_28
+      rect:
+        serializedVersion: 2
+        x: 7440
+        y: 4458
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de008d5ae4e62600800000000000000
+      internalID: 443293308584726226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_29
+      rect:
+        serializedVersion: 2
+        x: 8370
+        y: 4458
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079eaa0a32f1cec00800000000000000
+      internalID: 931153460838721904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2972
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973aac53af61f0d60800000000000000
+      internalID: 7858525138684912505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_31
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 2972
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87fc2937fd1acf030800000000000000
+      internalID: 3529874189040406392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_32
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 2972
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2552270d55c59790800000000000000
+      internalID: -7523890599110224598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_33
+      rect:
+        serializedVersion: 2
+        x: 2790
+        y: 2972
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30e585fea07f1c70800000000000000
+      internalID: 8943991281726906427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_34
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 2972
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d874ba2343c1000800000000000000
+      internalID: 7938691574500715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_35
+      rect:
+        serializedVersion: 2
+        x: 4650
+        y: 2972
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d103c441169f730800000000000000
+      internalID: 4033361681092451627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_36
+      rect:
+        serializedVersion: 2
+        x: 5580
+        y: 2972
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e205be27853e5c760800000000000000
+      internalID: 7477632725343227950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_37
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 2972
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1ed08aab26eb730800000000000000
+      internalID: 4016756471483982323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_38
+      rect:
+        serializedVersion: 2
+        x: 7440
+        y: 2972
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca01a49a0c6327490800000000000000
+      internalID: -7750071807649378132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_39
+      rect:
+        serializedVersion: 2
+        x: 8370
+        y: 2972
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c40daff46a6e730800000000000000
+      internalID: 4028089779170069592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1486
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634d1387d7587d8f0800000000000000
+      internalID: -515796858376694730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_41
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1486
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751f69045e7c178a0800000000000000
+      internalID: -6309041815524282025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_42
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 1486
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d03e701dde9e3b30800000000000000
+      internalID: 4269024169095475413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_43
+      rect:
+        serializedVersion: 2
+        x: 2790
+        y: 1486
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9251fda9d1d4b1720800000000000000
+      internalID: 2817930781398078761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_44
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 1486
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae76dcbe205e7170800000000000000
+      internalID: 8178062135018290849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_45
+      rect:
+        serializedVersion: 2
+        x: 4650
+        y: 1486
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974713c4f5f65a7a0800000000000000
+      internalID: -6366560043127442311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_46
+      rect:
+        serializedVersion: 2
+        x: 5580
+        y: 1486
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74f14b82d50e7500800000000000000
+      internalID: 395760219092808827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_47
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 1486
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3216ff2514c3e3950800000000000000
+      internalID: 6430643569194656035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_48
+      rect:
+        serializedVersion: 2
+        x: 7440
+        y: 1486
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557343e789f4351d0800000000000000
+      internalID: -3363256980344653995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_49
+      rect:
+        serializedVersion: 2
+        x: 8370
+        y: 1486
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289b4d6c2dd605160800000000000000
+      internalID: 7012225371862251906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db50924fc5a9ef000800000000000000
+      internalID: 71664368108504509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_51
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 0
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7174187cdf672c4f0800000000000000
+      internalID: -809954150627326185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_52
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 0
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16179a1bd69281f80800000000000000
+      internalID: -8135707175735955103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_53
+      rect:
+        serializedVersion: 2
+        x: 2790
+        y: 0
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892a6f6f93ad9d9e0800000000000000
+      internalID: -1596004650434780520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_54
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 0
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe78cb02590aa760800000000000000
+      internalID: 7469793179937046205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_55
+      rect:
+        serializedVersion: 2
+        x: 4650
+        y: 0
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a64470f97253b90800000000000000
+      internalID: -7262855260089849204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_56
+      rect:
+        serializedVersion: 2
+        x: 5580
+        y: 0
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530da42c87247b2f0800000000000000
+      internalID: -957223309369749451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_57
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 0
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960aa7f5934677e30800000000000000
+      internalID: 4501176550157885545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_58
+      rect:
+        serializedVersion: 2
+        x: 7440
+        y: 0
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1b3500f3e28ca20800000000000000
+      internalID: 3082764793058406844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnerSheetSleep_59
+      rect:
+        serializedVersion: 2
+        x: 8370
+        y: 0
+        width: 930
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2899ef62ce1ce10800000000000000
+      internalID: 2216312143867380469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7e9b005c255295641a0de221c7d5999d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

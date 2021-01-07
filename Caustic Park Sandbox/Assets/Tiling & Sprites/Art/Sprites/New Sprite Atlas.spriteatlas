@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: New Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: cf55ad777442abb4e809153bed68a36f, type: 3}
+    totalSpriteSurfaceArea: 25600
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 2060327364507630084, guid: cf55ad777442abb4e809153bed68a36f, type: 3}
+  - {fileID: 2410540197763736299, guid: cf55ad777442abb4e809153bed68a36f, type: 3}
+  - {fileID: 960102634440802135, guid: cf55ad777442abb4e809153bed68a36f, type: 3}
+  - {fileID: 8582660634039101570, guid: cf55ad777442abb4e809153bed68a36f, type: 3}
+  - {fileID: -8869813779501505070, guid: cf55ad777442abb4e809153bed68a36f, type: 3}
+  - {fileID: 2466460459824670691, guid: cf55ad777442abb4e809153bed68a36f, type: 3}
+  - {fileID: 6773698497166663437, guid: cf55ad777442abb4e809153bed68a36f, type: 3}
+  - {fileID: -1369344978120811008, guid: cf55ad777442abb4e809153bed68a36f, type: 3}
+  - {fileID: -4204065494779623796, guid: cf55ad777442abb4e809153bed68a36f, type: 3}
+  - {fileID: 7031005367036571068, guid: cf55ad777442abb4e809153bed68a36f, type: 3}
+  - {fileID: -68117602100348654, guid: cf55ad777442abb4e809153bed68a36f, type: 3}
+  - {fileID: 1306242390138801396, guid: cf55ad777442abb4e809153bed68a36f, type: 3}
+  - {fileID: 1847254432807488519, guid: cf55ad777442abb4e809153bed68a36f, type: 3}
+  - {fileID: -3341140285726035486, guid: cf55ad777442abb4e809153bed68a36f, type: 3}
+  - {fileID: 5454928486123471913, guid: cf55ad777442abb4e809153bed68a36f, type: 3}
+  - {fileID: -4305037266353454665, guid: cf55ad777442abb4e809153bed68a36f, type: 3}
+  - {fileID: -7362279039172543120, guid: cf55ad777442abb4e809153bed68a36f, type: 3}
+  - {fileID: -7905908736381820004, guid: cf55ad777442abb4e809153bed68a36f, type: 3}
+  - {fileID: -186363333839145897, guid: cf55ad777442abb4e809153bed68a36f, type: 3}
+  - {fileID: 2522040498872630606, guid: cf55ad777442abb4e809153bed68a36f, type: 3}
+  - {fileID: 463387662645628034, guid: cf55ad777442abb4e809153bed68a36f, type: 3}
+  - {fileID: -2651042869136470343, guid: cf55ad777442abb4e809153bed68a36f, type: 3}
+  - {fileID: 5096903876275259620, guid: cf55ad777442abb4e809153bed68a36f, type: 3}
+  - {fileID: -7682399204521630292, guid: cf55ad777442abb4e809153bed68a36f, type: 3}
+  - {fileID: -8886759770558573684, guid: cf55ad777442abb4e809153bed68a36f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Outside Tiles_8
+  - Outside Tiles_9
+  - Outside Tiles_2
+  - Outside Tiles_3
+  - Outside Tiles_0
+  - Outside Tiles_1
+  - Outside Tiles_6
+  - Outside Tiles_7
+  - Outside Tiles_4
+  - Outside Tiles_5
+  - Outside Tiles_11
+  - Outside Tiles_10
+  - Outside Tiles_13
+  - Outside Tiles_12
+  - Outside Tiles_15
+  - Outside Tiles_14
+  - Outside Tiles_17
+  - Outside Tiles_16
+  - Outside Tiles_19
+  - Outside Tiles_18
+  - Outside Tiles_20
+  - Outside Tiles_21
+  - Outside Tiles_22
+  - Outside Tiles_23
+  - Outside Tiles_24
+  m_Tag: New Sprite Atlas
+  m_IsVariant: 0

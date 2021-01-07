@@ -139,4 +139,9 @@ public class FOV : MonoBehaviour
     {
         ViewRadius = dist;
     }
+
+    public bool IsPlayerSeen(Transform obj)
+    {
+        return VisiblePlayers.Contains(obj);
+    }
 }

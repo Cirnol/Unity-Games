@@ -1,0 +1,1546 @@
+fileFormatVersion: 2
+guid: 72051bfc5151667449524f0aafb3f711
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2468400341758578300
+    second: GruntAttackLeft_0
+  - first:
+      213: 5550867425784295332
+    second: GruntAttackLeft_1
+  - first:
+      213: -6820741000565064395
+    second: GruntAttackLeft_2
+  - first:
+      213: -2476303464699699503
+    second: GruntAttackLeft_3
+  - first:
+      213: -473583121212461594
+    second: GruntAttackLeft_4
+  - first:
+      213: 2090477360855720512
+    second: GruntAttackLeft_5
+  - first:
+      213: -6037237251486558989
+    second: GruntAttackLeft_6
+  - first:
+      213: -4396043955110612191
+    second: GruntAttackLeft_7
+  - first:
+      213: -3769026720332976198
+    second: GruntAttackLeft_8
+  - first:
+      213: 1825170984226941623
+    second: GruntAttackLeft_9
+  - first:
+      213: 7342010491995372317
+    second: GruntAttackLeft_10
+  - first:
+      213: -1216217389905037977
+    second: GruntAttackLeft_11
+  - first:
+      213: -9005490766811439441
+    second: GruntAttackLeft_12
+  - first:
+      213: 5050464897497469153
+    second: GruntAttackLeft_13
+  - first:
+      213: -7774487052608227183
+    second: GruntAttackLeft_14
+  - first:
+      213: -1231271079793145146
+    second: GruntAttackLeft_15
+  - first:
+      213: 8164966325375734451
+    second: GruntAttackLeft_16
+  - first:
+      213: -7879943499004773994
+    second: GruntAttackLeft_17
+  - first:
+      213: -4425529168502161289
+    second: GruntAttackLeft_18
+  - first:
+      213: -4462923271329169017
+    second: GruntAttackLeft_19
+  - first:
+      213: 7107740229437380602
+    second: GruntAttackLeft_20
+  - first:
+      213: 1525712996525012871
+    second: GruntAttackLeft_21
+  - first:
+      213: 8185008060918101991
+    second: GruntAttackLeft_22
+  - first:
+      213: -6136673605831296748
+    second: GruntAttackLeft_23
+  - first:
+      213: 6172575221405092947
+    second: GruntAttackLeft_24
+  - first:
+      213: -3043859566379889800
+    second: GruntAttackLeft_25
+  - first:
+      213: -1665659808420599565
+    second: GruntAttackLeft_26
+  - first:
+      213: -3979374736336951264
+    second: GruntAttackLeft_27
+  - first:
+      213: 8500773013123546079
+    second: GruntAttackLeft_28
+  - first:
+      213: 8084881057533007308
+    second: GruntAttackLeft_29
+  - first:
+      213: -9165254847208198588
+    second: GruntAttackLeft_30
+  - first:
+      213: -5627029041553834418
+    second: GruntAttackLeft_31
+  - first:
+      213: -2072646596345107365
+    second: GruntAttackLeft_32
+  - first:
+      213: -6582835148430165645
+    second: GruntAttackLeft_33
+  - first:
+      213: 6794736410704169922
+    second: GruntAttackLeft_34
+  - first:
+      213: -4752013677529585770
+    second: GruntAttackLeft_35
+  - first:
+      213: -6925188369091977622
+    second: GruntAttackLeft_36
+  - first:
+      213: -65573628134255742
+    second: GruntAttackLeft_37
+  - first:
+      213: 3648971977447554555
+    second: GruntAttackLeft_38
+  - first:
+      213: -8553483624076525414
+    second: GruntAttackLeft_39
+  - first:
+      213: -9095624858572993088
+    second: GruntAttackLeft_40
+  - first:
+      213: -8642841044073762561
+    second: GruntAttackLeft_41
+  - first:
+      213: 7144233874737317653
+    second: GruntAttackLeft_42
+  - first:
+      213: -8741057042653689618
+    second: GruntAttackLeft_43
+  - first:
+      213: 2266759788093276300
+    second: GruntAttackLeft_44
+  - first:
+      213: 601547090290037242
+    second: GruntAttackLeft_45
+  - first:
+      213: 7938027945994005899
+    second: GruntAttackLeft_46
+  - first:
+      213: -6293781571879238167
+    second: GruntAttackLeft_47
+  - first:
+      213: 7724204433253794526
+    second: GruntAttackLeft_48
+  - first:
+      213: 4568581960946145831
+    second: GruntAttackLeft_49
+  - first:
+      213: -7737538146612716969
+    second: GruntAttackLeft_50
+  - first:
+      213: 7776603846236718785
+    second: GruntAttackLeft_51
+  - first:
+      213: -8058873914437771190
+    second: GruntAttackLeft_52
+  - first:
+      213: -8396596790120903010
+    second: GruntAttackLeft_53
+  - first:
+      213: -2289554098423476843
+    second: GruntAttackLeft_54
+  - first:
+      213: -5499778280327981693
+    second: GruntAttackLeft_55
+  - first:
+      213: -3170551838158111393
+    second: GruntAttackLeft_56
+  - first:
+      213: -5475548573441396977
+    second: GruntAttackLeft_57
+  - first:
+      213: -1793098811135933106
+    second: GruntAttackLeft_58
+  - first:
+      213: -3208502286959887855
+    second: GruntAttackLeft_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GruntAttackLeft_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2025
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e09fd5805814220800000000000000
+      internalID: 2468400341758578300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_1
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 2025
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afe8259384a80d40800000000000000
+      internalID: 5550867425784295332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_2
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 2025
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d7064a23cd751a0800000000000000
+      internalID: -6820741000565064395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_3
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 2025
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de518e6e1762add0800000000000000
+      internalID: -2476303464699699503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_4
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 2025
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eda28019ae7d69f0800000000000000
+      internalID: -473583121212461594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_5
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 2025
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0422dc8751ed20d10800000000000000
+      internalID: 2090477360855720512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_6
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 2025
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f45368d4bc673ca0800000000000000
+      internalID: -6037237251486558989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_7
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 2025
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123f0a6605d1ef2c0800000000000000
+      internalID: -4396043955110612191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_8
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 2025
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfe891ca2ab1bbc0800000000000000
+      internalID: -3769026720332976198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_9
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 2025
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba6239075f445910800000000000000
+      internalID: 1825170984226941623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1620
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b339094af04e560800000000000000
+      internalID: 7342010491995372317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_11
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1620
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765be094ab02f1fe0800000000000000
+      internalID: -1216217389905037977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_12
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1620
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faed4285cd1160380800000000000000
+      internalID: -9005490766811439441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_13
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1620
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e09ae5d01bd61640800000000000000
+      internalID: 5050464897497469153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_14
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1620
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198b96677397b1490800000000000000
+      internalID: -7774487052608227183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_15
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 1620
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cac7baf975a9eee0800000000000000
+      internalID: -1231271079793145146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_16
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 1620
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b21c03fc99cf4170800000000000000
+      internalID: 8164966325375734451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_17
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 1620
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699fbab2321d4a290800000000000000
+      internalID: -7879943499004773994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_18
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 1620
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7708c403bac5592c0800000000000000
+      internalID: -4425529168502161289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_19
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 1620
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781c9982ee28012c0800000000000000
+      internalID: -4462923271329169017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1215
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af75e5b8414c3a260800000000000000
+      internalID: 7107740229437380602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_21
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1215
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787f11303eb6c2510800000000000000
+      internalID: 1525712996525012871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_22
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1215
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e77bb2277df69170800000000000000
+      internalID: 8185008060918101991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_23
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1215
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419f8e57ed726daa0800000000000000
+      internalID: -6136673605831296748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_24
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1215
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c8a3dc57469a550800000000000000
+      internalID: 6172575221405092947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_25
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 1215
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b80c7f9d902c5d0800000000000000
+      internalID: -3043859566379889800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_26
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 1215
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8e172ba3362e8e0800000000000000
+      internalID: -1665659808420599565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_27
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 1215
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028e87cc2cb66c8c0800000000000000
+      internalID: -3979374736336951264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_28
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 1215
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbb4733400d8f570800000000000000
+      internalID: 8500773013123546079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_29
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 1215
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc51a8d7c74433070800000000000000
+      internalID: 8084881057533007308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 810
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e6a3ca6497ec080800000000000000
+      internalID: -9165254847208198588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_31
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 810
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e706566e6c8e1b0800000000000000
+      internalID: -5627029041553834418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_32
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 810
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c6de7e6ea7c33e0800000000000000
+      internalID: -2072646596345107365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_33
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 810
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3793dd25f4215a4a0800000000000000
+      internalID: -6582835148430165645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_34
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 810
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb4f66f3c0cb4e50800000000000000
+      internalID: 6794736410704169922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_35
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 810
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6972d0fccb47d0eb0800000000000000
+      internalID: -4752013677529585770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_36
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 810
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e1b999ed9c4ef90800000000000000
+      internalID: -6925188369091977622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_37
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 810
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2839c64f129071ff0800000000000000
+      internalID: -65573628134255742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_38
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 810
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfdbd1f2ea0c3a230800000000000000
+      internalID: 3648971977447554555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_39
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 810
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a904cc256fbeb4980800000000000000
+      internalID: -8553483624076525414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 405
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd4b8eb169d5c180800000000000000
+      internalID: -9095624858572993088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_41
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 405
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff031d5bcd57e0880800000000000000
+      internalID: -8642841044073762561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_42
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 405
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517c7087bda652360800000000000000
+      internalID: 7144233874737317653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_43
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 405
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8433b8ee681b680800000000000000
+      internalID: -8741057042653689618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_44
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 405
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8080787406257f10800000000000000
+      internalID: 2266759788093276300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_45
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 405
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1586834ef195800800000000000000
+      internalID: 601547090290037242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_46
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 405
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8da8120c5a892e60800000000000000
+      internalID: 7938027945994005899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_47
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 405
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e50d3a910ff7a8a0800000000000000
+      internalID: -6293781571879238167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_48
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 405
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed20798e103e13b60800000000000000
+      internalID: 7724204433253794526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_49
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 405
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ad37d861dd66f30800000000000000
+      internalID: 4568581960946145831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a5d170d0ebe9490800000000000000
+      internalID: -7737538146612716969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_51
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 0
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c640e5fefb0ceb60800000000000000
+      internalID: 7776603846236718785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_52
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 0
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4066406fd0292090800000000000000
+      internalID: -8058873914437771190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_53
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 0
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e88aad4bb497b80800000000000000
+      internalID: -8396596790120903010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_54
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 0
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59dcd659daed930e0800000000000000
+      internalID: -2289554098423476843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_55
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 0
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38554a90bccdca3b0800000000000000
+      internalID: -5499778280327981693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_56
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 0
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5dbf98c6efeff3d0800000000000000
+      internalID: -3170551838158111393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_57
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 0
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fe0a94591f204b0800000000000000
+      internalID: -5475548573441396977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_58
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 0
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45411ba122ad17e0800000000000000
+      internalID: -1793098811135933106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntAttackLeft_59
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 0
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a3abc5b2c1973d0800000000000000
+      internalID: -3208502286959887855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0b614dc8bcf7ee045a5a72a2575be972
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

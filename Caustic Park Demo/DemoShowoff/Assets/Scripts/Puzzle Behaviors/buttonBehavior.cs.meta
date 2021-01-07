@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 1376023e4350714499af434676aba560
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - theWorld: {instanceID: 0}
+  - offSprite: {fileID: -7433873336142197696, guid: 3669cfc857bb1374c8d5b75a22e048e5, type: 3}
+  - sensingSprite: {fileID: 1340349417853299823, guid: 3669cfc857bb1374c8d5b75a22e048e5, type: 3}
+  - onSprite: {fileID: -1558265292034072449, guid: 3669cfc857bb1374c8d5b75a22e048e5, type: 3}
+  - waitingSprite: {fileID: -3817755858421969203, guid: 3669cfc857bb1374c8d5b75a22e048e5, type: 3}
+  - myFriend: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2098 @@
+fileFormatVersion: 2
+guid: 784f96652b9091f45a91ee6ee51c1575
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5536429835617285207
+    second: GruntWalkDown_0
+  - first:
+      213: 4790932653150455027
+    second: GruntWalkDown_1
+  - first:
+      213: -1892264816780211577
+    second: GruntWalkDown_2
+  - first:
+      213: -4558221292048684940
+    second: GruntWalkDown_3
+  - first:
+      213: 8363831738546105596
+    second: GruntWalkDown_4
+  - first:
+      213: 6520517200629224031
+    second: GruntWalkDown_5
+  - first:
+      213: -214746042097247406
+    second: GruntWalkDown_6
+  - first:
+      213: 7268653502150712285
+    second: GruntWalkDown_7
+  - first:
+      213: -3736499814336052041
+    second: GruntWalkDown_8
+  - first:
+      213: -563439684983011301
+    second: GruntWalkDown_9
+  - first:
+      213: -7828082290047605635
+    second: GruntWalkDown_10
+  - first:
+      213: -7015190618847191871
+    second: GruntWalkDown_11
+  - first:
+      213: -1056128597222827102
+    second: GruntWalkDown_12
+  - first:
+      213: -8898433558850345758
+    second: GruntWalkDown_13
+  - first:
+      213: -2607868694375289022
+    second: GruntWalkDown_14
+  - first:
+      213: 6847577025669944124
+    second: GruntWalkDown_15
+  - first:
+      213: 3808659802163794036
+    second: GruntWalkDown_16
+  - first:
+      213: -3527445225421283097
+    second: GruntWalkDown_17
+  - first:
+      213: -3147845357609776330
+    second: GruntWalkDown_18
+  - first:
+      213: 4024190945585862080
+    second: GruntWalkDown_19
+  - first:
+      213: 4627488825608413314
+    second: GruntWalkDown_20
+  - first:
+      213: 5334516061940516615
+    second: GruntWalkDown_21
+  - first:
+      213: 244032298423466914
+    second: GruntWalkDown_22
+  - first:
+      213: 4811485758512726267
+    second: GruntWalkDown_23
+  - first:
+      213: 8455673940920406484
+    second: GruntWalkDown_24
+  - first:
+      213: -6541038876342953348
+    second: GruntWalkDown_25
+  - first:
+      213: 4717842683116499087
+    second: GruntWalkDown_26
+  - first:
+      213: -7690091252302786279
+    second: GruntWalkDown_27
+  - first:
+      213: 2348104987824578266
+    second: GruntWalkDown_28
+  - first:
+      213: 3897090182158774818
+    second: GruntWalkDown_29
+  - first:
+      213: 980806924716342451
+    second: GruntWalkDown_30
+  - first:
+      213: 5443623681449052268
+    second: GruntWalkDown_31
+  - first:
+      213: -1283817318612625244
+    second: GruntWalkDown_32
+  - first:
+      213: 2686385257564481896
+    second: GruntWalkDown_33
+  - first:
+      213: 6937255555930382181
+    second: GruntWalkDown_34
+  - first:
+      213: -8165013849505308795
+    second: GruntWalkDown_35
+  - first:
+      213: 4071846338204119282
+    second: GruntWalkDown_36
+  - first:
+      213: 8120034510763233894
+    second: GruntWalkDown_37
+  - first:
+      213: -7715143030270971037
+    second: GruntWalkDown_38
+  - first:
+      213: 739925009991202601
+    second: GruntWalkDown_39
+  - first:
+      213: 2516765234966451725
+    second: GruntWalkDown_40
+  - first:
+      213: -498180506253952629
+    second: GruntWalkDown_41
+  - first:
+      213: 3450620030684495053
+    second: GruntWalkDown_42
+  - first:
+      213: 4806863062009689179
+    second: GruntWalkDown_43
+  - first:
+      213: -2348835966743780546
+    second: GruntWalkDown_44
+  - first:
+      213: 1341102986841150079
+    second: GruntWalkDown_45
+  - first:
+      213: 6994732429306406249
+    second: GruntWalkDown_46
+  - first:
+      213: 1503182246231431121
+    second: GruntWalkDown_47
+  - first:
+      213: -1313584206525818365
+    second: GruntWalkDown_48
+  - first:
+      213: 3730589069383671322
+    second: GruntWalkDown_49
+  - first:
+      213: 4792633803296670939
+    second: GruntWalkDown_50
+  - first:
+      213: -2012527137367476918
+    second: GruntWalkDown_51
+  - first:
+      213: 930696181242768248
+    second: GruntWalkDown_52
+  - first:
+      213: -4301651280676059102
+    second: GruntWalkDown_53
+  - first:
+      213: -8497419552109382427
+    second: GruntWalkDown_54
+  - first:
+      213: -3433670080149722541
+    second: GruntWalkDown_55
+  - first:
+      213: -8988723286710390016
+    second: GruntWalkDown_56
+  - first:
+      213: -2076589485032571793
+    second: GruntWalkDown_57
+  - first:
+      213: -7340915758979225127
+    second: GruntWalkDown_58
+  - first:
+      213: 6467868169015461914
+    second: GruntWalkDown_59
+  - first:
+      213: 4785194620194274446
+    second: GruntWalkDown_60
+  - first:
+      213: -315402436246355869
+    second: GruntWalkDown_61
+  - first:
+      213: -4116164299039663625
+    second: GruntWalkDown_62
+  - first:
+      213: -2891343308190193631
+    second: GruntWalkDown_63
+  - first:
+      213: -7111620496375389441
+    second: GruntWalkDown_64
+  - first:
+      213: 8435400762884630106
+    second: GruntWalkDown_65
+  - first:
+      213: -4713263867707057715
+    second: GruntWalkDown_66
+  - first:
+      213: -8740614698075069411
+    second: GruntWalkDown_67
+  - first:
+      213: 6769916216058833792
+    second: GruntWalkDown_68
+  - first:
+      213: -6806884361306675976
+    second: GruntWalkDown_69
+  - first:
+      213: -8478077439201808925
+    second: GruntWalkDown_0
+  - first:
+      213: 4992044303076050258
+    second: GruntWalkDown_1
+  - first:
+      213: -3090067473717393607
+    second: GruntWalkDown_2
+  - first:
+      213: -5371957283199849163
+    second: GruntWalkDown_3
+  - first:
+      213: 8196480646046257720
+    second: GruntWalkDown_4
+  - first:
+      213: 5010823785037598938
+    second: GruntWalkDown_5
+  - first:
+      213: -3186470115382558320
+    second: GruntWalkDown_6
+  - first:
+      213: 1737277925452344902
+    second: GruntWalkDown_7
+  - first:
+      213: -4194391764247976697
+    second: GruntWalkDown_8
+  - first:
+      213: 7298573970187512421
+    second: GruntWalkDown_9
+  - first:
+      213: 428600503058223512
+    second: GruntWalkDown_10
+  - first:
+      213: -4013323614252126622
+    second: GruntWalkDown_11
+  - first:
+      213: -2158288375206732583
+    second: GruntWalkDown_12
+  - first:
+      213: -6696710018254385295
+    second: GruntWalkDown_13
+  - first:
+      213: 339676543335535588
+    second: GruntWalkDown_14
+  - first:
+      213: -7785830699370564835
+    second: GruntWalkDown_15
+  - first:
+      213: 8191614409758083778
+    second: GruntWalkDown_16
+  - first:
+      213: -6701319742825081785
+    second: GruntWalkDown_17
+  - first:
+      213: 1678014962354817025
+    second: GruntWalkDown_18
+  - first:
+      213: -4399048471265819469
+    second: GruntWalkDown_19
+  - first:
+      213: -4775848764336715310
+    second: GruntWalkDown_20
+  - first:
+      213: -858200415843986262
+    second: GruntWalkDown_21
+  - first:
+      213: 5541813317843860321
+    second: GruntWalkDown_22
+  - first:
+      213: -3359072421074397455
+    second: GruntWalkDown_23
+  - first:
+      213: -8636502290527648114
+    second: GruntWalkDown_24
+  - first:
+      213: 51449301623919457
+    second: GruntWalkDown_25
+  - first:
+      213: 1807028769749450057
+    second: GruntWalkDown_26
+  - first:
+      213: 5193539321540662527
+    second: GruntWalkDown_27
+  - first:
+      213: -6576606509371200065
+    second: GruntWalkDown_28
+  - first:
+      213: -6079114624713311723
+    second: GruntWalkDown_29
+  - first:
+      213: -4553645932019076877
+    second: GruntWalkDown_30
+  - first:
+      213: 4775103247346786280
+    second: GruntWalkDown_31
+  - first:
+      213: -2973358455959260214
+    second: GruntWalkDown_32
+  - first:
+      213: -3013472724030109410
+    second: GruntWalkDown_33
+  - first:
+      213: -6742445814919544360
+    second: GruntWalkDown_34
+  - first:
+      213: 4762117882675597642
+    second: GruntWalkDown_35
+  - first:
+      213: -634523800717736455
+    second: GruntWalkDown_36
+  - first:
+      213: -6349838190558624911
+    second: GruntWalkDown_37
+  - first:
+      213: -1121499149157733901
+    second: GruntWalkDown_38
+  - first:
+      213: 8622477841088327802
+    second: GruntWalkDown_39
+  - first:
+      213: -4578744203199646694
+    second: GruntWalkDown_40
+  - first:
+      213: -4794824696738737542
+    second: GruntWalkDown_41
+  - first:
+      213: -5224535202335372594
+    second: GruntWalkDown_42
+  - first:
+      213: -8220805660485095551
+    second: GruntWalkDown_43
+  - first:
+      213: -5421063463493093871
+    second: GruntWalkDown_44
+  - first:
+      213: 4661384901216945369
+    second: GruntWalkDown_45
+  - first:
+      213: -5551775242369477567
+    second: GruntWalkDown_46
+  - first:
+      213: 8347039874880892255
+    second: GruntWalkDown_47
+  - first:
+      213: -4642319165474464512
+    second: GruntWalkDown_48
+  - first:
+      213: -4556225564142675245
+    second: GruntWalkDown_49
+  - first:
+      213: 2064694498305704612
+    second: GruntWalkDown_50
+  - first:
+      213: -8310914793757819976
+    second: GruntWalkDown_51
+  - first:
+      213: -8944445729453182948
+    second: GruntWalkDown_52
+  - first:
+      213: 6672610989283298090
+    second: GruntWalkDown_53
+  - first:
+      213: -2650193485283505994
+    second: GruntWalkDown_54
+  - first:
+      213: -3129658487830900169
+    second: GruntWalkDown_55
+  - first:
+      213: -9152417826788425757
+    second: GruntWalkDown_56
+  - first:
+      213: 4762602740522743863
+    second: GruntWalkDown_57
+  - first:
+      213: 381661719171795135
+    second: GruntWalkDown_58
+  - first:
+      213: -6943332870091988631
+    second: GruntWalkDown_59
+  - first:
+      213: -6307360555108180335
+    second: GruntWalkDown_60
+  - first:
+      213: 5244054851560116589
+    second: GruntWalkDown_61
+  - first:
+      213: 82651670064222320
+    second: GruntWalkDown_62
+  - first:
+      213: -3028531304059766218
+    second: GruntWalkDown_63
+  - first:
+      213: 1838661325049096050
+    second: GruntWalkDown_64
+  - first:
+      213: 5072376926145426486
+    second: GruntWalkDown_65
+  - first:
+      213: -7740123674860952193
+    second: GruntWalkDown_66
+  - first:
+      213: 6975970705862522771
+    second: GruntWalkDown_67
+  - first:
+      213: 6207287333354630322
+    second: GruntWalkDown_68
+  - first:
+      213: 4633044397569936172
+    second: GruntWalkDown_69
+  - first:
+      213: -7158923414139749272
+    second: GruntWalkDown_70
+  - first:
+      213: -3652749505529173181
+    second: GruntWalkDown_71
+  - first:
+      213: -473878980475128596
+    second: GruntWalkDown_72
+  - first:
+      213: -3487162117094852409
+    second: GruntWalkDown_73
+  - first:
+      213: 872329756768957017
+    second: GruntWalkDown_74
+  - first:
+      213: 2584991564798343396
+    second: GruntWalkDown_75
+  - first:
+      213: -6179224509710271847
+    second: GruntWalkDown_76
+  - first:
+      213: 3144394461504929206
+    second: GruntWalkDown_77
+  - first:
+      213: -7867755772507059364
+    second: GruntWalkDown_78
+  - first:
+      213: -4255005576076771841
+    second: GruntWalkDown_79
+  - first:
+      213: -68732938278121099
+    second: GruntWalkDown_80
+  - first:
+      213: 3228483580969844916
+    second: GruntWalkDown_81
+  - first:
+      213: -3688312803517259804
+    second: GruntWalkDown_82
+  - first:
+      213: 767415537932847895
+    second: GruntWalkDown_83
+  - first:
+      213: 5270948991067472506
+    second: GruntWalkDown_84
+  - first:
+      213: 985073441392320438
+    second: GruntWalkDown_85
+  - first:
+      213: -477340924961040338
+    second: GruntWalkDown_86
+  - first:
+      213: -2419064186943841877
+    second: GruntWalkDown_87
+  - first:
+      213: 2509652405736859344
+    second: GruntWalkDown_88
+  - first:
+      213: -3330870670697914386
+    second: GruntWalkDown_89
+  - first:
+      213: -3091479073853974332
+    second: GruntWalkDown_90
+  - first:
+      213: -5418304454669862802
+    second: GruntWalkDown_91
+  - first:
+      213: -8220953170008668942
+    second: GruntWalkDown_92
+  - first:
+      213: 1912155864361772358
+    second: GruntWalkDown_93
+  - first:
+      213: 8377068118223574579
+    second: GruntWalkDown_94
+  - first:
+      213: -6876982639864661116
+    second: GruntWalkDown_95
+  - first:
+      213: 7105919371969468588
+    second: GruntWalkDown_96
+  - first:
+      213: 7172991482024889032
+    second: GruntWalkDown_97
+  - first:
+      213: -8024007686696455337
+    second: GruntWalkDown_98
+  - first:
+      213: -470619508940515424
+    second: GruntWalkDown_99
+  - first:
+      213: -5872039664350567820
+    second: GruntWalkDown_100
+  - first:
+      213: 8811039622869777920
+    second: GruntWalkDown_101
+  - first:
+      213: 2518302271925253945
+    second: GruntWalkDown_102
+  - first:
+      213: 6394263053377118722
+    second: GruntWalkDown_103
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GruntWalkDown_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2226
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed6f12ec71d75a80800000000000000
+      internalID: -8478077439201808925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_1
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 2226
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2554cdb38dd474540800000000000000
+      internalID: 4992044303076050258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_2
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 2226
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93706192100ed15d0800000000000000
+      internalID: -3090067473717393607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_3
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 2226
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53dec421059f275b0800000000000000
+      internalID: -5371957283199849163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_4
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 2226
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83293f388bfbfb170800000000000000
+      internalID: 8196480646046257720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_5
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 2226
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad09e3b1fa50a8540800000000000000
+      internalID: 5010823785037598938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_6
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 2226
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091893d005267c3d0800000000000000
+      internalID: -3186470115382558320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_7
+      rect:
+        serializedVersion: 2
+        x: 2891
+        y: 2226
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ee6b6911d0c1810800000000000000
+      internalID: 1737277925452344902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_8
+      rect:
+        serializedVersion: 2
+        x: 3304
+        y: 2226
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705ec2bc9e68ac5c0800000000000000
+      internalID: -4194391764247976697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_9
+      rect:
+        serializedVersion: 2
+        x: 3717
+        y: 2226
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a60fb3b5eb94560800000000000000
+      internalID: 7298573970187512421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1855
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891d65ff2e1b2f500800000000000000
+      internalID: 428600503058223512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_11
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1855
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ea0d3bf6fcd48c0800000000000000
+      internalID: -4013323614252126622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_12
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1855
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc92f868283c02e0800000000000000
+      internalID: -2158288375206732583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_13
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1855
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fc52618b18013a0800000000000000
+      internalID: -6696710018254385295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_14
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 1855
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e31c083406c6b400800000000000000
+      internalID: 339676543335535588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_15
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 1855
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13bfa2ea3c23f390800000000000000
+      internalID: -7785830699370564835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_16
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 1855
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca0a9697e57ea170800000000000000
+      internalID: 8191614409758083778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_17
+      rect:
+        serializedVersion: 2
+        x: 2891
+        y: 1855
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7445992f2312003a0800000000000000
+      internalID: -6701319742825081785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_18
+      rect:
+        serializedVersion: 2
+        x: 3304
+        y: 1855
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10803feb7b1894710800000000000000
+      internalID: 1678014962354817025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_19
+      rect:
+        serializedVersion: 2
+        x: 3717
+        y: 1855
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4c978f8b073f2c0800000000000000
+      internalID: -4399048471265819469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1484
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9c8b43ad6c8bdb0800000000000000
+      internalID: -4775848764336715310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_21
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1484
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4d68bc44f0714f0800000000000000
+      internalID: -858200415843986262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_22
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1484
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16bbc9dc9d978ec40800000000000000
+      internalID: 5541813317843860321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_23
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1484
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f69c0f1e6d2261d0800000000000000
+      internalID: -3359072421074397455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_24
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 1484
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e868047cceaf42880800000000000000
+      internalID: -8636502290527648114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_25
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 1484
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1635c330ed8c6b000800000000000000
+      internalID: 51449301623919457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_26
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 1484
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94db3df871bd31910800000000000000
+      internalID: 1807028769749450057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_27
+      rect:
+        serializedVersion: 2
+        x: 2891
+        y: 1484
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff454731f78231840800000000000000
+      internalID: 5193539321540662527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_28
+      rect:
+        serializedVersion: 2
+        x: 3304
+        y: 1484
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd686d59333bb4a0800000000000000
+      internalID: -6576606509371200065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_29
+      rect:
+        serializedVersion: 2
+        x: 3717
+        y: 1484
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ab4151575a2aba0800000000000000
+      internalID: -6079114624713311723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1113
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0b91da6233ec0c0800000000000000
+      internalID: -4553645932019076877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_31
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1113
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef5be79a13944240800000000000000
+      internalID: 4775103247346786280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_32
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1113
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3f4a2ec328cb6d0800000000000000
+      internalID: -2973358455959260214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_33
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1113
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e194bd7068efd26d0800000000000000
+      internalID: -3013472724030109410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_34
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 1113
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1c66c11450e62a0800000000000000
+      internalID: -6742445814919544360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_35
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 1113
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a411a67cbf0761240800000000000000
+      internalID: 4762117882675597642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_36
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 1113
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f540b017f7b137f0800000000000000
+      internalID: -634523800717736455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_37
+      rect:
+        serializedVersion: 2
+        x: 2891
+        y: 1113
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1734b8efec7d0e7a0800000000000000
+      internalID: -6349838190558624911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_38
+      rect:
+        serializedVersion: 2
+        x: 3304
+        y: 1113
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9ec8e3772af60f0800000000000000
+      internalID: -1121499149157733901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_39
+      rect:
+        serializedVersion: 2
+        x: 3717
+        y: 1113
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a703fb1a9e139a770800000000000000
+      internalID: 8622477841088327802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 742
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14f7ea08680570c0800000000000000
+      internalID: -4578744203199646694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_41
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 742
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a721e96a75c557db0800000000000000
+      internalID: -4794824696738737542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_42
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 742
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecac64c0ae8be77b0800000000000000
+      internalID: -5224535202335372594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_43
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 742
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18fe347bec4d9ed80800000000000000
+      internalID: -8220805660485095551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_44
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 742
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11635a1808384c4b0800000000000000
+      internalID: -5421063463493093871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_45
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 742
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4c76eded090b040800000000000000
+      internalID: 4661384901216945369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_46
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 742
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14452c5e4d124f2b0800000000000000
+      internalID: -5551775242369477567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_47
+      rect:
+        serializedVersion: 2
+        x: 2891
+        y: 742
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5deb4caa84a6d370800000000000000
+      internalID: 8347039874880892255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_48
+      rect:
+        serializedVersion: 2
+        x: 3304
+        y: 742
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d18e7a05b239fb0800000000000000
+      internalID: -4642319165474464512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_49
+      rect:
+        serializedVersion: 2
+        x: 3717
+        y: 742
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dad8b44df805c0c0800000000000000
+      internalID: -4556225564142675245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 371
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2073df4b447ac10800000000000000
+      internalID: 2064694498305704612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_51
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 371
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbb6873703b9ac80800000000000000
+      internalID: -8310914793757819976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_52
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 371
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10fe2faff1fed380800000000000000
+      internalID: -8944445729453182948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_53
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 371
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b499c7750e99c50800000000000000
+      internalID: 6672610989283298090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_54
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 371
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b84f93011f983bd0800000000000000
+      internalID: -2650193485283505994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_55
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 371
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7329d8cdf283194d0800000000000000
+      internalID: -3129658487830900169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_56
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 371
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efb2566a741cf080800000000000000
+      internalID: -9152417826788425757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_57
+      rect:
+        serializedVersion: 2
+        x: 2891
+        y: 371
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738f82b85f9281240800000000000000
+      internalID: 4762602740522743863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_58
+      rect:
+        serializedVersion: 2
+        x: 3304
+        y: 371
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8899bbf4feb4500800000000000000
+      internalID: 381661719171795135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_59
+      rect:
+        serializedVersion: 2
+        x: 3717
+        y: 371
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961afd0ca8354af90800000000000000
+      internalID: -6943332870091988631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e57723ef0c778a0800000000000000
+      internalID: -6307360555108180335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_61
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 0
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6197e17a10a6c840800000000000000
+      internalID: 5244054851560116589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_62
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 0
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070554a8143a52100800000000000000
+      internalID: 82651670064222320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_63
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 0
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63afd5623de78f5d0800000000000000
+      internalID: -3028531304059766218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_64
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 0
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277ecc5cbbc348910800000000000000
+      internalID: 1838661325049096050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_65
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 0
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63439c190f3b46640800000000000000
+      internalID: 5072376926145426486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_66
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 0
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f756252d68e859490800000000000000
+      internalID: -7740123674860952193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_67
+      rect:
+        serializedVersion: 2
+        x: 2891
+        y: 0
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397777e8560afc060800000000000000
+      internalID: 6975970705862522771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_68
+      rect:
+        serializedVersion: 2
+        x: 3304
+        y: 0
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc626b21f6b42650800000000000000
+      internalID: 6207287333354630322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntWalkDown_69
+      rect:
+        serializedVersion: 2
+        x: 3717
+        y: 0
+        width: 413
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b05c92551eb4040800000000000000
+      internalID: 4633044397569936172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

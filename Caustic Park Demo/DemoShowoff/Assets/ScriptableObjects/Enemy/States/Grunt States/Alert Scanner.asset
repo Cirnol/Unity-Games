@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01a2c9dffa70e804c811f5609b342970, type: 3}
+  m_Name: Alert Scanner
+  m_EditorClassIdentifier: 
+  actions: []
+  transitions:
+  - decision: {fileID: 11400000, guid: 5f36bf06ebc43ae4c89191d6f1c1a3bc, type: 2}
+    trueState: {fileID: 11400000, guid: 359204ee28a788648b54d24018f35415, type: 2}
+    falseState: {fileID: 11400000, guid: 629a64ee6fc7a5d41a4d59ea99fc7d80, type: 2}
+  - decision: {fileID: 11400000, guid: ceff92364812db6459690d967ae053e5, type: 2}
+    trueState: {fileID: 11400000, guid: 28a17b5dad674144eb8ff180543ee93c, type: 2}
+    falseState: {fileID: 11400000, guid: 629a64ee6fc7a5d41a4d59ea99fc7d80, type: 2}
